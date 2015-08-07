@@ -158,7 +158,6 @@ public class TvMenuView extends LinearLayout
 	public String getCurMenuName(){
 		String curValue = LogicTextResource.getInstance(context).getText(R.string.str_common);
 		TvEnumInputSource curSource = TvPluginControler.getInstance().getCommonManager().getCurrentInputSource();
-		Log.i("gky", getClass().getName() + "----> curSource is "+curSource.toString());
 		switch (curSource) {
 		case E_INPUT_SOURCE_ATV:
 			curValue = "ATV";
@@ -169,7 +168,6 @@ public class TvMenuView extends LinearLayout
 			}
 			else {
 				int curDtvRoute = TvPluginControler.getInstance().getCommonManager().getCurrentDtvRoute();
-				Log.v("zhm","MAIN_MENU curDtvRoute == " + curDtvRoute);
 				if(curDtvRoute == TvConfigTypes.TV_ROUTE_DVBS
 						|| curDtvRoute == TvConfigTypes.TV_ROUTE_DVBS2)
 				{
