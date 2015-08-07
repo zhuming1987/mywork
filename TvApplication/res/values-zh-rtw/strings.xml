@@ -1,0 +1,708 @@
+<resources>
+
+    <string name="app_name">Tv Application</string>
+
+    <string name="button_ok_str">Yes</string>
+<string name="button_cancel_str"></string>
+
+    <string name="TV_CFG_ON_MODE">ON</string>
+    <string name="TV_CFG_OFF_MODE">OFF</string>
+
+<string name="TV_CFG_QUICK_MENU_SETTING"></string>
+
+<string name="TV_CFG_NO_SIGNAL">無信號</string>
+
+<!-- 3D -->
+    <string name="TV_CFG_THREED_SETTING">3D Setting</string>
+    <string name="TV_CFG_3D_MODE">3D Mode</string>
+    <string name="TV_CFG_3D_MODE_OFF">OFF</string>
+    <string name="TV_CFG_3D_MODE_AUTO">Auto</string>
+    <string name="TV_CFG_3D_MODE_2D_TO_3D">2D To 3D</string>
+    <string name="TV_CFG_3D_MODE_SIDE_BY_SIDE">Left To Right</string>
+    <string name="TV_CFG_3D_MODE_TOP_AND_BOTTOM">Top To Bottom</string>
+<string name="TV_CFG_3D_MODE_FRAME_PACKING"></string>
+<string name="TV_CFG_3D_DEPTH"></string>
+<string name="TV_CFG_3D_LR_SWAP"></string>
+    <string name="TV_CFG_3D_TO_2D">3D To 2D</string>
+    <string name="TV_CFG_3D_TO_2D_OFF">OFF</string>
+    <string name="TV_CFG_3D_TO_2D_LEFT">LEFT</string>
+    <string name="TV_CFG_3D_TO_2D_RIGHT">RIGHT</string>
+
+<!-- CI SEtting -->
+    <string name="TV_CFG_CI_SETTING">CI Information</string>
+<!-- Picture -->
+    <string name="TV_CFG_PICTURE_SETTING">Picture Settings</string>
+<string name="TV_CFG_BRIGHTNESS">亮度</string>
+<string name="TV_CFG_CONTRAST">對比度</string>
+<string name="TV_CFG_COLOR">色度</string>
+<string name="TV_CFG_HUE"></string>
+<string name="TV_CFG_NTSC_HUE">色調</string>
+    <string name="TV_CFG_COLOR_TEMPERATURE">Color Temp.</string>
+<string name="TV_CFG_SHARPNESS">清晰度</string>
+    <string name="TV_CFG_DNR">DNR</string>
+<string name="TV_CFG_MPEG_NR"></string>
+    <string name="TV_CFG_DNR_OFF">OFF</string>
+<string name="TV_CFG_DNR_LOW">低</string>
+<string name="TV_CFG_DNR_MID"></string>
+<string name="TV_CFG_DNR_HIGH">高</string>
+    <string name="TV_CFG_DNR_AUTO">Auto</string>
+    <string name="TV_CFG_MPEG_NR_OFF">OFF</string>
+<string name="TV_CFG_MPEG_NR_LOW">低</string>
+<string name="TV_CFG_MPEG_NR_MID"></string>
+<string name="TV_CFG_MPEG_NR_HIGH">高</string>
+<string name="TV_CFG_DREAM_PANEL"></string>
+    <string name="TV_CFG_DREAM_PANEL_OFF">OFF</string>
+    <string name="TV_CFG_DREAM_PANEL_LIGHT_SENSOR">Light sensor</string>
+<string name="TV_CFG_DREAM_PANEL_IMAGE_DETECT">場景</string>
+    <string name="TV_CFG_DREAM_PANEL_MULTI_DETECT">Multi</string>
+    <string name="TV_CFG_DREAM_PANEL_SWITCH">Dream panel switch</string>
+<string name="TV_CFG_DTV_DISPLAY_MODE">顯示模式</string>
+<string name="TV_CFG_DISPLAY_MODE">顯示模式</string>
+<string name="TV_CFG_DISPLAY_MODE_16_9">16:9</string>
+<string name="TV_CFG_DISPLAY_MODE_4_3">4:3</string>
+<string name="TV_CFG_VIDEO_DISPLAY_MODE_DEFAULT">默認</string>
+<string name="TV_CFG_DISPLAY_MODE_MOVIE">電影模式</string>
+<string name="TV_CFG_DISPLAY_MODE_CAPTION">字幕模式</string>
+<string name="TV_CFG_DISPLAY_MODE_PANORAMA">全景模式</string>
+<string name="TV_CFG_DISPLAY_MODE_PERSON"></string>
+    <string name="TV_CFG_DISPLAY_MODE_AUTO">Auto</string>
+<string name="TV_CFG_DISPLAY_MODE_JUST_SCAN"></string>
+    <string name="TV_CFG_DISPLAY_MODE_P2P">P2P</string>
+<string name="TV_CFG_DISPLAY_MODE_DEFAULT">默認</string>
+    <string name="TV_CFG_DISPLAY_MODE_ZOOM1">Zoom1</string>
+    <string name="TV_CFG_DISPLAY_MODE_ZOOM2">Zoom2</string>
+    <string name="TV_CFG_PICTURE_MODE">Image Mode</string>
+    <string name="TV_CFG_PICTURE_MODE_VIVID">Vivid</string>
+    <string name="TV_CFG_PICTURE_MODE_SOFT">Gentle</string>
+<string name="TV_CFG_PICTURE_MODE_GAME"></string>
+<string name="TV_CFG_PICTURE_MODE_NATURAL"></string>
+<string name="TV_CFG_PICTURE_MODE_SPORTS"></string>
+<string name="TV_CFG_PICTURE_MODE_PC">電腦</string>
+    <string name="TV_CFG_PICTURE_MODE_DYMANIC">Dymanic</string>
+<string name="TV_CFG_PICTURE_MODE_USER"></string>
+<string name="TV_CFG_PICTURE_MODE_STANDARD">標準</string>
+    <string name="TV_CFG_PICTURE_MODE_4K_CINEMA">4K cinema</string>
+<string name="TV_CFG_NOSIGNAL">無信號</string>
+<string name="TV_CFG_NOTSUPPORTED"></string>
+<string name="TV_CFG_COLOR_TEMPERATURE_WARM">暖色</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_STANDARD">標準</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_COOL">冷色</string>
+    <string name="TV_CFG_LOCAL_DIMMING_MODE">Local Dim.</string>
+    <string name="TV_CFG_LOCAL_DIMMING_OFF_MODE">Close</string>
+    <string name="TV_CFG_LOCAL_DIMMING_ON_MODE">Open</string>
+    <string name="TV_CFG_CINEMA_MODE">Cinema Mode</string>
+    <string name="TV_CFG_MANUAL_BACKLIGHT_ADJUST">BackLight</string>
+    <string name="TV_CFG_MEMC_MODE">MEMC</string>
+    <string name="TV_CFG_MEMC_MODE_OFF">OFF</string>
+    <string name="TV_CFG_MEMC_MODE_LOW">LOW</string>
+    <string name="TV_CFG_MEMC_MODE_MID">MID</string>
+    <string name="TV_CFG_MEMC_MODE_HIGH">HIGH</string>
+
+<!-- Sound -->
+    <string name="TV_CFG_SOUND_SETTING">Sound Settings</string>
+<string name="TV_CFG_VOLUME">音量</string>
+    <string name="TV_CFG_AUDIO_MUTE">Mute</string>
+<string name="TV_CFG_SOUND_MODE">聲音模式</string>
+<string name="TV_CFG_BASS">低音</string>
+<string name="TV_CFG_TREBLE">高音</string>
+<string name="TV_CFG_BALANCE">平衡</string>
+<string name="TV_CFG_SURROUND">環繞聲</string>
+    <string name="TV_CFG_SOUND_CLARITY">Voice</string>
+<string name="TV_CFG_TRUBASS"></string>
+    <string name="TV_CFG_SUBWOOFER">SubWoofer</string>
+    <string name="TV_CFG_SUBWOOFER_VOLUME">S.W.VOL</string>
+    <string name="TV_CFG_WALL_SOUND_EFFECTS">Wall-M.S.E.</string>
+    <string name="TV_CFG_SOUND_SPDIF">SPDIF</string>
+<string name="TV_CFG_SOUND_SPDIF_SOURCE"></string>
+<string name="TV_CFG_SOUND_SPDIF_PCM">PCM</string>
+<string name="TV_CFG_SOUND_SEPERATE"></string>
+<string name="TV_CFG_SOUND_MODE_STANDARD">標準</string>
+<string name="TV_CFG_SOUND_MODE_NEWS">新聞</string>
+<string name="TV_CFG_SOUND_MODE_MUSIC">音樂</string>
+<string name="TV_CFG_SOUND_MODE_MOVIE">電影模式</string>
+<string name="TV_CFG_SOUND_MODE_SPORTS"></string>
+<string name="TV_CFG_SOUND_MODE_USER"></string>
+<string name="TV_CFG_EQUALIZER_SETTING">均衡器</string>
+<string name="TV_CFG_EQUALIZER">均衡器</string>
+    <string name="TV_CFG_EQUALIZER_100HZ">100HZ</string>
+    <string name="TV_CFG_EQUALIZER_500HZ">500HZ</string>
+    <string name="TV_CFG_EQUALIZER_1KHZ">1KHZ</string>
+    <string name="TV_CFG_EQUALIZER_3KHZ">3KHZ</string>
+    <string name="TV_CFG_EQUALIZER_10KHZ">10KHZ</string>
+    <string name="TV_CFG_MTS_MODE">MTS</string>
+    <string name="TV_CFG_NICAM_MODE">Nicam</string>
+<string name="TV_CFG_AVL"></string>
+<string name="TV_CFG_BBE_SOUND">BBE</string>
+<string name="TV_CFG_AUDIO_LANGUAGE">音頻語言</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING">音頻語言</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE">Audio Mode</string>
+
+<!-- MTS/NICAM -->
+	<string name="TV_CFG_AUDIOMODE_MONO">MONO</string>
+    <string name="TV_CFG_AUDIOMODE_DUAL_A">DUAL A</string>
+    <string name="TV_CFG_AUDIOMODE_DUAL_AB">DUAL AB</string>
+    <string name="TV_CFG_AUDIOMODE_DUAL_B">DUAL B</string>
+    <string name="TV_CFG_AUDIOMODE_FORCED_MONO">MONO</string>
+    <string name="TV_CFG_AUDIOMODE_G_STEREO">STEREO</string>
+    <string name="TV_CFG_AUDIOMODE_HIDEV_MONO">HIDEV MONO</string>
+    <string name="TV_CFG_AUDIOMODE_NUM">MONO</string>
+	<string name="TV_CFG_AUDIOMODE_INVALID">MONO</string>
+    <string name="TV_CFG_AUDIOMODE_K_STEREO">STEREO</string>
+    <string name="TV_CFG_AUDIOMODE_LEFT_LEFT">LEFT LEFT</string>
+    <string name="TV_CFG_AUDIOMODE_LEFT_RIGHT">LEFT RIGHT</string>
+<string name="TV_CFG_AUDIOMODE_MONO_SAP"></string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_A">DUAL A</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_AB">DUAL AB</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_B">DUAL B</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_MONO">MONO</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_STEREO">STEREO</string>
+    <string name="TV_CFG_AUDIOMODE_RIGHT_RIGHT">RIGHT RIGHT</string>
+<string name="TV_CFG_AUDIOMODE_STEREO_SAP"></string>
+
+<!-- Installed -->
+<string name="TV_CFG_CHANNEL_SETTING">調臺</string>
+<string name="TV_CFG_AUTO_SEARCH">自動搜臺</string>
+<string name="TV_CFG_MANUAL_SEARCH">手動搜臺</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM">彩色制式</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM">伴音制式</string>
+<string name="TV_CFG_SEARCH_TYPE"></string>
+    <string name="TV_CFG_FIVE_ATENNA">5V Atenna</string>
+    <string name="TV_CFG_START_AUTO_SEARCH">Start Search</string>
+<string name="TV_CFG_CHANNEL_EDIT"></string>
+<string name="TV_CFG_FAVORITE_LIST"></string>
+    <string name="TV_CFG_SIGNAL_INFO">Signal Infomation</string>
+    <string name="TV_CFG_CHANNEL_NO">Channel No.</string>
+<string name="TV_CFG_FREQUENCY_SET">頻率</string>
+<string name="TV_CFG_TV_CHANNEL_SKIP">跳臺</string>
+<string name="TV_CFG_TV_SEARCH_ATV">模擬電視</string>
+<string name="TV_CFG_TV_SEARCH_DTV">數字電視</string>
+    <string name="TV_CFG_TV_SEARCH_ATV_DTV">DTV+ATV</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_AUTO">自動</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_BGHI">PAL</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_N">PAL_N</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_M">PAL_M</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_60">PAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_M">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_44">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_SECAM">SECAM</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_I">I</string>
+    <string name="TV_CFG_TV_SOUND_SYSTEM_DK">D/K</string> 
+    <string name="TV_CFG_TV_SOUND_SYSTEM_BG">B/G</string> 
+<string name="TV_CFG_TV_SOUND_SYSTEM_M">M</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_L">L</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_M_BTSC">M</string>
+<string name="TV_CFG_EPG_REPEAT_ONCE"></string>
+<string name="TV_CFG_EPG_REPEAT_WEEKLY"></string>
+    <string name="TV_CFG_EPG_REPEAT_DAILY">Daily</string>
+<string name="TV_CFG_SEARCH_TYPE_ATV">模擬電視</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBT">DVB_T</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBC">DVB_C</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBS">DVB_S</string>
+<string name="TV_CFG_SEARCH_TYPE_DTMB"></string>
+<string name="signal_info_title"></string>
+    <string name="TV_CFG_CI_INFORMATION">CI Information</string>
+    <string name="TV_CFG_DVBS_AUTO_SEARCH">DVB_S AutoSearch</string>
+    <string name="TV_CFG_DVBT_AUTO_SEARCH">DVB_T AutoSearch</string>
+    <string name="TV_CFG_DVBC_AUTO_SEARCH">DVB_C AutoSearch</string>
+    <string name="TV_CFG_DVBS_MODULATION">Satellite</string>
+
+<!-- Setup -->
+<string name="TV_CFG_SYSTEM_SETTING">設置</string>
+<string name="TV_CFG_CAPTION_ONOFF">字幕模式</string>
+    <string name="TV_CFG_CC_MODE">CCMode</string>
+<string name="TV_CFG_LANGUAGE">語言</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE">字幕語言</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_AUTO">Auto</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_VIDEO">16~235</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_GRAPHIC">0~255</string>
+    <string name="TV_CFG_HDMI_ONOFF_CEC">HDMI-CEC ON/OFF</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC_AUTO_STANDBY"></string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST"></string>
+    <string name="TV_CFG_TELETEXT_LANGUAGE">TTX Language</string>
+    <string name="TTX_LANG_RUSSIAN">RUSSIAN</string>
+    <string name="TTX_LANG_EAST">EAST</string>
+    <string name="TTX_LANG_ARABIC">ARABIC</string>
+    <string name="TTX_LANG_FARSI">FARSI</string>
+    <string name="TTX_LANG_WEST">WEST</string>
+<string name="TV_CFG_TIME_SHIFT"></string>
+    <string name="TV_CFG_TIME">Time Setting</string>
+    <string name="TV_CFG_CURRENT_TIME">Current Time</string>
+<string name="TV_CFG_TIME_ZONE">時區</string>
+<string name="TV_CFG_TIME_ZONE_SETTING">時區</string>
+    <string name="TV_CFG_DAY_LIGHT_SAVING">DayLight Saving</string>
+<string name="TV_CFG_SLEEP_TIMER">睡眠倒計時</string>
+    <string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TITLE">倒計時</string>
+    <string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TIP_TEXT">按Back退出</string>
+    <string name="TV_CFG_OFF_TIMER">Off Timer</string>
+    <string name="TV_CFG_ENGERY_SAVING">Engery Saving</string>
+    <string name="TV_CFG_AUTO_OFF">Auto Off</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_10">10s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_20">20s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_ALWAYS">always</string>
+    <string name="TV_CFG_PVR">Pvr System</string>
+    <string name="TV_CFG_PVR_SELECT_DISK">Select Disk</string>
+    <string name="TV_CFG_PVR_SELECT_USB">Select USB</string>
+    <string name="TV_CFG_PVR_USB_SPEED">USB Speed</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE">Time Shift Size</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_512M">512M</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_1G">1G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_2G">2G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_4G">4G</string>
+    <string name="TV_CFG_PVR_USB_FORMAT">USB Format</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_ALWAYS">Time Shift Always</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE">Color Range</string>
+    <string name="TV_CFG_HDMI_CEC_MENU_LIST">HDMI-CEC</string>
+<string name="TV_CFG_MENU_SHOW_TIME"></string>
+<string name="TV_CFG_STICKER_DEMO"></string>
+    <string name="TV_CFG_SLEEP_TIMER_OFF">OFF</string>
+    <string name="TV_CFG_SLEEP_TIMER_5_MINUTES">5 Minutes</string>
+    <string name="TV_CFG_SLEEP_TIMER_15_MINUTES">15 Minutes</string>
+    <string name="TV_CFG_SLEEP_TIMER_30_MINUTES">30 Minutes</string>
+    <string name="TV_CFG_SLEEP_TIMER_60_MINUTES">60 Minutes</string>
+    <string name="TV_CFG_SLEEP_TIMER_90_MINUTES">90 Minutes</string>
+    <string name="TV_CFG_SLEEP_TIMER_120_MINUTES">120 Minutes</string>
+<string name="TV_CFG_AUTO_SLEEP"></string>
+    <string name="TV_CFG_AUTO_SLEEP_OFF">OFF</string>
+    <string name="TV_CFG_AUTO_SLEEP_1_HOURS">1 Hours</string>
+    <string name="TV_CFG_AUTO_SLEEP_2_HOURS">2 Hours</string>
+    <string name="TV_CFG_AUTO_SLEEP_3_HOURS">3 Hours</string>
+    <string name="TV_CFG_AUTO_SLEEP_4_HOURS">4 Hours</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP">No Signal Sleep</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP_OFF">OFF</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP_5_MINUTES">5 Minutes</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_10_MINUTES"></string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP_15_MINUTES">15 Minutes</string>
+<string name="TV_CFG_TIME_YEAR"></string>
+    <string name="TV_CFG_TIME_MONTH">Month</string>
+<string name="TV_CFG_TIME_DAY"></string>
+<string name="TV_CFG_TIME_HOUR"></string>
+<string name="TV_CFG_TIME_MINUTE"></string>
+    <string name="TV_CFG_START_OFF_TIME">Press "Enter to Set OffTime"</string>
+    <string name="TV_CFG_REBOOT_SYSTEM">ReBoot System</string>
+	<string name="TV_CFG_RECOVERY">Reset Tv</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST_SETTING"></string>
+	<string name="TV_CFG_DAYLIGHT_SAVING_MODE_AUTO">Auto</string>
+	<string name="TV_CFG_DAYLIGHT_SAVING_MODE_ON">ON</string>
+	<string name="TV_CFG_DAYLIGHT_SAVING_MODE_OFF">OFF</string>
+	<string name="TV_CFG_CAPTION_ON">ON</string>
+	<string name="TV_CFG_CAPTION_ON_MUTE">ON MUTE</string>
+	<string name="TV_CFG_CAPTION_OFF">OFF</string>
+	<string name="TV_CFG_CC_MODE_OFF">OFF</string>
+<string name="TV_CFG_CC_MODE_CC1">CC1</string>
+<string name="TV_CFG_CC_MODE_CC2">CC2</string>
+<string name="TV_CFG_CC_MODE_CC3">CC3</string>
+<string name="TV_CFG_CC_MODE_CC4">CC4</string>
+<string name="TV_CFG_CC_MODE_TXT1">TXT1</string>
+<string name="TV_CFG_CC_MODE_TXT2">TXT2</string>
+<string name="TV_CFG_CC_MODE_TXT3">TXT3</string>
+<string name="TV_CFG_CC_MODE_TXT4">TXT4</string>
+	<string name="TV_CFG_AUDIO_LANGUAGE_SET">Audio Language Setting</string>
+	<string name="TV_CFG_AUDIO_LANGUAGE_PRIMARY_SET">Primary Audio Language</string>
+	<string name="TV_CFG_AUDIO_LANGUAGE_SECOND_SET">Second Audio Language</string>
+
+<!-- OSDLanguage -->
+<string name="TV_CFG_OSD_LANGUAGE_ENGLISH">英語</string>
+    <string name="TV_CFG_OSD_LANGUAGE_THAI">ภาษาไทย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ARABIC">العربية</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FARSI">فارسی</string>
+    <string name="TV_CFG_OSD_LANGUAGE_RUSSIAN">русский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FRENCH">française</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HEBREW">עברית שפה</string>
+    <string name="TV_CFG_OSD_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+    <string name="TV_CFG_OSD_LANGUAGE_INDONESIAN">Indonesia</string>
+    <string name="TV_CFG_OSD_LANGUAGE_PORTUGUESE">português</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SPANISH">español</string>
+    <string name="TV_CFG_OSD_LANGUAGE_TURKISH">Türk dili</string>
+    <string name="TV_CFG_OSD_LANGUAGE_GERMAN">Deutsch</string>
+
+<!-- SubtitleLanguage -->
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_OFF">OFF</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_ARABIC">التطبيق المتجر</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_ENGLISH">英語</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_IRANIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_FRENCH">Française</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_INDONESIAN">findonesia</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_HEBREW">עברית שפה</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_RUSSIAN">русский</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_TAHITIAN">ภาษาไทย</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE_CHS">简体中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE">繁體中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PERSIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SPANISH">Inglés</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_UNKNOWN">UNKNOWN</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SETTING">Subtitle Language Setting</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PRIMARY">Primary Subtitle Language</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SECONDE">Second Subtitle Language</string>
+
+<!-- VGA Setup -->
+<string name="TV_CFG_VGA_SETTING"></string>
+<string name="TV_CFG_SCART_SETTING"></string>
+    <string name="TV_CFG_VGA_AUTO_ADJUST">Auto Adjustment</string>
+    <string name="TV_CFG_VGA_H_POSITION">H.Position</string>
+    <string name="TV_CFG_VGA_V_POSITION">V.Position</string>
+<string name="TV_CFG_VGA_PHASE">相位</string>
+<string name="TV_CFG_VGA_FREQUENCY">頻率</string>
+
+<!-- Lock-->
+    <string name="TV_CFG_LOCK_SETTING">Lock</string>
+    <string name="TV_CFG_LOCK_INPUT_PASSWORD">Input Password</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD">更改密碼</string>
+    <string name="TV_CFG_LOCK_COMFIRM_PASSWORD">Confirm Password</string>
+<string name="TV_CFG_LOCK_AGE_LIST">父母控制</string>
+    <string name="TV_CFG_LOCK_CHANNEL_LIST">Lock Channel List</string>
+    <string name="TV_CFG_LOCK_SYSTEM_LOCK">System Lock</string>
+<string name="TV_CFG_LOCK_RATING_0"></string>
+<string name="TV_CFG_LOCK_RATING_1"></string>
+<string name="TV_CFG_LOCK_RATING_2"></string>
+<string name="TV_CFG_LOCK_RATING_3"></string>
+<string name="TV_CFG_LOCK_RATING_4"></string>
+<string name="TV_CFG_LOCK_RATING_5"></string>
+<string name="TV_CFG_LOCK_RATING_6"></string>
+    <string name="TV_CFG_LOCK_RATING_7">10</string>
+    <string name="TV_CFG_LOCK_RATING_8">11</string>
+    <string name="TV_CFG_LOCK_RATING_9">12</string>
+    <string name="TV_CFG_LOCK_RATING_10">13</string>
+    <string name="TV_CFG_LOCK_RATING_11">14</string>
+    <string name="TV_CFG_LOCK_RATING_12">15</string>
+    <string name="TV_CFG_LOCK_RATING_13">16</string>
+    <string name="TV_CFG_LOCK_RATING_14">17</string>
+    <string name="TV_CFG_LOCK_RATING_15">18</string>
+
+<!-- Channel Search -->
+    <string name="channel_programs">Programs</string>
+    <string name="channel_info">Channel Info</string>
+<string name="mannual_search">手動搜臺</string>
+<string name="symbol_rate"></string>
+    <string name="band_width">Bandwidth</string>
+<string name="module_mode"></string>
+    <string name="signal_quality">Signal Quality</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="signal_network">Network</string>
+    <string name="signal_tsid">Transport Stream</string>
+    <string name="signal_server">Server</string>
+    <string name="signal_modulation">Modulation</string> 
+    <string name="search_progress">Search Progress</string>
+    <string name="program_tv">TV Programs</string>
+    <string name="program_dtv">DTV Programs</string>
+    <string name="program_radio">Radio Programs</string>
+    <string name="program_data">Data Programs</string>
+    <string name="search_channel">Tuning</string>
+<string name="auto_search">模拟自動搜臺</string>
+    <string name="frequency_adjust">Frequency Tuning</string>
+    <string name="nit_search">Full Channel Search</string>
+    <string name="channel_setting">Channel settings</string>
+<string name="enter">進入</string>
+<string name="frequency">頻率</string>
+    <string name="frequency_segment">CH.Seg</string>
+    <string name="channel_count">Channel Count></string>
+    <string name="crt_channel_num">Current channel number</string>
+
+    <string name="start_fine_search">Press "Left" or "Right" to fine search</string>
+    <string name="start_manual_search">Long Press "Left" or "Right" to start manual search</string>
+    <string name="back_hint">Press "Back" Exit</string>
+    <string name="frequencypoint_setting">Frequency Settings</string>
+    <string name="video_vod">Video on Demand</string>
+    <string name="main_frequencypoint">Main Frequency</string>
+    <string name="loader_frequencypoint">Loader frequency</string>
+    <string name="start_frequency">Starting Frequency</string>
+    <string name="end_frequency">End frequency</string>
+    <string name="crt_frequency">Current Frequency</string>
+    <string name="start_search">Start searching</string>
+<string name="confirm">確定</string>
+<string name="cancel"></string>
+
+    <string name="not_empty">can not be empty</string>
+    <string name="city_setting">Regional Settings</string>
+    <string name="switch_city">switch region</string>
+    <string name="save">Save</string>
+
+<!-- EPG-->
+<string name="epgmanagetitle">電子節目指南</string>
+<string name="epgchannellist"></string>
+    <string name="epgchanneldate">Date</string>
+<string name="epgprogramname"></string>
+    <string name="epginfomation">Information</string>
+<string name="epgtipsschedule"></string>
+    <string name="epgtipsreminder">Reminder Setting</string>
+<string name="epgtipsrecord"></string>
+    <string name="epgsettingmode">Mode</string>
+<string name="epgsettingtime">時間</string>
+<string name="epgscheduledelete">刪除</string>
+<string name="epg_recodesetting_channel"></string>
+<string name="epg_recodesetting_repeat"></string>
+    <string name="epg_recodesetting_startmonth">Start Month</string>
+    <string name="epg_recodesetting_startdate">Date</string>
+<string name="epg_recodesetting_starthour"></string>
+<string name="epg_recodesetting_startminute"></string>
+    <string name="epg_recodesetting_endmonth">End Month</string>
+    <string name="epg_recodesetting_enddate">Date</string>
+<string name="epg_recodesetting_endhour"></string>
+<string name="epg_recodesetting_endminute"></string>
+    <string name="epg_remindsetting_month">Month</string>
+<string name="epg_mode_reminder"></string>
+    <string name="epg_mode_recorder">Recorder</string>
+    <string name="epg_setting_button">Press "OK" to Setting</string>
+
+<string name="SKY_SEARCH"></string>
+    <string name="SKY_H_DIRECTION_KEY">to move the cursor left and right</string>
+    <string name="SKY_V_DIRECTION_KEY">to move the cursor up and down</string>
+<string name="SKY_DELETE">刪除</string>
+    <string name="SKY_SHUTTLE_ROTATE">Shuttle toggle selection</string>
+    <string name="SKY_SEARCH_LEFTKEY">press the left button to delete</string>
+    <string name="SKY_SEARCH_TEXT">Pinyin initials search</string>
+
+<!-- 网络部分 -->
+    <string name="NET_WIFI_HOT_SPOT">Hot spots</string>
+    <string name="NET_WIFI_HOT_SPOT_WIFI_OPEN">open</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_CLOSE">関</string>
+    <string name="NET_WIFI_HOT_SPOT_NAME">Hot spots name</string>
+    <string name="NET_WIFI_HOT_SPOT_PWD_SET">Encryption</string>
+    <string name="NET_WIFI_HOT_SPOT_PWD_OPEN">open</string>
+    <string name="NET_WIFI_HOT_SPOT_PWD_CLOSE">encryption</string>
+    <string name="NET_WIFI_HOT_SPOT_PWD">Hot pwd</string>
+    <string name="NET_WIFI_HOT_SPOT_PWD_ERROR_TIP">8-24 letters or numbers</string>
+    <string name="NET_WIFI_HOT_SPOT_BTN_SAVE">Save</string>
+    <string name="NET_WIFI_HOT_SPOT_NAME_ERROR_TIP">Name cannot be empty</string>
+<!-- 无线列表选择 -->
+    <string name="NET_WIFI_SELECT_WPS">WIFI WPS:</string>
+<string name="NET_WIFI_SELECT_WPS_ENTER">進入</string>
+    <string name="NET_WIFI_SELECT_LIST"> wireless network list:</string>
+    <string name="NET_WIFI_SELECT_OTHER_WIFI">Other network</string>
+<!-- 手动设置ip -->
+    <string name="SKY_IP_SETTING_GREATER_THAN_255">Input length is no more than 255</string>
+    <string name="SKY_IP_SETTING_EMPTY_IP">It cannot be empty</string>
+    <string name="Sky_IP_SETTING_START_ZERO">IP number start with 0 not allowed</string>
+    <string name="SKY_IP_SETTING_INVALID">Invalid IP</string>
+    <string name="SKY_IP_ASSIGNMENT_TYPE">IP Type</string>
+<string name="SKY_IP_DHCP_STATIC"></string>
+<string name="SKY_IP_DHCP_DYNAMIC"></string>
+<string name="SKY_IP_TEXT"></string>
+<string name="SKY_GATEWAY_TEXT"></string>
+    <string name="SKY_MASK_TEXT">Mask</string>
+<string name="SKY_DNS_TEXT"></string>
+<string name="SKY_BTN_CONNECT_TEXT"></string>
+<!-- 输入网络密码 -->
+    <string name="INPUT_WIFI_PWD_HINT">Please input wifi password: </string>
+    <string name="INPUT_WIFI_PWD_EDIT">password</string>
+    <string name="INPUT_WIFI_PWD_ERROR_TIPS">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_1">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_2">Note: the password length is more than 64</string>
+<!-- 旧的网络设置使用，新的这些有可能被引用了 -->
+    <string name="SKY_WIFI_OPEN">Wifi Open</string>
+    <string name="SKY_WIFI_CLOSE">Wifi Closed</string>
+    <string name="SKY_BTN_SET_WIFI_TEXT">IP Setting</string>
+    <string name="SKY_WIFI_SELECT_TEXT">Choose a WLAN</string>
+    <string name="SKY_PUSH_TO_TALK_TEXT">WIFI WPS</string>
+<string name="SKY_OTHER_TEXT">其他</string>
+<string name="SKY_WIFI_NAME_TEXT"></string>
+    <string name="SKY_ENCRYPTION_TEXT">Encryption</string>
+    <string name="SKY_PASSWORD_TEXT">Password:</string>
+    <string name="SKY_PWD_LESS_THAN_8_DIGITS">Size of password is less than 8</string>
+    <string name="SKY_PWD_NO_EMPTY">Empty password not allowed</string>
+
+<!-- AD -->
+    <string name="TV_CFG_SWITCH_AD_TRUE">AD is Open!</string>
+    <string name="TV_CFG_SWITCH_AD_FALSE">AD is Close!</string>
+<string name="TV_CFG_SWITCH_AD_NONE"></string>
+
+<!-- add_by_wangxian -->
+    <string name="install_guide_welcome_message">Welcome to the First Setting Guide</string>
+<string name="left_item_language">語言</string>
+    <string name="left_item_timezone">TimeZone</string>
+    <string name="left_item_network">NetWork</string>
+    <string name="left_item_searchmode">Search Mode</string>
+<string name="next_hint"></string>
+    <string name="set_network">Setting Network</string>
+<string name="installsearch"></string>
+    <string name="searchhint">* Please press [OK] key to check</string>
+    <string name="netchoise_hint">Net Choise</string>
+    <string name="netconnection">Net Connection</string>
+<string name="wiresetup"></string>
+<string name="wirelesssetup"></string>
+    <string name="wifiSetup">WIFI Setup</string>
+<string name="wifiButtonConnect"></string>
+<string name="wifiButtonExit">退出</string>
+    <string name="wifiInvialidPwd">Invalid Password!</string>
+<!-- add_by_zhuming  -->
+<!-- Aus time zone  -->
+<string name="TV_CFG_TIMEZONE_WA"></string>
+<string name="TV_CFG_TIMEZONE_SA"></string>
+<string name="TV_CFG_TIMEZONE_NT"></string>
+<string name="TV_CFG_TIMEZONE_NSW"></string>
+<string name="TV_CFG_TIMEZONE_VIC"></string>
+<string name="TV_CFG_TIMEZONE_QLD"></string>
+<string name="TV_CFG_TIMEZONE_TAS"></string>
+<!-- Brazil time zone  -->
+    <string name="TV_CFG_TIMEZONE_F_NORONHA">GMT-2</string>
+    <string name="TV_CFG_TIMEZONE_BUENOS_AIRES">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_BRASILIA">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_NORTHEAST">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_M_GROSSO">GMT-4</string>
+    <string name="TV_CFG_TIMEZONE_ACRE">GMT-5</string>
+
+<!-- PVR  -->
+    <string name="str_pvr_listview_item">TextView</string>
+<string name="str_player_recorder"></string>
+<string name="str_player_playab"></string>
+<string name="str_player_stop"></string>
+<string name="str_player_play"></string>
+<string name="str_player_pause"></string>
+    <string name="str_player_rev">Rev</string>
+<string name="str_player_ff"></string>
+<string name="str_player_slow"></string>
+<string name="str_player_time"></string>
+<string name="str_player_forward"></string>
+<string name="str_player_backward"></string>
+<string name="str_pvr_is_recording"></string>
+    <string name="str_pvr_mode_recorde">Recording...</string>
+    <string name="str_pvr_mode_timeshift">TimeShift...</string>
+    <string name="str_pvr_usb_free_space">USB Free Space</string>
+    <string name="str_pvr_usb_lable_name">USB Lable Name</string>
+
+<string name="str_pvr_record_exit_confirm">Now recording...Do you really want to exit?</string>
+    <string name="str_pvr_timeshift_exit_confirm">Now timeshifting...Do you really want to exit?</string>
+<string name="str_pvr_program_saving"></string>
+    <string name="str_info_pvr_playback_exit_confirm">Now playback... Do you really want to exit?</string>
+<string name="sky_pvr_support_disk_format"></string>
+<string name="str_pvr_insert_usb"></string>
+    <string name="sky_pvr_record_false">Record false!</string>
+    <string name="sky_pvr_timeshift_false">Timeshift false!</string>
+    <string name="sky_pvr_disk_outofspace">Disk does not have enough space !</string>
+    <string name="sky_pvr_filesystem_unsupported">please, format your disk for FAT32 !</string>
+    <string name="sky_pvr_support_timeshift_fail">This program do not allow timeshift!</string>
+    <string name="sky_pvr_support_record_fail">This program do not allow record!</string>
+    <string name="sky_pvr_record_list">PVR Record List</string>
+<string name="sky_pvr_record_list_lcn"></string>
+<string name="sky_pvr_record_list_channel"></string>
+    <string name="sky_pvr_record_list_program">Program</string>
+    <string name="sky_pvr_record_list_recordtime">Record Time</string>
+<string name="sky_pvr_record_list_delete">刪除</string>
+<string name="sky_pvr_record_list_index"></string>
+<string name="sky_pvr_record_list_descend"></string>
+<string name="sky_pvr_record_list_ascend"></string>
+
+<!-- Channel Info  -->
+    <string name="str_source_info_channel">Channel:</string>
+    <string name="str_source_info_audioformat">Audio Format:</string>
+<string name="str_source_info_subtitle"></string>
+    <string name="str_source_info_chname">CH Name:</string>
+    <string name="str_source_info_videoformat">Video Format:</string>
+    <string name="str_source_info_audiolanguage">Audio Language:</string>
+<string name="str_source_info_resolution"></string>
+    <string name="str_source_info_age">Age:</string>
+<string name="str_source_info_time"></string>
+    <string name="str_source_info_programtype">Program Type:</string>
+    <string name="str_source_info_programname">Program Name:</string>
+    <string name="str_source_info_category">Program Category:</string>
+    <string name="str_source_info_no_information">No Information</string>
+
+<string name="str_time_hour"></string>
+<string name="str_time_minute"></string>
+<string name="str_time_second"></string>
+
+<string name="str_scan_atv">模擬電視</string>
+<string name="str_scan_dtv">數字電視</string>
+    <string name="str_scan_atv_dtv">ATV+DTV</string>
+    <string name="str_scan_air">Antena</string>
+<string name="str_scan_cable">有線電視</string>
+    <string name="str_scan_air_cable">Antena+Cable</string>
+
+<!-- LNB Setting -->
+    <string name="str_lnb_setup_title">LNB Setup</string>
+<string name="str_satellite_list"></string>
+<string name="str_lnb_setup_list">設置</string>
+<string name="str_responder_list">中文</string>
+<string name="str_lnb_item_add">增加</string>
+    <string name="str_lnb_item_scan">Scan</string>
+<string name="str_lnb_item_edit"></string>
+<string name="str_lnb_item_delete">刪除</string>
+    <string name="str_lnb_signal_quality">Quality</string>
+    <string name="str_lnb_signal_strength">Strength</string>
+<string name="str_lnb_signal_add">增加</string>
+<string name="str_lnb_signal_edit"></string>
+    <string name="str_lnb_signal_scan">Scan</string>
+<string name="str_lnb_signal_delete">刪除</string>
+    <string name="str_lnb_signal_number_title">Number</string>
+    <string name="str_lnb_signal_name_title">Name</string>
+    <string name="str_lnb_signal_derection_title">Longitude Derection</string>
+<string name="str_lnb_signal_angle_title"></string>
+<string name="str_lnb_signal_band_title"></string>
+    <string name="str_lnb_signal_comfirm_button">Start Searching</string>
+<string name="str_lnb_signal_scan_mode_title"></string>
+<string name="str_lnb_signal_network_search_title"></string>
+<string name="str_lnb_signal_service_type_title"></string>
+    <string name="str_lnb_signal_search_option_title">Search Option</string>
+<string-array name="str_lnb_option_list">
+        <item>Transponder</item>
+        <item>LNB Power</item>
+        <item>Long Cable</item>
+        <item>22KHz Tone</item>
+	    <item>LNB Type</item>
+        <item>DisEqC1.0</item>
+        <item>DisEqC1.1</item>
+        <item>Motor</item>
+</string-array>
+<string-array name="str_array_scan_mode">
+<item></item>
+<item></item>
+<item></item>
+</string-array>
+<string-array name="str_array_network_search_option">
+<item>關</item>
+        <item>on</item>
+</string-array>
+<string-array name="str_array_service_type">
+<item>數字電視</item>
+<item></item>
+<item></item>
+</string-array>
+<string-array name="str_array_search_option">
+        <item>Blind Scan</item>
+        <item>Fast Scan</item>
+</string-array>
+
+<!-- factory hotkey -->
+<string name="str_age_mode">M</string>
+    <string name="str_bus_off">BUS OFF</string>
+    <string name="str_mac_addr">MAC ADDR : </string>
+    <string name="str_bar_code">BAR CODE : </string>
+
+<!-- Tips -->
+<string name="str_enter">進入</string>
+<string name="str_no_signal">無信號</string>
+<string name="str_audio_only"></string>
+<string name="str_data_only"></string>
+    <string name="str_program_lock">The Program Lock</string>
+    <string name="str_invalid_service">Invalid Service</string>
+    <string name="str_no_ci_module">No CI Module</string>
+    <string name="str_ci_plus_authentication">CI Plus Authentication</string>
+    <string name="str_scrambled_program">Scrambled Program</string>
+<string name="str_unsupported_format"></string>
+<string name="str_tip_reset_tv"></string>
+    <string name="str_tip_off_timer">The time you have set in the past, please re-set!</string>
+    <string name="str_tip_plug_usb">No USB pluged or the format is wrong!</string>
+    <string name="str_tip_usb_format">Do you want to format the selected disk?</string>
+    <string name="str_tip_usb_checking">Speed Checking......</string>
+    <string name="str_tip_unplug_usb">Do not unplug USB device!</string>
+    <string name="str_tip_warning_usb_checking">Do you want to check speed of the selected disk?</string>
+    <string name="str_ci_insert">CI Insert</string>
+    <string name="str_ci_remove">CI Remove</string>
+    <string name="str_ci_autotest">CI AutoTest</string>
+    
+    <!-- for program category -->
+    <string name="TV_PROG_CATEGORY_MOVIE">movie</string>  
+    <string name="TV_PROG_CATEGORY_NEWS">news</string> 
+    <string name="TV_PROG_CATEGORY_SHOW">show</string> 
+    <string name="TV_PROG_CATEGORY_SPORT">sport</string> 
+    <string name="TV_PROG_CATEGORY_CHILDREN">children</string> 
+    <string name="TV_PROG_CATEGORY_MUSIS">music</string> 
+    <string name="TV_PROG_CATEGORY_ARTS">arts</string> 
+    <string name="TV_PROG_CATEGORY_SOCIAL">social</string> 
+    <string name="TV_PROG_CATEGORY_EDUCATION">education</string> 
+    <string name="TV_PROG_CATEGORY_LEISURE">leisure</string> 
+    <string name="TV_PROG_CATEGORY_SPECIAL">special</string> 
+    <string name="TV_PROG_CATEGORY_CONSTANT">constant</string> 
+    <string name="TV_PROG_CATEGORY_USER_DEFINDED">user defined</string> 
+    <string name="TV_PROG_CATEGORY_UNDEFINDED">undefined</string>
+</resources>

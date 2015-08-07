@@ -1,0 +1,1121 @@
+﻿<resources>
+
+<string name="app_name">ТВ-приложение</string>
+
+<string name="button_ok_str">Да</string>
+<string name="button_cancel_str">Выход</string>
+
+<string name="TV_CFG_ON_MODE">ВКЛ.</string>
+<string name="TV_CFG_OFF_MODE">Выкл</string>
+
+<string name="TV_CFG_QUICK_MENU_SETTING">Быстрое меню</string>
+
+<string name="TV_CFG_NO_SIGNAL">НЕТ СИГНАЛА</string>
+
+<!-- 3D -->
+<string name="TV_CFG_THREED_SETTING">Настройки 3D</string>
+<string name="TV_CFG_3D_MODE">Режим 3D</string>
+<string name="TV_CFG_3D_MODE_OFF">Выкл</string>
+<string name="TV_CFG_3D_MODE_AUTO">Авто</string>
+<string name="TV_CFG_3D_MODE_2D_TO_3D">С 2D на 3D</string>
+<string name="TV_CFG_3D_MODE_SIDE_BY_SIDE">СЛЕВА НАПРАВО</string>
+<string name="TV_CFG_3D_MODE_TOP_AND_BOTTOM">Сверху вниз</string>
+<string name="TV_CFG_3D_MODE_FRAME_PACKING">Упаковка кадров</string>
+<string name="TV_CFG_3D_DEPTH">3D Глубина</string>
+<string name="TV_CFG_3D_LR_SWAP">левый-правый переключатель</string>
+<string name="TV_CFG_3D_TO_2D">3D в 2D</string>
+<string name="TV_CFG_3D_TO_2D_OFF">Выкл</string>
+<string name="TV_CFG_3D_TO_2D_LEFT">ВЛЕВО</string>
+<string name="TV_CFG_3D_TO_2D_RIGHT">ПРАВЫЙ</string>
+
+<!-- CI SEtting -->
+<string name="TV_CFG_CI_SETTING">Сведения о CI</string>
+<!-- Picture -->
+<string name="TV_CFG_PICTURE_SETTING">Параметры фотографий</string>
+<string name="TV_CFG_BRIGHTNESS">Яркость</string>
+<string name="TV_CFG_CONTRAST">Контрастность</string>
+<string name="TV_CFG_COLOR">Цвет</string>
+<string name="TV_CFG_HUE">Оттенок</string>
+<string name="TV_CFG_NTSC_HUE">Оттенок</string>
+<string name="TV_CFG_COLOR_TEMPERATURE">Цвет. темп.</string>
+<string name="TV_CFG_SHARPNESS">Четкость</string>
+<string name="TV_CFG_DNR">DNR</string>
+<string name="TV_CFG_MPEG_NR">MPEG NR</string>
+<string name="TV_CFG_DNR_OFF">Выкл</string>
+<string name="TV_CFG_DNR_LOW">Низкое</string>
+<string name="TV_CFG_DNR_MID">среда</string>
+<string name="TV_CFG_DNR_HIGH">Высокое</string>
+<string name="TV_CFG_DNR_AUTO">Авто</string>
+<string name="TV_CFG_MPEG_NR_OFF">Выкл</string>
+<string name="TV_CFG_MPEG_NR_LOW">Низкое</string>
+<string name="TV_CFG_MPEG_NR_MID">среда</string>
+<string name="TV_CFG_MPEG_NR_HIGH">Высокое</string>
+<string name="TV_CFG_DREAM_PANEL">DLC</string>
+<string name="TV_CFG_DREAM_PANEL_OFF">Выкл</string>
+<string name="TV_CFG_DREAM_PANEL_LIGHT_SENSOR">Датчик освещенности</string>
+    <string name="TV_CFG_DREAM_PANEL_IMAGE_DETECT">Image</string>
+<string name="TV_CFG_DREAM_PANEL_MULTI_DETECT">Мульти</string>
+<string name="TV_CFG_DREAM_PANEL_SWITCH">Переключение панели мечты</string>
+<string name="TV_CFG_DTV_DISPLAY_MODE">Режим Oтображения</string>
+<string name="TV_CFG_DISPLAY_MODE">Режим Oтображения</string>
+<string name="TV_CFG_DISPLAY_MODE_16_9">16:9</string>
+<string name="TV_CFG_DISPLAY_MODE_4_3">4:3</string>
+<string name="TV_CFG_VIDEO_DISPLAY_MODE_DEFAULT">дефолт</string>
+<string name="TV_CFG_DISPLAY_MODE_MOVIE">КИНО</string>
+<string name="TV_CFG_DISPLAY_MODE_CAPTION">Подпись</string>
+<string name="TV_CFG_DISPLAY_MODE_PANORAMA">панорама </string>
+<string name="TV_CFG_DISPLAY_MODE_PERSON">Человек</string>
+<string name="TV_CFG_DISPLAY_MODE_AUTO">Авто</string>
+<string name="TV_CFG_DISPLAY_MODE_JUST_SCAN">родной</string>
+<string name="TV_CFG_DISPLAY_MODE_P2P">P2P</string>
+<string name="TV_CFG_DISPLAY_MODE_DEFAULT">дефолт</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM1">Увеличение1</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM2">Увеличение2</string>
+<string name="TV_CFG_PICTURE_MODE">Режим изображений</string>
+<string name="TV_CFG_PICTURE_MODE_VIVID">Яркий</string>
+<string name="TV_CFG_PICTURE_MODE_SOFT">Плавный</string>
+<string name="TV_CFG_PICTURE_MODE_GAME">Игра</string>
+    <string name="TV_CFG_PICTURE_MODE_NATURAL">Natural</string>
+<string name="TV_CFG_PICTURE_MODE_SPORTS">спортивный</string>
+<string name="TV_CFG_PICTURE_MODE_PC">PC</string>
+    <string name="TV_CFG_PICTURE_MODE_DYMANIC">Dymanic</string>
+<string name="TV_CFG_PICTURE_MODE_USER">Режим пользователя</string>
+<string name="TV_CFG_PICTURE_MODE_STANDARD">Ровный</string>
+<string name="TV_CFG_PICTURE_MODE_4K_CINEMA">Фильм 4K</string>
+<string name="TV_CFG_NOSIGNAL">НЕТ СИГНАЛА</string>
+<string name="TV_CFG_NOTSUPPORTED">Не поддерживается</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_WARM">Теплый</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_STANDARD">Ровный</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_COOL">Холодный</string>
+    <string name="TV_CFG_LOCAL_DIMMING_MODE">Local Dim.</string>
+<string name="TV_CFG_LOCAL_DIMMING_OFF_MODE">Закрыть</string>
+<string name="TV_CFG_LOCAL_DIMMING_ON_MODE">Открыть</string>
+<string name="TV_CFG_CINEMA_MODE">Режим кино</string>
+<string name="TV_CFG_MANUAL_BACKLIGHT_ADJUST">Подсветка</string>
+<string name="TV_CFG_MEMC_MODE">MEMC</string>
+<string name="TV_CFG_MEMC_MODE_OFF">Выкл</string>
+<string name="TV_CFG_MEMC_MODE_LOW">Низкое</string>
+<string name="TV_CFG_MEMC_MODE_MID">СРЕДН.</string>
+<string name="TV_CFG_MEMC_MODE_HIGH">Высокое</string>
+
+<!-- Sound -->
+<string name="TV_CFG_SOUND_SETTING">Параметры звука</string>
+<string name="TV_CFG_VOLUME">Громкость</string>
+<string name="TV_CFG_AUDIO_MUTE">Откл. звук</string>
+<string name="TV_CFG_SOUND_MODE">Режим</string>
+<string name="TV_CFG_BASS">НЧ</string>
+<string name="TV_CFG_TREBLE">ВЧ</string>
+<string name="TV_CFG_BALANCE">Баланс</string>
+<string name="TV_CFG_SURROUND">Объемный звук</string>
+<string name="TV_CFG_SOUND_CLARITY">Голос</string>
+<string name="TV_CFG_TRUBASS">Trubass</string>
+<string name="TV_CFG_SUBWOOFER">Сабвуфер</string>
+<string name="TV_CFG_SUBWOOFER_VOLUME">S.W.VOL</string>
+<string name="TV_CFG_WALL_SOUND_EFFECTS">Стена - МСП</string>
+<string name="TV_CFG_SOUND_SPDIF">SPDIF</string>
+<string name="TV_CFG_SOUND_SPDIF_SOURCE">сырье</string>
+<string name="TV_CFG_SOUND_SPDIF_PCM">PCM</string>
+<string name="TV_CFG_SOUND_SEPERATE">ТОЛЬКО АУДИО</string>
+<string name="TV_CFG_SOUND_MODE_STANDARD">Ровный</string>
+<string name="TV_CFG_SOUND_MODE_NEWS">Голос</string>
+<string name="TV_CFG_SOUND_MODE_MUSIC">МУЗЫКА</string>
+<string name="TV_CFG_SOUND_MODE_MOVIE">КИНО</string>
+<string name="TV_CFG_SOUND_MODE_SPORTS">спортивный</string>
+<string name="TV_CFG_SOUND_MODE_USER">Режим пользователя</string>
+<string name="TV_CFG_EQUALIZER_SETTING">Эквалайзер</string>
+<string name="TV_CFG_EQUALIZER">Эквалайзер</string>
+<string name="TV_CFG_EQUALIZER_100HZ">100 Гц</string>
+<string name="TV_CFG_EQUALIZER_500HZ">500 Гц</string>
+    <string name="TV_CFG_EQUALIZER_1KHZ">1K Гц</string>
+<string name="TV_CFG_EQUALIZER_3KHZ">3K Гц</string>
+<string name="TV_CFG_EQUALIZER_10KHZ">10K Гц</string>
+<string name="TV_CFG_MTS_MODE">MTS</string>
+<string name="TV_CFG_NICAM_MODE">Nicam</string>
+<string name="TV_CFG_AVL">AVL</string>
+<string name="TV_CFG_BBE_SOUND">BBE</string>
+<string name="TV_CFG_AUDIO_LANGUAGE">Аудио язык</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING">Аудио язык</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE">Режим аудио</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LL">LL</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LR">СТЕРЕО</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_RR">RR</string>
+
+
+<!-- MTS/NICAM -->
+<string name="TV_CFG_AUDIOMODE_MONO">МОНО</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_A">ДВОЙНОЙ I</string>
+    <string name="TV_CFG_AUDIOMODE_DUAL_AB">ДВОЙНОЙ I+II</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_B">ДВОЙНОЙ II</string>
+<string name="TV_CFG_AUDIOMODE_FORCED_MONO">МОНО</string>
+<string name="TV_CFG_AUDIOMODE_G_STEREO">СТЕРЕО</string>
+<string name="TV_CFG_AUDIOMODE_HIDEV_MONO">HIDEV МОНО</string>
+<string name="TV_CFG_AUDIOMODE_NUM">МОНО</string>
+<string name="TV_CFG_AUDIOMODE_INVALID">МОНО</string>
+<string name="TV_CFG_AUDIOMODE_K_STEREO">СТЕРЕО</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_LEFT">ЛЕВЫЙ ЛЕВЫЙ</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_RIGHT">ЛЕВЫЙ ПРАВЫЙ</string>
+<string name="TV_CFG_AUDIOMODE_MONO_SAP">SAP</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_A">ДВОЙНОЙ I</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_AB">DUAL I/II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_B">ДВОЙНОЙ II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_MONO">МОНО</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_STEREO">СТЕРЕО</string>
+<string name="TV_CFG_AUDIOMODE_RIGHT_RIGHT">ПРАВЫЙ ПРАВЫЙ</string>
+<string name="TV_CFG_AUDIOMODE_STEREO_SAP">SAP</string>
+
+<!-- Installed -->
+<string name="TV_CFG_CHANNEL_SETTING">Установка</string>
+<string name="TV_CFG_AUTO_SEARCH">Автоустановка</string>
+<string name="TV_CFG_MANUAL_SEARCH">РУЧНОЙ поиск</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM">Цвет</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM">Звук</string>
+<string name="TV_CFG_SEARCH_TYPE">Тип поиска</string>
+    <string name="TV_CFG_FIVE_ATENNA">5V Atenna</string>
+<string name="TV_CFG_START_AUTO_SEARCH">Начать поиск</string>
+<string name="TV_CFG_CHANNEL_EDIT">Изменить канал</string>
+<string name="TV_CFG_FAVORITE_LIST">Список избранного</string>
+<string name="TV_CFG_CHANNEL_LIST">Список каналов</string>
+<string name="TV_CFG_SIGNAL_INFO">информационный сигнал</string>
+<string name="TV_CFG_CHANNEL_NO">№ канала</string>
+<string name="TV_CFG_FREQUENCY_SET">частота</string>
+<string name="TV_CFG_TV_CHANNEL_SKIP">Пропуск канала</string>
+<string name="TV_CFG_TV_SEARCH_ATV">ATV</string>
+<string name="TV_CFG_TV_SEARCH_DTV">DTV</string>
+<string name="TV_CFG_TV_SEARCH_ATV_DTV">DTV+ATV</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_AUTO">Авто</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_BGHI">PAL</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_N">PAL_N</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_M">PAL_M</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_60">PAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_M">NTSC </string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_44">NTSC </string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_SECAM">SECAM</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_I">I</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_DK">Д/К</string>
+    <string name="TV_CFG_TV_SOUND_SYSTEM_BG">B/G</string> 
+<string name="TV_CFG_TV_SOUND_SYSTEM_M">M</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_L">L</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_M_BTSC">M</string>
+<string name="TV_CFG_EPG_REPEAT_ONCE">раз</string>
+<string name="TV_CFG_EPG_REPEAT_WEEKLY">еженедельно</string>
+<string name="TV_CFG_EPG_REPEAT_DAILY">Ежедневно</string>
+<string name="TV_CFG_SEARCH_TYPE_ATV">ATV</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBT">DVB_T</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBC">DVB_C</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBS">DVB_S</string>
+<string name="TV_CFG_SEARCH_TYPE_DTMB">DTMB</string>
+<string name="signal_info_title">информационный сигнал</string>
+<string name="TV_CFG_CI_INFORMATION">Сведения о CI</string>
+<string name="TV_CFG_DVBS_AUTO_SEARCH">Автопоиск DVB_S</string>
+<string name="TV_CFG_DVBT_AUTO_SEARCH">Автопоиск DVB_T</string>
+<string name="TV_CFG_DVBC_AUTO_SEARCH">Автопоиск DVB_C</string>
+<string name="str_channel_edit_r_delete">Стереть</string>
+<string name="str_channel_edit_g_sort">Сортировать</string>
+<string name="str_channel_edit_y_favorite">Favorite</string>
+<string name="str_channel_edit_b_skip">ПРОПУСТИТЬ</string>
+<string name="str_channel_edit_g_lock">Блокировать</string>
+<string name="str_channel_edit_ok_move">ПЕРЕМЕСТИТЬ</string>
+<string name="TV_CFG_LNB_SETTING">установка LNB</string>
+<string name="TV_CFG_DVBS_MODULATION">спутник</string>
+<string name="str_ci_channellist_op_menu">Меню профилей оператора</string>
+<string name="str_ci_channellist_op_del">Удалить Профиль</string>
+<string name="str_ci_channellist_exit_op">Выход OP</string>
+<string name="str_ci_channellist_enter_op">Введите OP</string>
+<string name="str_ci_channellist_op_title">ОП Список каналов</string>
+    <string name="str_ci_channellist_op_del_msg">Are you sure to delete \rthe operator profile [</string>
+
+<!-- Setup -->
+<string name="TV_CFG_SYSTEM_SETTING">Предпочтения</string>
+<string name="TV_CFG_CAPTION_ONOFF">Подпись</string>
+    <string name="TV_CFG_CC_MODE">CCMode</string>
+<string name="TV_CFG_LANGUAGE">Язык</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE">Язык субтитров</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_AUTO">Авто</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_VIDEO">16~235</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_GRAPHIC">0~255</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC">HDMI-CEC ВКЛ/ВЫКЛ</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC_AUTO_STANDBY">Автоматический переход в ждущий</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST">лист устройства</string>
+<string name="TV_CFG_TELETEXT_LANGUAGE">Язык текста</string>
+<string name="TTX_LANG_RUSSIAN">РУССКИЙ</string>
+<string name="TTX_LANG_EAST">ВОСТОК</string>
+<string name="TTX_LANG_ARABIC">АРАБСКИЙ</string>
+<string name="TTX_LANG_FARSI">ФАРСИ</string>
+<string name="TTX_LANG_WEST">ЗАПАД</string>
+<string name="TV_CFG_TIME_SHIFT">сдвиг во времени</string>
+<string name="TV_CFG_TIME">Настройка времени</string>
+<string name="TV_CFG_CURRENT_TIME">Текущее время</string>
+<string name="TV_CFG_TIME_ZONE">часовой пояс</string>
+<string name="TV_CFG_TIME_ZONE_SETTING">часовой пояс</string>
+<string name="TV_CFG_DAY_LIGHT_SAVING">Летнее время</string>
+<string name="TV_CFG_SLEEP_TIMER">Таймер автовыкл.</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TITLE">Обратный отсчет</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TIP_TEXT">Нажм. Назад, чтобы выйти</string>
+<string name="TV_CFG_OFF_TIMER">Таймер выкл.</string>
+<string name="TV_CFG_ENGERY_SAVING">Энергосберегающий</string>
+<string name="TV_CFG_AUTO_OFF">Автовыкл.</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_10">10s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_20">20s</string>
+<string name="TV_CFG_MEMU_SHOW_TIME_ALWAYS">Всегда</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_OFF">Выкл</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_ON">ВКЛ.</string>
+<string name="TV_CFG_PVR">Система PVR</string>
+<string name="TV_CFG_PVR_SELECT_DISK">Выбор дисков</string>
+<string name="TV_CFG_PVR_SELECT_USB">Выбрать USB</string>
+<string name="TV_CFG_PVR_USB_SPEED">Скорость USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE">Размер временного сдвига</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_512M">512M</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_1G">1G</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE_2G">2G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_4G">4G</string>
+<string name="TV_CFG_PVR_USB_FORMAT">Формат USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_ALWAYS">Отлож. просмотр всегда</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE">Цветовой диапазон</string>
+<string name="TV_CFG_HDMI_CEC_MENU_LIST">HDMI-CEC</string>
+<string name="TV_CFG_MENU_SHOW_TIME">Время Меню шоу</string>
+<string name="TV_CFG_STICKER_DEMO">Наклейка демо</string>
+<string name="TV_CFG_SLEEP_TIMER_OFF">Выкл</string>
+    <string name="TV_CFG_SLEEP_TIMER_5_MINUTES">5 минут</string>
+    <string name="TV_CFG_SLEEP_TIMER_15_MINUTES">15 минут</string>
+<string name="TV_CFG_SLEEP_TIMER_30_MINUTES">30 минут</string>
+    <string name="TV_CFG_SLEEP_TIMER_60_MINUTES">60 минут</string>
+    <string name="TV_CFG_SLEEP_TIMER_90_MINUTES">90 минут</string>
+<string name="TV_CFG_SLEEP_TIMER_120_MINUTES">120 минут</string>
+<string name="TV_CFG_AUTO_SLEEP">Автоматическое выключение</string>
+<string name="TV_CFG_AUTO_SLEEP_OFF">Выкл</string>
+    <string name="TV_CFG_AUTO_SLEEP_1_HOURS">1 час</string>
+<string name="TV_CFG_AUTO_SLEEP_2_HOURS">2 часа</string>
+<string name="TV_CFG_AUTO_SLEEP_3_HOURS">3 часа</string>
+<string name="TV_CFG_AUTO_SLEEP_4_HOURS">4 часа</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP">No Signal Sleep</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_OFF">Выкл</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP_5_MINUTES">5 минут</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_10_MINUTES">10 минут</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP_15_MINUTES">15 минут</string>
+<string name="TV_CFG_TIME_YEAR">Год</string>
+<string name="TV_CFG_TIME_MONTH">Месяц</string>
+<string name="TV_CFG_TIME_DAY">день</string>
+<string name="TV_CFG_TIME_HOUR">час</string>
+<string name="TV_CFG_TIME_MINUTE">минут</string>
+    <string name="TV_CFG_START_OFF_TIME">Press "Enter to Set OffTime"</string>
+<string name="TV_CFG_REBOOT_SYSTEM">Перезагрузить систему</string>
+<string name="TV_CFG_RECOVERY">Сброс настроек телевизора</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST_SETTING">лист устройства</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_AUTO">Авто</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_ON">ВКЛ.</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_OFF">Выкл</string>
+<string name="TV_CFG_CAPTION_ON">ВКЛ.</string>
+	<string name="TV_CFG_CAPTION_ON_MUTE">ON MUTE</string>
+<string name="TV_CFG_CAPTION_OFF">Выкл</string>
+<string name="TV_CFG_CC_MODE_OFF">Выкл</string>
+<string name="TV_CFG_CC_MODE_CC1">СС1</string>
+<string name="TV_CFG_CC_MODE_CC2">СС2</string>
+<string name="TV_CFG_CC_MODE_CC3">СС3</string>
+<string name="TV_CFG_CC_MODE_CC4">CC4</string>
+<string name="TV_CFG_CC_MODE_TXT1">TXT1</string>
+<string name="TV_CFG_CC_MODE_TXT2">TXT2</string>
+<string name="TV_CFG_CC_MODE_TXT3">TXT3</string>
+<string name="TV_CFG_CC_MODE_TXT4">TXT4</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SET">Параметры языка аудио</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_PRIMARY_SET">Основной язык аудио</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SECOND_SET">Второй язык аудио</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SWITCH">Переключение языка субтитров</string>
+
+<!-- OSDLanguage -->
+<string name="TV_CFG_OSD_LANGUAGE_ENGLISH">English</string>
+    <string name="TV_CFG_OSD_LANGUAGE_THAI">ภาษาไทย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ARABIC">العربية</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FARSI">فارسی</string>
+    <string name="TV_CFG_OSD_LANGUAGE_RUSSIAN">русский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FRENCH">française</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HEBREW">עברית שפה</string>
+    <string name="TV_CFG_OSD_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+<string name="TV_CFG_OSD_LANGUAGE_INDONESIAN">индонезийский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_PORTUGUESE">português</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SPANISH">español</string>
+    <string name="TV_CFG_OSD_LANGUAGE_TURKISH">Türk dili</string>
+<string name="TV_CFG_OSD_LANGUAGE_GERMAN">Немецкий</string>
+<string name="TV_CFG_OSD_LANGUAGE_CZECH">чешский</string>
+<string name="TV_CFG_OSD_LANGUAGE_DANISH">датский</string>
+<string name="TV_CFG_OSD_LANGUAGE_GREEK">греческий</string>
+<string name="TV_CFG_OSD_LANGUAGE_CROATIAN">хорватский</string>
+<string name="TV_CFG_OSD_LANGUAGE_ITALIAN">итальянский</string>
+<string name="TV_CFG_OSD_LANGUAGE_HUNGARIAN">венгерский</string>
+<string name="TV_CFG_OSD_LANGUAGE_DUTCH">голландский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_NORWEGIAN">Norwegian</string>
+<string name="TV_CFG_OSD_LANGUAGE_POLISH">польский</string>
+<string name="TV_CFG_OSD_LANGUAGE_ROMANIAN">румынский</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVENIAN">словенский</string>
+<string name="TV_CFG_OSD_LANGUAGE_SERBIAN">сербский</string>
+<string name="TV_CFG_OSD_LANGUAGE_FINNISH">финский</string>
+<string name="TV_CFG_OSD_LANGUAGE_SWEDISH">шведский</string>
+<string name="TV_CFG_OSD_LANGUAGE_BULGARIAN">болгарский</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVAK">словацкий</string>
+<string name="TV_CFG_OSD_LANGUAGE_CHINESE">китайский</string>
+<string name="TV_CFG_OSD_LANGUAGE_GAELIC">гаэльский</string>
+<string name="TV_CFG_OSD_LANGUAGE_WELSH">валлийский</string>
+<string name="TV_CFG_OSD_LANGUAGE_IRISH">ирландский</string>
+<string name="TV_CFG_OSD_LANGUAGE_LATVIAN">латышский</string>
+<string name="TV_CFG_OSD_LANGUAGE_ESTONIAN">эстонский</string>
+<string name="TV_CFG_OSD_LANGUAGE_GALLEGAN">галисийской</string>
+<string name="TV_CFG_OSD_LANGUAGE_BASQUE">баскский</string>
+<string name="TV_CFG_OSD_LANGUAGE_CATALAN">каталонский</string>
+<string name="TV_CFG_OSD_LANGUAGE_ICELANDIC">исландский</string>
+<string name="TV_CFG_OSD_LANGUAGE_LETZEBURGESCH">Люксембургский</string>
+<string name="TV_CFG_OSD_LANGUAGE_LITHUANIAN">литовский</string>
+<string name="TV_CFG_OSD_LANGUAGE_UKRAINIAN">украинский</string>
+<string name="TV_CFG_OSD_LANGUAGE_BYELORUSSIAN">белорусский</string>
+<string name="TV_CFG_OSD_LANGUAGE_MAORI">Маори</string>
+<string name="TV_CFG_OSD_LANGUAGE_MANDARIN">Мандаринский</string>
+<string name="TV_CFG_OSD_LANGUAGE_CANTONESE">кантонский</string>
+<string name="TV_CFG_OSD_LANGUAGE_KOREAN">корейский</string>
+<string name="TV_CFG_OSD_LANGUAGE_JAPANESE">японский</string>
+<string name="TV_CFG_OSD_LANGUAGE_HINDI">Хинди</string>
+
+
+<!-- SubtitleLanguage -->
+<string name="TV_CFG_SUBTITLE_LANGUAGE_OFF">Выкл</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_ARABIC">التطبيق المتجر</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_ENGLISH">English</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_IRANIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_FRENCH">Française</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_INDONESIAN">findonesia</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_HEBREW">עברית שפה</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_RUSSIAN">русский</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_TAHITIAN">ภาษาไทย</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE_CHS">简体中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE">繁體中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PERSIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SPANISH">Inglés</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_UNKNOWN">НЕИЗВЕСТНЫЙ</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SETTING">Параметры языка субтитров</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_PRIMARY">Основной язык субтитров</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SECONDE">Второй язык субтитров</string>
+
+<!-- VGA Setup -->
+<string name="TV_CFG_VGA_SETTING">VGA</string>
+<string name="TV_CFG_SCART_SETTING">Scart</string>
+<string name="TV_CFG_VGA_AUTO_ADJUST">Авторегулировка</string>
+<string name="TV_CFG_VGA_H_POSITION">Полож по горизонтали</string>
+<string name="TV_CFG_VGA_V_POSITION">Полож по вертикали</string>
+<string name="TV_CFG_VGA_PHASE">Фаза</string>
+<string name="TV_CFG_VGA_FREQUENCY">Развертка</string>
+
+<!-- Lock-->
+<string name="TV_CFG_LOCK_SETTING">Блокировать</string>
+<string name="TV_CFG_LOCK_KEY_EVENT_LOCK">Блокировка панели</string>
+<string name="TV_CFG_LOCK_INPUT_PASSWORD">Введите пароль</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD">Изменение пароля</string>
+<string name="TV_CFG_LOCK_COMFIRM_PASSWORD">Подтвердите пароль</string>
+<string name="TV_CFG_LOCK_AGE_LIST">Родительский контроль</string>
+<string name="TV_CFG_PANEL_LOCK">Блокировка панели</string>
+<string name="TV_CFG_LOCK_CHANNEL_LIST">Блок Программа</string>
+<string name="TV_CFG_LOCK_SYSTEM_LOCK">Блокировка системы</string>
+<string name="TV_CFG_LOCK_SET_LOCK_PARENTAL_CONTROL_RATING_NUMBER">Родительский контроль</string>
+<string name="TV_CFG_LOCK_RATING_0">нету</string>
+<string name="TV_CFG_LOCK_RATING_1">4</string>
+<string name="TV_CFG_LOCK_RATING_2">5</string>
+<string name="TV_CFG_LOCK_RATING_3">6</string>
+<string name="TV_CFG_LOCK_RATING_4">7</string>
+<string name="TV_CFG_LOCK_RATING_5">8</string>
+<string name="TV_CFG_LOCK_RATING_6">9</string>
+    <string name="TV_CFG_LOCK_RATING_7">10</string>
+    <string name="TV_CFG_LOCK_RATING_8">11</string>
+    <string name="TV_CFG_LOCK_RATING_9">12</string>
+    <string name="TV_CFG_LOCK_RATING_10">13</string>
+    <string name="TV_CFG_LOCK_RATING_11">14</string>
+    <string name="TV_CFG_LOCK_RATING_12">15</string>
+    <string name="TV_CFG_LOCK_RATING_13">16</string>
+    <string name="TV_CFG_LOCK_RATING_14">17</string>
+    <string name="TV_CFG_LOCK_RATING_15">18</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_SUCCESS">Изменение пароля успешно</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_FAIL">Ошибка изменения пароля</string>
+
+<!-- Channel Search -->
+<string name="channel_programs">Программы</string>
+<string name="channel_info">Инфо о канале</string>
+<string name="mannual_search">РУЧНОЙ поиск</string>
+<string name="are_you_sure_stop_DTV_search">Вы уверены, что для выхода из режима настройки телевизора?</string>
+<string name="symbol_rate">символьная скорость</string>
+<string name="band_width">Проп. спос.</string>
+<string name="module_mode">модуляция</string>
+<string name="signal_quality">Качество сигнала</string>
+<string name="signal_strength">Сила сигнала</string>
+<string name="signal_network">Сеть</string>
+<string name="signal_tsid">Транспортный поток</string>
+<string name="signal_server">Сервер</string>
+<string name="signal_modulation">модуляция</string>
+<string name="search_progress">Ход поиска</string>
+<string name="program_tv">Телепрограммы</string>
+<string name="program_dtv">Программы DTV</string>
+<string name="program_radio">Радиопередачи</string>
+<string name="program_data">ПО обработки данных</string>
+<string name="search_channel">Настройка</string>
+<string name="auto_search">Автоустановка ATV</string>
+<string name="frequency_adjust">Настройка частоты</string>
+<string name="nit_search">Полный поиск каналов</string>
+    <string name="channel_setting">Channel settings</string>
+<string name="enter">вход</string>
+<string name="frequency">частота</string>
+<string name="frequency_segment">Сегм. кан.</string>
+    <string name="channel_count">Channel Count></string>
+<string name="crt_channel_num">Номер текущего канала</string>
+
+    <string name="start_fine_search">Press "Left" or "Right" to fine search</string>
+<string name="start_manual_search">Длительно нажмите «Левый» или «Правый», чтобы начать ручной поиск</string>
+    <string name="back_hint">Нажм. Назад, чтобы выйти</string>
+<string name="frequencypoint_setting">Параметры частоты</string>
+<string name="video_vod">Видео по запросу</string>
+<string name="main_frequencypoint">Основная частота</string>
+    <string name="loader_frequencypoint">Loader frequency</string>
+<string name="start_frequency">Начальная частота</string>
+<string name="end_frequency">Граница частоты</string>
+<string name="crt_frequency">Текущая частота</string>
+<string name="start_search">Начать поиск</string>
+<string name="confirm">OK</string>
+<string name="cancel">Выход</string>
+
+    <string name="not_empty">can not be empty</string>
+<string name="city_setting">Региональные параметры</string>
+<string name="switch_city">переключить регион</string>
+<string name="save">Сохранить</string>
+
+<!-- EPG-->
+<string name="epgmanagetitle">EPG</string>
+<string name="epgchannellist">Список каналов</string>
+<string name="epgchanneldate">Дата</string>
+<string name="epgprogramname">Название программы</string>
+<string name="epginfomation">Информация</string>
+<string name="epgtipsschedule">Расписание Список</string>
+<string name="epgtipsreminder">Параметры напоминания</string>
+<string name="epgtipsrecord">настройки записи</string>
+<string name="epgsettingmode">Режим</string>
+<string name="epgsettingtime">ВРЕМЯ</string>
+<string name="epgscheduledelete">Стереть</string>
+<string name="epg_recodesetting_channel">КАНАЛ</string>
+<string name="epg_recodesetting_repeat">Режим повтора</string>
+<string name="epg_recodesetting_startmonth">Начальный месяц</string>
+<string name="epg_recodesetting_startdate">Дата</string>
+<string name="epg_recodesetting_starthour">час</string>
+<string name="epg_recodesetting_startminute">минут</string>
+<string name="epg_recodesetting_endmonth">Конечный месяц</string>
+<string name="epg_recodesetting_enddate">Дата</string>
+<string name="epg_recodesetting_endhour">час</string>
+<string name="epg_recodesetting_endminute">минут</string>
+<string name="epg_remindsetting_month">Месяц</string>
+<string name="epg_mode_reminder">напоминание</string>
+<string name="epg_mode_recorder">Рекордер</string>
+    <string name="epg_setting_button">Press "OK" to Setting</string>
+<string-array name="epg_record_moths">
+<item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+
+</string-array>
+<string-array name="epg_record_days">
+<item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+</string-array>
+<string-array name="epg_record_hours">
+<item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+</string-array>
+<string-array name="epg_record_minutes">
+<item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+</string-array>
+<string-array name="epg_record_repeate_mode">
+<item>раз</item>
+<item>Ежедневно</item>
+<item>еженедельно</item>
+</string-array>
+<string-array name="epg_record_time_tips">
+<item>нету</item>
+<item>удача</item>
+<item>Прошлый</item>
+<item>Наложение</item>
+        <item>Endtime Before Start</item>
+        <item>Endtime Exceed Period</item>
+<item>полный</item>
+<item>Новый конфликт напоминания</item>
+<item>Конфликт напоминания DB</item>
+</string-array>
+<string name="SKY_FAILED">ошибка</string>
+<string name="SKY_SUCCESS">удача</string>
+<string name="SKY_insert_cable">Вставьте кабель</string>
+<string name="str_epg_schedule_y_back">назад</string>
+<string name="str_epg_schedule_r_delete">Стереть</string>
+
+<string name="SKY_SEARCH">поиск</string>
+<string name="SKY_H_DIRECTION_KEY">для перемещения курсора влево и вправо</string>
+<string name="SKY_V_DIRECTION_KEY">для перемещения курсора вверх и вниз</string>
+<string name="SKY_DELETE">Стереть</string>
+    <string name="SKY_SHUTTLE_ROTATE">Shuttle toggle selection</string>
+<string name="SKY_SEARCH_LEFTKEY">Нажмите кнопку Влево, чтобы удалить</string>
+<string name="SKY_SEARCH_TEXT">Поиск по буквам пиньинь</string>
+
+<!-- 网络部分 -->
+<string name="NET_WIFI_HOT_SPOT">Узлы</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_OPEN">Открыть</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_CLOSE">Закрыть</string>
+<string name="NET_WIFI_HOT_SPOT_NAME">Имя узла</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_SET">Шифрование</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_OPEN">Открыть</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_CLOSE">Шифрование</string>
+<string name="NET_WIFI_HOT_SPOT_PWD">Активный пароль</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_ERROR_TIP">8-24 букв или цифр</string>
+<string name="NET_WIFI_HOT_SPOT_BTN_SAVE">Сохранить</string>
+<string name="NET_WIFI_HOT_SPOT_NAME_ERROR_TIP">Имя не может быть пустым</string>
+<!-- 无线列表选择 -->
+    <string name="NET_WIFI_SELECT_WPS">WIFI WPS:</string>
+<string name="NET_WIFI_SELECT_WPS_ENTER">вход</string>
+<string name="NET_WIFI_SELECT_LIST">список беспроводных сетей: </string>
+<string name="NET_WIFI_SELECT_OTHER_WIFI">Другая сеть</string>
+<!-- 手动设置ip -->
+<string name="SKY_IP_SETTING_GREATER_THAN_255">Длина не должна превышать 255</string>
+<string name="SKY_IP_SETTING_EMPTY_IP">Не может быть пустым</string>
+    <string name="Sky_IP_SETTING_START_ZERO">IP number start with 0 not allowed</string>
+<string name="SKY_IP_SETTING_INVALID">Недопустимый IP</string>
+<string name="SKY_IP_ASSIGNMENT_TYPE">Тип IP</string>
+<string name="SKY_IP_DHCP_STATIC">статический</string>
+<string name="SKY_IP_DHCP_DYNAMIC">динамический</string>
+<string name="SKY_IP_TEXT">IP</string>
+<string name="SKY_GATEWAY_TEXT">ШЛЮЗ</string>
+<string name="SKY_MASK_TEXT">Маска</string>
+<string name="SKY_DNS_TEXT">DNS</string>
+<string name="SKY_BTN_CONNECT_TEXT">подключать</string>
+<!-- 输入网络密码 -->
+<string name="INPUT_WIFI_PWD_HINT">Введите пароль Wi-Fi: </string>
+<string name="INPUT_WIFI_PWD_EDIT">пароль</string>
+    <string name="INPUT_WIFI_PWD_ERROR_TIPS">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_1">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_2">Note: the password length is more than 64</string>
+<!-- 旧的网络设置使用，新的这些有可能被引用了 -->
+<string name="SKY_WIFI_OPEN">Wi-Fi открыт</string>
+<string name="SKY_WIFI_CLOSE">Wi-Fi закрыт</string>
+<string name="SKY_BTN_SET_WIFI_TEXT">Параметры IP</string>
+<string name="SKY_WIFI_SELECT_TEXT">Выбрать WLAN</string>
+<string name="SKY_PUSH_TO_TALK_TEXT">WI-FI WPS</string>
+<string name="SKY_OTHER_TEXT">Другая</string>
+<string name="SKY_WIFI_NAME_TEXT">SSID</string>
+<string name="SKY_ENCRYPTION_TEXT">Шифрование</string>
+<string name="SKY_PASSWORD_TEXT">Пароль: </string>
+<string name="SKY_PWD_LESS_THAN_8_DIGITS">Длина пароля менее 8</string>
+    <string name="SKY_PWD_NO_EMPTY">Empty password not allowed</string>
+
+<!-- AD -->
+<string name="TV_CFG_SWITCH_AD_TRUE">AD открыт!</string>
+    <string name="TV_CFG_SWITCH_AD_FALSE">AD is Close!</string>
+<string name="TV_CFG_SWITCH_AD_NONE">Не поддерживается</string>
+
+<!-- add_by_wangxian -->
+<string name="install_guide_welcome_message">Добро пожаловать в руководство по нач. настр.</string>
+<string name="left_item_language">Язык</string>
+<string name="left_item_timezone">Часовой пояс</string>
+<string name="left_item_network">Сеть</string>
+<string name="left_item_searchmode">Режим поиска</string>
+<string name="next_hint">Следующий</string>
+<string name="set_network">Настройка сети</string>
+<string name="installsearch">поиск</string>
+    <string name="searchhint">Нажмите OK, чтобы войти в Параметры</string>
+    <string name="netchoise_hint">Выбор сети</string>
+<string name="netconnection">Сетевое соединение</string>
+<string name="wiresetup">Ethernet</string>
+<string name="wirelesssetup">WI-FI</string>
+<string name="wifiSetup">Настройка WI-FI</string>
+<string name="wifiButtonConnect">подключать</string>
+<string name="wifiButtonExit">ВЫХОД</string>
+<string name="wifiInvialidPwd">Недопустимый пароль!</string>
+<!-- add_by_zhuming  -->
+<!-- Aus time zone  -->
+<string name="TV_CFG_TIMEZONE_WA">Западная Австралия GMT +8</string>
+<string name="TV_CFG_TIMEZONE_SA">Южная Австралия GMT +9.5</string>
+<string name="TV_CFG_TIMEZONE_NT">Северная территория GMT +9.5</string>
+<string name="TV_CFG_TIMEZONE_NSW">Новый Южный Уэльс GMT +10</string>
+<string name="TV_CFG_TIMEZONE_VIC">Виктория GMT +10</string>
+<string name="TV_CFG_TIMEZONE_QLD">Квинсленд GMT +10</string>
+<string name="TV_CFG_TIMEZONE_TAS">Тасмания GMT +10</string>
+<!-- Brazil time zone  -->
+    <string name="TV_CFG_TIMEZONE_F_NORONHA">GMT-2</string>
+    <string name="TV_CFG_TIMEZONE_BUENOS_AIRES">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_BRASILIA">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_NORTHEAST">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_M_GROSSO">GMT-4</string>
+    <string name="TV_CFG_TIMEZONE_ACRE">GMT-5</string>
+
+<!-- PVR  -->
+<string name="str_pvr_listview_item">Вид текста</string>
+<string name="str_player_recorder">Рекордер</string>
+<string name="str_player_playab">A/B повтор</string>
+<string name="str_player_stop">Стоп</string>
+<string name="str_player_play">Играть</string>
+<string name="str_player_pause">Пауза</string>
+    <string name="str_player_rev">Rev</string>
+<string name="str_player_ff">FF</string>
+<string name="str_player_slow">Slow Motion</string>
+<string name="str_player_time">Время Играть</string>
+<string name="str_player_forward">вперед</string>
+<string name="str_player_backward">назад</string>
+<string name="str_pvr_is_recording">запись</string>
+<string name="str_pvr_mode_recorde">Запись...</string>
+<string name="str_pvr_mode_timeshift">Отлож. просмотр...</string>
+<string name="str_pvr_usb_free_space">Своб. место на USB</string>
+    <string name="str_pvr_usb_lable_name">USB Lable Name</string>
+
+<string name="str_pvr_record_exit_confirm">Запись ... Вы уверены, чтобы выйти?</string>
+<string name="str_pvr_timeshift_exit_confirm">Выполняется отлож. просмотр... Вы хотите выйти?</string>
+<string name="str_pvr_program_saving">Программа в настоящее время хранится ... подождите!</string>
+    <string name="str_info_pvr_playback_exit_confirm">Now playback... Do you really want to exit?</string>
+<string name="sky_pvr_support_disk_format">PVR файловая система FAT поддерживает только формат диска!</string>
+<string name="str_pvr_insert_usb">Пожалуйста, вставьте USB диск первым!</string>
+    <string name="sky_pvr_record_false">Record false!</string>
+    <string name="sky_pvr_timeshift_false">Timeshift false!</string>
+    <string name="sky_pvr_disk_outofspace">Disk does not have enough space !</string>
+    <string name="sky_pvr_filesystem_unsupported">please, format your disk for FAT32 !</string>
+    <string name="sky_pvr_support_timeshift_fail">This program do not allow timeshift!</string>
+    <string name="sky_pvr_support_record_fail">This program do not allow record!</string>
+<string name="sky_pvr_record_list">Список записей PVR</string>
+<string name="sky_pvr_record_list_lcn">LCN</string>
+<string name="sky_pvr_record_list_channel">КАНАЛ</string>
+<string name="sky_pvr_record_list_program">Программа</string>
+<string name="sky_pvr_record_list_recordtime">Время записи</string>
+<string name="sky_pvr_record_list_delete">Стереть</string>
+    <string name="sky_pvr_record_list_index">Index</string>
+<string name="sky_pvr_record_list_ok">OK</string>
+<string name="sky_pvr_record_list_yellow">полный экран</string>
+<string name="sky_pvr_record_list_descend">спускаться</string>
+<string name="sky_pvr_record_list_ascend">взойти</string>
+<string name="sky_pvr_record_list_delete_tip">Вы хотите удалить этот элемент?</string>
+
+<!-- Channel Info  -->
+<string name="str_source_info_channel">Канал: </string>
+<string name="str_source_info_audioformat">Аудиоформат: </string>
+<string name="str_source_info_subtitle">Субтитры:</string>
+<string name="str_source_info_chname">Имя канала: </string>
+<string name="str_source_info_videoformat">Формат видео: </string>
+<string name="str_source_info_audiolanguage">Язык аудио: </string>
+<string name="str_source_info_resolution">Разрешение:</string>
+<string name="str_source_info_age">Возраст: </string>
+<string name="str_source_info_time">Время:</string>
+<string name="str_source_info_programtype">Тип программы: </string>
+<string name="str_source_info_programname">Имя программы: </string>
+<string name="str_source_info_category">Категория программы: </string>
+<string name="str_source_info_no_information">нет данных</string>
+
+<string name="str_time_hour">час</string>
+<string name="str_time_minute">минут</string>
+<string name="str_time_second">Секунды</string>
+
+
+<string name="str_common">Common</string>
+<string name="str_scan_atv">ATV</string>
+<string name="str_scan_dtv">DTV</string>
+<string name="str_scan_atv_dtv">ATV+DTV</string>
+    <string name="str_scan_air">Antena</string>
+<string name="str_scan_cable">Кабель</string>
+    <string name="str_scan_air_cable">Antena+Cable</string>
+
+<!-- LNB Setting -->
+<string name="str_lnb_setup_title">Настройка LNB</string>
+<string name="str_satellite_list">спутник</string>
+<string name="str_lnb_setup_list">Предпочтения</string>
+<string name="str_responder_list">60 мин.</string>
+<string name="str_lnb_item_add">ДОБАВИТЬ</string>
+<string name="str_lnb_item_Position">положение</string>
+<string name="str_lnb_item_limit">предел</string>
+<string name="str_lnb_item_location">местоположение</string>
+<string name="str_lnb_item_scan">Сканирование</string>
+    <string name="str_lnb_info_hint">Signal Info</string>
+<string name="str_lnb_item_edit">редактировать</string>
+<string name="str_lnb_item_delete">Стереть</string>
+<string name="str_lnb_signal_quality">Качество</string>
+<string name="str_lnb_signal_strength">Сила</string>
+<string name="str_lnb_signal_add">ДОБАВИТЬ</string>
+<string name="str_lnb_signal_edit">редактировать</string>
+<string name="str_lnb_signal_scan">Сканирование</string>
+<string name="str_lnb_signal_delete">Стереть</string>
+<string name="str_lnb_signal_number_title">Номер</string>
+<string name="str_lnb_signal_name_title">Название спутника</string>
+    <string name="str_lnb_signal_derection_title">Longitude Derection</string>
+<string name="str_lnb_signal_angle_title">Долгота Угол</string>
+<string name="str_lnb_signal_band_title">Полоса</string>
+<string name="str_lnb_signal_comfirm_button">Начать поиск</string>
+<string name="str_lnb_signal_scan_mode_title">Режим сканирования</string>
+<string name="str_lnb_signal_network_search_title">Поиск сети</string>
+<string name="str_lnb_signal_service_type_title">Тип службы</string>
+<string name="str_lnb_signal_search_option_title">Параметры поиска</string>
+<string name="str_lnb_transponder_frequency">частота</string>
+<string name="str_lnb_transponder_symbol_rate">символьная скорость</string>
+<string name="str_lnb_transponder_polarization">поляризация</string>
+
+<string name="TV_CFG_LNB_LNB_TAPY_UNIVERSAL">УНИВЕРСАЛЬНЫЙ 9750 / 10600</string>
+<string name="TV_CFG_LNB_LNB_TAPY_MDU_1">MDU1 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_2">MDU2 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_3">MDU3 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_4">MDU4 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_MHZ">5150MHZ 5150 / 5150</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5750_MHZ">5750MHZ 5750 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_5750_MHZ">5150/5750MHZ 5150 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_MHZ">9750MHZ 9750 / 9750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10750_MHZ">10750MHZ 10750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10600_MHZ">10600MHZ 10600 / 10600</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11250_MHZ">11250MHZ 11250 / 11250</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11300_MHZ">11300MHZ 11300 / 11300</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11475_MHZ">11475MHZ 11475 / 11475</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_10700_MHZ">9750/10700MHZ 9750 / 10700</string>
+    <string name="TV_CFG_LNB_LNB_9750_10750_MHZ">9750/10750MHZ 9750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_10000_10450_MHZ">10000/10450MHZ 10000 / 10450</string>
+<string name="TV_CFG_LNB_LNB_USER_MODE">Режим пользователя</string>
+
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_V">V</string>
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_H">Н</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE">бесплатно</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE_SCRAMBLE">Бесплатно + схватка</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_SCRAMBLE">схватка</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_OFF">Выкл</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_ON">ВКЛ.</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV">DTV</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV_RADIO">DTV + Радио</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_RADIO">РАДИО</string>
+<string name="TV_CFG_LNB_POWER_OFF">Выкл</string>
+    <string name="TV_CFG_LNB_POWER_13V_18V">13V/18V</string>
+    <string name="TV_CFG_LNB_POWER_13V">13V</string>
+    <string name="TV_CFG_LNB_POWER_18V">18V</string>
+    <string name="TV_CFG_LNB_POWER_14V_19V">14V/19V</string>
+    <string name="TV_CFG_LNB_POWER_14V">14V</string>
+    <string name="TV_CFG_LNB_POWER_19V">19V</string>
+<string name="TV_CFG_AUTO">Авто</string>
+<string name="TV_CFG_ON">ВКЛ.</string>
+<string name="TV_CFG_OFF">Выкл</string>
+<string name="TV_CFG_BURST_A">BURST A</string>
+<string name="TV_CFG_BURST_B">BURST B</string>
+
+<string name="TV_CFG_NONE">нету</string>
+<string name="TV_CFG_LNB_1">LNB 1</string>
+    <string name="TV_CFG_LNB_2">LNB 2</string>
+    <string name="TV_CFG_LNB_3">LNB 3</string>
+    <string name="TV_CFG_LNB_4">LNB 4</string>
+    <string name="TV_CFG_LNB_5">LNB 5</string>
+    <string name="TV_CFG_LNB_6">LNB 6</string>
+    <string name="TV_CFG_LNB_7">LNB 7</string>
+    <string name="TV_CFG_LNB_8">LNB 8</string>
+    <string name="TV_CFG_LNB_9">LNB 9</string>
+    <string name="TV_CFG_LNB_10">LNB 10</string>
+    <string name="TV_CFG_LNB_11">LNB 11</string>
+    <string name="TV_CFG_LNB_12">LNB 12</string>
+    <string name="TV_CFG_LNB_13">LNB 13</string>
+    <string name="TV_CFG_LNB_14">LNB 14</string>
+    <string name="TV_CFG_LNB_15">LNB 15</string>
+    <string name="TV_CFG_LNB_16">LNB 16</string>
+
+    <string name="TV_CFG_LNB_DIS_EQC_10_ENUM_TYPE">DisEqc 1.0</string>
+    <string name="TV_CFG_LNB_DIS_EQC_11_ENUM_TYPE">DisEqc 1.1</string>
+    <string name="TV_CFG_LNB_DIS_EQC_12_ENUM_TYPE">DisEqc 1.2</string>
+    <string name="TV_CFG_LNB_DIS_EQC_13_ENUM_TYPE">DisEqc 1.3</string>
+<string-array name="str_lnb_option_list">
+<item>Передатчик</item>
+<item>Питание LNB</item>
+<item>Длинный кабель</item>
+<item>22 кГц</item>
+<item>Тип LNB</item>
+<item>DiSEqC1.0</item>
+<item>DiSEqC1.1</item>
+        <item>Montor</item>
+</string-array>
+<string-array name="str_array_scan_mode">
+<item>бесплатно</item>
+<item>Бесплатно + схватка</item>
+<item>схватка</item>
+</string-array>
+<string-array name="str_array_network_search_option">
+<item>Выкл</item>
+<item>ВКЛ.</item>
+</string-array>
+<string-array name="str_array_service_type">
+<item>DTV</item>
+<item>DTV + Радио</item>
+<item>РАДИО</item>
+</string-array>
+<string-array name="str_array_search_option">
+<item>Слепое сканирование</item>
+<item>Быстрое сканирование</item>
+</string-array>
+<string name="str_title_motor_setting">Параметры привода</string>
+<string-array name="str_array_move_setup_option">
+<item>Стоп</item>
+<item>ВОСТОК</item>
+<item>ЗАПАД</item>
+</string-array>
+<string-array name="str_array_longitude_direction_option">
+<item>ВОСТОК</item>
+<item>ЗАПАД</item>
+</string-array>
+<string-array name="str_array_latitude_direction_option">
+<item>к северу</item>
+<item>юг</item>
+</string-array>
+<string name="str_moto_set_moto_auto">Привод авто</string>
+    <string name="str_moto_set_moto_continue">Motor Continue</string>
+<string name="str_moto_set_move_setup">Настройка переноса</string>
+<string name="str_moto_set_store_positon">магазин Статус</string>
+<string name="str_moto_set_go_to_position">Перейти к положению</string>
+<string name="str_moto_set_go_to_reference">Перейти к ссылке</string>
+<string name="str_moto_set_set_west_limit">Задать ограничение для запада</string>
+<string name="str_moto_set_set_east_limit">Задать ограничение для востока</string>
+<string name="str_moto_set_disable_limit">Отключение Ограничить</string>
+<string name="str_moto_set_go_to_x">Перейти к X</string>
+<string name="str_moto_set_location">местоположение</string>
+<string name="str_moto_set_longitude_direction">Долгота Направление</string>
+<string name="str_moto_set_longitude_angle">Долгота Угол</string>
+<string name="str_moto_set_latitude_direction">Широта Направление</string>
+<string name="str_moto_set_latitude_angle">Широта Угол</string>
+<string-array name="str_array_satellite_derection">
+<item>ВОСТОК</item>
+<item>ЗАПАД</item>
+</string-array>
+<string-array name="str_array_satellite_band">
+<item>С</item>
+<item>ku</item>
+</string-array>
+    <string-array name="str_array_transponder_polarization">
+        <item>V</item>
+        <item>H</item>
+    </string-array>
+
+<!-- factory hotkey -->
+<string name="str_age_mode">M</string>
+<string name="str_bus_off">BUS OFF</string>
+    <string name="str_mac_addr">MAC ADDR : </string>
+    <string name="str_bar_code">BAR CODE : </string>
+
+<!-- Tips -->
+<string name="str_enter">вход</string>
+<string name="str_no_signal">НЕТ СИГНАЛА</string>
+<string name="str_audio_only">ТОЛЬКО АУДИО</string>
+<string name="str_data_only">только данные</string>
+<string name="str_program_lock">Блокировка программы</string>
+<string name="str_invalid_service">Недопустимая служба</string>
+<string name="str_no_ci_module">Нет CI-модуля</string>
+<string name="str_ci_plus_authentication">CI плюс аутентификация</string>
+<string name="str_scrambled_program">Перемешанные программы</string>
+<string name="str_unsupported_format">Не поддерживается формат</string>
+    <string name="str_auto_adjust">Auto Adjust...</string>
+<string name="str_please_wait">Пожалуйста, подождите...</string>
+    <string name="str_auto_adjust_success">Adjust Success!</string>
+    <string name="str_auto_adjust_fail">Adjust Fail!</string>
+<string name="str_tip_reset_tv">операция удалит информацию, и система перезагрузится, вы уверены?</string>
+    <string name="str_tip_off_timer">The time you have set in the past, please re-set!</string>
+    <string name="str_tip_plug_usb">No USB pluged or the format is wrong!</string>
+<string name="str_tip_usb_format">вы уверены, что для форматирования выбранного диска?</string>
+<string name="str_tip_usb_checking">Проверяется скорость...</string>
+<string name="str_tip_unplug_usb">Не отключайте устройство USB!</string>
+    <string name="str_tip_warning_usb_checking">Do you want to check speed of the selected disk?</string>
+<string name="str_tip_delete_program">Программа успешно удалена!</string>
+    <string name="str_tip_last_item">The late one be deleted!</string>
+<string name="str_tip_move_program">Перенос программы успешен!</string>
+<string name="str_tip_update_channel_list">Обновление списка каналов успешно!</string>
+<string name="str_tip_updating_channel_list">Список каналов обновляется, подождите...</string>
+<string name="str_tip_empty_channel_list">Список каналов пуст!</string>
+    <string name="str_tip_empty_epg_list">The Program No EPG!</string>
+    <string name="str_tip_switch_to_radio">Swtich To Radio!</string>
+    <string name="str_tip_switch_to_dtv">Swtich To DTV!</string>
+    <string name="str_tip_loading_chlist_title">Loading Channel List</string>
+<string name="str_tip_loading_chlist_content">Пожалуйста, подождите...</string>
+<string name="str_tip_ciplus_op_confirmation_title">Подтвердите CI+ OP Refresh</string>
+<string name="str_tip_ciplus_op_refresh">Вы позволяете ТВ сделать профиль оператор обновления ?</string>
+    <string name="str_tip_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_tip_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+    <string name="str_tip_cha_please_wait">CI invoke route switch ...</string>
+    <string name="str_tip_ci_async_cmd_switch_route">Wait a Moment Please</string>
+    <string name="str_tip_switch_language">Language is switching...Do not operate!</string>
+
+<string name="str_cha_programedit">программное редактирование</string>
+<string name="str_list_menu_hint_b_skip">ПРОПУСТИТЬ</string>
+    <string name="str_list_menu_hint_g_fivorite">Favorite</string>
+<string name="str_list_menu_hint_g_edit">редактировать</string>
+<string name="str_list_menu_hint_r_delete">Стереть</string>
+<string name="str_list_menu_hint_y_move">ПЕРЕМЕСТИТЬ</string>
+<string name="str_lock_system">система блокировки</string>
+<string name="str_lock">Блокировать</string>
+
+<!-- for ci+ op -->
+<string name="str_ciplus_op_confirmation_title">Подтвердите CI+ OP Refresh</string>
+<string name="str_ciplus_op_refresh">Вы позволяете ТВ сделать профиль оператор обновления ?</string>
+<string name="str_op_menu_title">Меню профилей оператора</string>
+    <string name="str_op_channel_list_title">OP Profile Menu</string>
+<string name="str_op_menu">Меню OP</string>
+    <string name="str_op_forbid_channel_tuning_content">Forbid to do channel tune under OP mode.\nPlease exit OP mode at first.</string>
+<string name="str_enter_op">Введите OP</string>
+<string name="str_exit_op">Выход OP</string>
+<string name="str_delete_profile">Удалить Профиль</string>
+    <string name="str_delete_op_msg">Are you sure to delete the operator profile [</string>
+<string name="str_delete_op_confirm">Подтвердите, чтобы удалить OP</string>
+<string name="str_forbid_channel_tuning">Запрещать настройку канала</string>
+    <string name="str_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+
+
+<!-- for program edit -->
+<string name="str_program_edit_dialog_ok">OK</string>
+<string name="str_program_edit_dialog_cancel">Выход</string>
+<string name="str_program_edit_dialog_input">Введите</string>
+<string name="str_no_sinal">НЕТ СИГНАЛА</string>
+<string name="str_channelList_favorite">Список избранного</string>
+<string name="str_channelList_program">Список каналов</string>
+    <string name="program_guide_time">Program Guide:Time</string>
+
+<string name="str_stop_record_dialog_title">ОСТАНОВИТЬ ЗАПИСЬ</string>
+    <string name="str_stop_record_dialog_message">System will stop record if user want to channel change</string>
+    <string name="str_stop_record_playback_dialog_message">System will stop record and playback if user want to channel change</string>
+<string name="str_stop_record_dialog_confirm">Подтвердить</string>
+<string name="str_stop_record_dialog_cancel">Выход</string>
+<string name="str_stop_record_dialog_stop">Стоп</string>
+    <string name="str_stop_playback_dialog_title">STOP PLAYBACKING</string>
+    <string name="str_stop_playback_dialog_message">System will stop playback if user want to channel change</string>
+<string name="str_disk_too_slow">Недостаточная скорость диска</string>
+
+
+<string name="str_ci_insert">CI вставлен</string>
+<string name="str_ci_remove">CI извлечен</string>
+<string name="str_ci_autotest">Автотест CI</string>
+
+<!-- for program category -->
+<string name="TV_PROG_CATEGORY_MOVIE">КИНО</string>
+<string name="TV_PROG_CATEGORY_NEWS">Голос</string>
+<string name="TV_PROG_CATEGORY_SHOW">показать</string>
+<string name="TV_PROG_CATEGORY_SPORT">спорт</string>
+<string name="TV_PROG_CATEGORY_CHILDREN">детское</string>
+<string name="TV_PROG_CATEGORY_MUSIS">МУЗЫКА</string>
+<string name="TV_PROG_CATEGORY_ARTS">искусство</string>
+<string name="TV_PROG_CATEGORY_SOCIAL">социальный</string>
+<string name="TV_PROG_CATEGORY_EDUCATION">образование</string>
+<string name="TV_PROG_CATEGORY_LEISURE">отдых</string>
+<string name="TV_PROG_CATEGORY_SPECIAL">особый</string>
+<string name="TV_PROG_CATEGORY_CONSTANT">постоянный</string>
+<string name="TV_PROG_CATEGORY_USER_DEFINDED">определяется пользователем</string>
+<string name="TV_PROG_CATEGORY_UNDEFINDED">неопределенный</string>
+<string name="SKY_CFG_TV_SWITCH_LANG_WILL_REBOOT_TV">Настройки тлв. будут автом. сброшены, если перекл. язык</string>
+<string name="TV_VGA_RESOLUTION_UNSUPPORT">Не поддерживать</string>
+</resources>

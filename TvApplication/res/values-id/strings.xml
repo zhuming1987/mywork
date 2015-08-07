@@ -1,0 +1,1121 @@
+﻿<resources>
+
+<string name="app_name">Aplikasi TV</string>
+
+<string name="button_ok_str">Ya</string>
+<string name="button_cancel_str">Membatalkan</string>
+
+<string name="TV_CFG_ON_MODE">Hidup</string>
+<string name="TV_CFG_OFF_MODE">Mati</string>
+
+<string name="TV_CFG_QUICK_MENU_SETTING">Quick Menu</string>
+
+<string name="TV_CFG_NO_SIGNAL">TIDAK ADA SINYAL</string>
+
+<!-- 3D -->
+<string name="TV_CFG_THREED_SETTING">Setelan 3D</string>
+<string name="TV_CFG_3D_MODE">Modus 3D</string>
+<string name="TV_CFG_3D_MODE_OFF">Mati</string>
+<string name="TV_CFG_3D_MODE_AUTO">Otomts</string>
+<string name="TV_CFG_3D_MODE_2D_TO_3D">2D Ke 3D</string>
+<string name="TV_CFG_3D_MODE_SIDE_BY_SIDE">Kiri ke Kanan</string>
+<string name="TV_CFG_3D_MODE_TOP_AND_BOTTOM">Atas ke Bawah</string>
+<string name="TV_CFG_3D_MODE_FRAME_PACKING">Pengemasan bingkai</string>
+<string name="TV_CFG_3D_DEPTH">3D Depth</string>
+<string name="TV_CFG_3D_LR_SWAP">saklar kiri-kanan</string>
+<string name="TV_CFG_3D_TO_2D">3D Ke 2D</string>
+<string name="TV_CFG_3D_TO_2D_OFF">Mati</string>
+<string name="TV_CFG_3D_TO_2D_LEFT">KIRI</string>
+<string name="TV_CFG_3D_TO_2D_RIGHT">KANAN</string>
+
+<!-- CI SEtting -->
+<string name="TV_CFG_CI_SETTING">Informasi CI</string>
+<!-- Picture -->
+<string name="TV_CFG_PICTURE_SETTING">Setelan Foto</string>
+<string name="TV_CFG_BRIGHTNESS">Kecerahan</string>
+<string name="TV_CFG_CONTRAST">Kontras</string>
+<string name="TV_CFG_COLOR">Warna</string>
+<string name="TV_CFG_HUE">Warna</string>
+<string name="TV_CFG_NTSC_HUE">Mewarnai</string>
+<string name="TV_CFG_COLOR_TEMPERATURE">Suhu Warna</string>
+<string name="TV_CFG_SHARPNESS">Ketajaman</string>
+<string name="TV_CFG_DNR">DNR</string>
+<string name="TV_CFG_MPEG_NR">MPEG NR</string>
+<string name="TV_CFG_DNR_OFF">Mati</string>
+<string name="TV_CFG_DNR_LOW">Rendah</string>
+<string name="TV_CFG_DNR_MID">Menengah</string>
+<string name="TV_CFG_DNR_HIGH">Tinggi</string>
+<string name="TV_CFG_DNR_AUTO">Otomts</string>
+<string name="TV_CFG_MPEG_NR_OFF">Mati</string>
+<string name="TV_CFG_MPEG_NR_LOW">Rendah</string>
+<string name="TV_CFG_MPEG_NR_MID">Menengah</string>
+<string name="TV_CFG_MPEG_NR_HIGH">Tinggi</string>
+<string name="TV_CFG_DREAM_PANEL">DLC</string>
+<string name="TV_CFG_DREAM_PANEL_OFF">Mati</string>
+<string name="TV_CFG_DREAM_PANEL_LIGHT_SENSOR">Sensor lampu</string>
+<string name="TV_CFG_DREAM_PANEL_IMAGE_DETECT">Gambar</string>
+<string name="TV_CFG_DREAM_PANEL_MULTI_DETECT">Multi</string>
+<string name="TV_CFG_DREAM_PANEL_SWITCH">Ganti panel impian</string>
+<string name="TV_CFG_DTV_DISPLAY_MODE">Tampilan Mode</string>
+<string name="TV_CFG_DISPLAY_MODE">Tampilan Mode</string>
+<string name="TV_CFG_DISPLAY_MODE_16_9">16:9</string>
+<string name="TV_CFG_DISPLAY_MODE_4_3">4:3</string>
+<string name="TV_CFG_VIDEO_DISPLAY_MODE_DEFAULT">Standar</string>
+<string name="TV_CFG_DISPLAY_MODE_MOVIE">FILM</string>
+<string name="TV_CFG_DISPLAY_MODE_CAPTION">Judul</string>
+<string name="TV_CFG_DISPLAY_MODE_PANORAMA">Pemandangan</string>
+<string name="TV_CFG_DISPLAY_MODE_PERSON">Orang</string>
+<string name="TV_CFG_DISPLAY_MODE_AUTO">Otomts</string>
+<string name="TV_CFG_DISPLAY_MODE_JUST_SCAN"></string>
+<string name="TV_CFG_DISPLAY_MODE_P2P">P2P</string>
+<string name="TV_CFG_DISPLAY_MODE_DEFAULT">Standar</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM1">Perbesar1</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM2">Perbesar2</string>
+<string name="TV_CFG_PICTURE_MODE">Modus Gambar</string>
+<string name="TV_CFG_PICTURE_MODE_VIVID">Jelas</string>
+<string name="TV_CFG_PICTURE_MODE_SOFT">Lembut</string>
+<string name="TV_CFG_PICTURE_MODE_GAME">Permainan</string>
+<string name="TV_CFG_PICTURE_MODE_NATURAL">Natural</string>
+<string name="TV_CFG_PICTURE_MODE_SPORTS">Olahraga</string>
+<string name="TV_CFG_PICTURE_MODE_PC">PC</string>
+    <string name="TV_CFG_PICTURE_MODE_DYMANIC">Dymanic</string>
+<string name="TV_CFG_PICTURE_MODE_USER">Kebiasaan</string>
+<string name="TV_CFG_PICTURE_MODE_STANDARD">Standar</string>
+<string name="TV_CFG_PICTURE_MODE_4K_CINEMA">bioskop 4K</string>
+<string name="TV_CFG_NOSIGNAL">TIDAK ADA SINYAL</string>
+<string name="TV_CFG_NOTSUPPORTED">Tidak Didukung</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_WARM">hangat</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_STANDARD">Standar</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_COOL">Dingin </string>
+    <string name="TV_CFG_LOCAL_DIMMING_MODE">Local Dim.</string>
+<string name="TV_CFG_LOCAL_DIMMING_OFF_MODE">Tutup</string>
+<string name="TV_CFG_LOCAL_DIMMING_ON_MODE">Buka</string>
+<string name="TV_CFG_CINEMA_MODE">Modus Bioskop</string>
+<string name="TV_CFG_MANUAL_BACKLIGHT_ADJUST">LampuBlkg</string>
+<string name="TV_CFG_MEMC_MODE">MEMC</string>
+<string name="TV_CFG_MEMC_MODE_OFF">Mati</string>
+<string name="TV_CFG_MEMC_MODE_LOW">Rendah</string>
+<string name="TV_CFG_MEMC_MODE_MID">MID</string>
+<string name="TV_CFG_MEMC_MODE_HIGH">Tinggi</string>
+
+<!-- Sound -->
+<string name="TV_CFG_SOUND_SETTING">Setelan Suara</string>
+<string name="TV_CFG_VOLUME">Volume</string>
+<string name="TV_CFG_AUDIO_MUTE">Bisu</string>
+<string name="TV_CFG_SOUND_MODE">Modus Suara</string>
+<string name="TV_CFG_BASS">Bass</string>
+<string name="TV_CFG_TREBLE">Treble</string>
+<string name="TV_CFG_BALANCE">Kesemibangan</string>
+<string name="TV_CFG_SURROUND">Surround</string>
+<string name="TV_CFG_SOUND_CLARITY">Suara</string>
+<string name="TV_CFG_TRUBASS">TruBass</string>
+<string name="TV_CFG_SUBWOOFER">SubWoofer</string>
+<string name="TV_CFG_SUBWOOFER_VOLUME">S.W.VOL</string>
+<string name="TV_CFG_WALL_SOUND_EFFECTS">Wall-M.S.E.</string>
+<string name="TV_CFG_SOUND_SPDIF">SPDIF</string>
+<string name="TV_CFG_SOUND_SPDIF_SOURCE">mentah</string>
+<string name="TV_CFG_SOUND_SPDIF_PCM">PCM</string>
+<string name="TV_CFG_SOUND_SEPERATE">AUDIO SAJA</string>
+<string name="TV_CFG_SOUND_MODE_STANDARD">Standar</string>
+<string name="TV_CFG_SOUND_MODE_NEWS">Berita</string>
+<string name="TV_CFG_SOUND_MODE_MUSIC">MUSIK</string>
+<string name="TV_CFG_SOUND_MODE_MOVIE">FILM</string>
+<string name="TV_CFG_SOUND_MODE_SPORTS">Olahraga</string>
+<string name="TV_CFG_SOUND_MODE_USER">Kebiasaan</string>
+<string name="TV_CFG_EQUALIZER_SETTING">Pengatur Nada</string>
+<string name="TV_CFG_EQUALIZER">Pengatur Nada</string>
+<string name="TV_CFG_EQUALIZER_100HZ">100HZ</string>
+<string name="TV_CFG_EQUALIZER_500HZ">500Hz</string>
+    <string name="TV_CFG_EQUALIZER_1KHZ">1KHZ</string>
+<string name="TV_CFG_EQUALIZER_3KHZ">3KHz</string>
+<string name="TV_CFG_EQUALIZER_10KHZ">10KHZ</string>
+<string name="TV_CFG_MTS_MODE">MTS</string>
+<string name="TV_CFG_NICAM_MODE">Nicam</string>
+<string name="TV_CFG_AVL">AVL</string>
+<string name="TV_CFG_BBE_SOUND">BBE</string>
+<string name="TV_CFG_AUDIO_LANGUAGE">Tampilan Suara</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING">Tampilan Suara</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE">Modus Audio</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LL">LL</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LR">STEREO</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_RR">RR</string>
+
+
+<!-- MTS/NICAM -->
+<string name="TV_CFG_AUDIOMODE_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_A">DUAL I</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_AB">DUAL I+II</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_B">DUAL II</string>
+<string name="TV_CFG_AUDIOMODE_FORCED_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_G_STEREO">STEREO</string>
+<string name="TV_CFG_AUDIOMODE_HIDEV_MONO">HIDEV MONO</string>
+<string name="TV_CFG_AUDIOMODE_NUM">MONO</string>
+<string name="TV_CFG_AUDIOMODE_INVALID">MONO</string>
+<string name="TV_CFG_AUDIOMODE_K_STEREO">STEREO</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_LEFT">KIRI KIRI</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_RIGHT">KIRI KANAN</string>
+<string name="TV_CFG_AUDIOMODE_MONO_SAP">SAP</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_A">DUAL I</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_AB">DUAL I/II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_B">DUAL II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_STEREO">STEREO</string>
+<string name="TV_CFG_AUDIOMODE_RIGHT_RIGHT">KANAN KANAN</string>
+<string name="TV_CFG_AUDIOMODE_STEREO_SAP">SAP</string>
+
+<!-- Installed -->
+<string name="TV_CFG_CHANNEL_SETTING">Pemasangan</string>
+<string name="TV_CFG_AUTO_SEARCH">Mencari Otomatis</string>
+<string name="TV_CFG_MANUAL_SEARCH">Cari MANUAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM">Sistem Warna</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM">Sistem Suara</string>
+<string name="TV_CFG_SEARCH_TYPE">Jenis pencarian</string>
+    <string name="TV_CFG_FIVE_ATENNA">5V Atenna</string>
+<string name="TV_CFG_START_AUTO_SEARCH">Mulai Cari</string>
+<string name="TV_CFG_CHANNEL_EDIT">Channel Edit</string>
+<string name="TV_CFG_FAVORITE_LIST">Daftar Favorit</string>
+<string name="TV_CFG_CHANNEL_LIST">Daftar Siaran</string>
+    <string name="TV_CFG_SIGNAL_INFO">Signal Infomation</string>
+<string name="TV_CFG_CHANNEL_NO">No. Saluran</string>
+<string name="TV_CFG_FREQUENCY_SET">Frekuensi</string>
+<string name="TV_CFG_TV_CHANNEL_SKIP">Saluran Lancat</string>
+<string name="TV_CFG_TV_SEARCH_ATV">ATV</string>
+<string name="TV_CFG_TV_SEARCH_DTV">DTV</string>
+<string name="TV_CFG_TV_SEARCH_ATV_DTV">DTV+ATV</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_AUTO">Otomts</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_BGHI">PAL</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_N">PAL_N</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_M">PAL_M</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_60">PAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_M">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_44">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_SECAM">SECAM</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_I">I</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_DK">D/K</string>
+    <string name="TV_CFG_TV_SOUND_SYSTEM_BG">B/G</string> 
+<string name="TV_CFG_TV_SOUND_SYSTEM_M">M</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_L">L</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_M_BTSC">M</string>
+<string name="TV_CFG_EPG_REPEAT_ONCE">sekali</string>
+<string name="TV_CFG_EPG_REPEAT_WEEKLY">Mingguan</string>
+<string name="TV_CFG_EPG_REPEAT_DAILY">Harian</string>
+<string name="TV_CFG_SEARCH_TYPE_ATV">ATV</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBT">DVB_T</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBC">DVB_C</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBS">DVB_S</string>
+<string name="TV_CFG_SEARCH_TYPE_DTMB">DTMB</string>
+<string name="signal_info_title">sinyal informasi</string>
+<string name="TV_CFG_CI_INFORMATION">Informasi CI</string>
+<string name="TV_CFG_DVBS_AUTO_SEARCH">CariOtom DVB_S</string>
+<string name="TV_CFG_DVBT_AUTO_SEARCH">CariOtom DVB_T</string>
+<string name="TV_CFG_DVBC_AUTO_SEARCH">CariOtom DVB_C</string>
+<string name="str_channel_edit_r_delete">Hapus</string>
+<string name="str_channel_edit_g_sort">Pilah</string>
+<string name="str_channel_edit_y_favorite">Favorite</string>
+<string name="str_channel_edit_b_skip">LOMPATI</string>
+<string name="str_channel_edit_g_lock">Kunci</string>
+<string name="str_channel_edit_ok_move">PINDAH</string>
+<string name="TV_CFG_LNB_SETTING"></string>
+<string name="TV_CFG_DVBS_MODULATION">Satelit</string>
+<string name="str_ci_channellist_op_menu">Menu Profil Operator</string>
+    <string name="str_ci_channellist_op_del">Delete Profile</string>
+    <string name="str_ci_channellist_exit_op">Exit Op</string>
+    <string name="str_ci_channellist_enter_op">Enter Op</string>
+
+<string name="str_ci_channellist_op_title">Daftar Saluran OP</string>
+    <string name="str_ci_channellist_op_del_msg">Are you sure to delete \rthe operator profile [</string>
+
+<!-- Setup -->
+<string name="TV_CFG_SYSTEM_SETTING">Pengaturan</string>
+<string name="TV_CFG_CAPTION_ONOFF">Judul</string>
+    <string name="TV_CFG_CC_MODE">CCMode</string>
+<string name="TV_CFG_LANGUAGE">Bahasa</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE">Tampilan  Bahasa</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_AUTO">Otomts</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_VIDEO">16~235</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_GRAPHIC">0~255</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC">HDMI-CEC ON/OFF</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC_AUTO_STANDBY">Siaga otomatis</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST">Daftar Perangkat</string>
+<string name="TV_CFG_TELETEXT_LANGUAGE">Bahasa TTX</string>
+<string name="TTX_LANG_RUSSIAN">RUSIA</string>
+<string name="TTX_LANG_EAST">TIMUR</string>
+<string name="TTX_LANG_ARABIC">ARAB</string>
+<string name="TTX_LANG_FARSI">FARSI</string>
+<string name="TTX_LANG_WEST">BARAT</string>
+<string name="TV_CFG_TIME_SHIFT">Pengeseran waktu</string>
+<string name="TV_CFG_TIME">Setelan Waktu</string>
+<string name="TV_CFG_CURRENT_TIME">Waktu Skrg</string>
+<string name="TV_CFG_TIME_ZONE">Waktu Zona</string>
+<string name="TV_CFG_TIME_ZONE_SETTING">Waktu Zona</string>
+<string name="TV_CFG_DAY_LIGHT_SAVING">Pergantian Waktu</string>
+<string name="TV_CFG_SLEEP_TIMER">Timer tidur</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TITLE">HitungMundur</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TIP_TEXT">Tekan Kembali utk keluar</string>
+<string name="TV_CFG_OFF_TIMER">Timer Mati</string>
+<string name="TV_CFG_ENGERY_SAVING">Hemat Energi</string>
+<string name="TV_CFG_AUTO_OFF">Otom Mati</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_10">10s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_20">20s</string>
+<string name="TV_CFG_MEMU_SHOW_TIME_ALWAYS">Selalu</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_OFF">Mati</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_ON">Hidup</string>
+<string name="TV_CFG_PVR">Sistem PVR</string>
+<string name="TV_CFG_PVR_SELECT_DISK">Select Disk</string>
+<string name="TV_CFG_PVR_SELECT_USB">Pilih USB</string>
+<string name="TV_CFG_PVR_USB_SPEED">Kecepatan USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE">Ukuran Peralihan Waktu</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_512M">512M</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_1G">1G</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE_2G">2G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_4G">4G</string>
+<string name="TV_CFG_PVR_USB_FORMAT">Format USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_ALWAYS">Ganti Waktu Selalu</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE">Jarak Warna</string>
+<string name="TV_CFG_HDMI_CEC_MENU_LIST">HDMI-CEC</string>
+<string name="TV_CFG_MENU_SHOW_TIME">Menu show time</string>
+<string name="TV_CFG_STICKER_DEMO">stiker demo</string>
+<string name="TV_CFG_SLEEP_TIMER_OFF">Mati</string>
+<string name="TV_CFG_SLEEP_TIMER_5_MINUTES">5 Mnt</string>
+<string name="TV_CFG_SLEEP_TIMER_15_MINUTES">15 Mnt</string>
+    <string name="TV_CFG_SLEEP_TIMER_30_MINUTES">30 Mnt</string>
+    <string name="TV_CFG_SLEEP_TIMER_60_MINUTES">60 Mnt</string>
+<string name="TV_CFG_SLEEP_TIMER_90_MINUTES">90 Mnt</string>
+    <string name="TV_CFG_SLEEP_TIMER_120_MINUTES">120 Min</string>
+<string name="TV_CFG_AUTO_SLEEP">Otomatis Mati</string>
+<string name="TV_CFG_AUTO_SLEEP_OFF">Mati</string>
+<string name="TV_CFG_AUTO_SLEEP_1_HOURS">1 Jam</string>
+<string name="TV_CFG_AUTO_SLEEP_2_HOURS">2 Jam</string>
+<string name="TV_CFG_AUTO_SLEEP_3_HOURS">3 Jam</string>
+<string name="TV_CFG_AUTO_SLEEP_4_HOURS">4 Jam</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP">No Signal Sleep</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_OFF">Mati</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_5_MINUTES">5 Mnt</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_10_MINUTES">10 Mnt</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_15_MINUTES">15 Mnt</string>
+<string name="TV_CFG_TIME_YEAR">Tahun</string>
+<string name="TV_CFG_TIME_MONTH">Bulan</string>
+<string name="TV_CFG_TIME_DAY">Hari</string>
+<string name="TV_CFG_TIME_HOUR">Jam</string>
+<string name="TV_CFG_TIME_MINUTE">Menit</string>
+    <string name="TV_CFG_START_OFF_TIME">Press "Enter to Set OffTime"</string>
+<string name="TV_CFG_REBOOT_SYSTEM">Sistem ReBoot</string>
+<string name="TV_CFG_RECOVERY">Atur ulang televisi</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST_SETTING">Daftar Perangkat</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_AUTO">Otomts</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_ON">Hidup</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_OFF">Mati</string>
+<string name="TV_CFG_CAPTION_ON">Hidup</string>
+	<string name="TV_CFG_CAPTION_ON_MUTE">ON MUTE</string>
+<string name="TV_CFG_CAPTION_OFF">Mati</string>
+<string name="TV_CFG_CC_MODE_OFF">Mati</string>
+<string name="TV_CFG_CC_MODE_CC1">CC1</string>
+<string name="TV_CFG_CC_MODE_CC2">CC2</string>
+<string name="TV_CFG_CC_MODE_CC3">CC3</string>
+<string name="TV_CFG_CC_MODE_CC4">CC4</string>
+<string name="TV_CFG_CC_MODE_TXT1">TXT1</string>
+<string name="TV_CFG_CC_MODE_TXT2">TXT2</string>
+<string name="TV_CFG_CC_MODE_TXT3">TXT3</string>
+<string name="TV_CFG_CC_MODE_TXT4">TXT4</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SET">Setelan Bahasa Audio</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_PRIMARY_SET">Bahasa Utama Audio</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SECOND_SET">Bahasa Audio Ke Dua</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SWITCH">Ganti Bahasa Teks</string>
+
+<!-- OSDLanguage -->
+<string name="TV_CFG_OSD_LANGUAGE_ENGLISH">English</string>
+    <string name="TV_CFG_OSD_LANGUAGE_THAI">ภาษาไทย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ARABIC">العربية</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FARSI">فارسی</string>
+    <string name="TV_CFG_OSD_LANGUAGE_RUSSIAN">русский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FRENCH">française</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HEBREW">עברית שפה</string>
+    <string name="TV_CFG_OSD_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+<string name="TV_CFG_OSD_LANGUAGE_INDONESIAN">Indonesia</string>
+    <string name="TV_CFG_OSD_LANGUAGE_PORTUGUESE">português</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SPANISH">español</string>
+    <string name="TV_CFG_OSD_LANGUAGE_TURKISH">Türk dili</string>
+<string name="TV_CFG_OSD_LANGUAGE_GERMAN">Bahasa Jerman</string>
+<string name="TV_CFG_OSD_LANGUAGE_CZECH">Ceko</string>
+<string name="TV_CFG_OSD_LANGUAGE_DANISH">Denmark</string>
+<string name="TV_CFG_OSD_LANGUAGE_GREEK">Yunani</string>
+<string name="TV_CFG_OSD_LANGUAGE_CROATIAN">Kroasia</string>
+<string name="TV_CFG_OSD_LANGUAGE_ITALIAN">Itali</string>
+<string name="TV_CFG_OSD_LANGUAGE_HUNGARIAN">Hongaria</string>
+<string name="TV_CFG_OSD_LANGUAGE_DUTCH">Belanda</string>
+<string name="TV_CFG_OSD_LANGUAGE_NORWEGIAN"></string>
+<string name="TV_CFG_OSD_LANGUAGE_POLISH">Polandia</string>
+<string name="TV_CFG_OSD_LANGUAGE_ROMANIAN">Rumania</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVENIAN"></string>
+<string name="TV_CFG_OSD_LANGUAGE_SERBIAN">Serbia</string>
+<string name="TV_CFG_OSD_LANGUAGE_FINNISH"></string>
+<string name="TV_CFG_OSD_LANGUAGE_SWEDISH">Swedia</string>
+<string name="TV_CFG_OSD_LANGUAGE_BULGARIAN">Bulgaria</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVAK">Slovakia</string>
+<string name="TV_CFG_OSD_LANGUAGE_CHINESE">China</string>
+<string name="TV_CFG_OSD_LANGUAGE_GAELIC">Gael </string>
+<string name="TV_CFG_OSD_LANGUAGE_WELSH">Welsh</string>
+<string name="TV_CFG_OSD_LANGUAGE_IRISH">Irlandia</string>
+<string name="TV_CFG_OSD_LANGUAGE_LATVIAN">Bahasa Latvia</string>
+<string name="TV_CFG_OSD_LANGUAGE_ESTONIAN">Bahasa Estonia</string>
+<string name="TV_CFG_OSD_LANGUAGE_GALLEGAN">Gallegan</string>
+<string name="TV_CFG_OSD_LANGUAGE_BASQUE">Basque</string>
+<string name="TV_CFG_OSD_LANGUAGE_CATALAN">Katalan</string>
+<string name="TV_CFG_OSD_LANGUAGE_ICELANDIC">Bahasa Islandia</string>
+<string name="TV_CFG_OSD_LANGUAGE_LETZEBURGESCH"></string>
+<string name="TV_CFG_OSD_LANGUAGE_LITHUANIAN">Bahasa Lithuania</string>
+<string name="TV_CFG_OSD_LANGUAGE_UKRAINIAN"></string>
+<string name="TV_CFG_OSD_LANGUAGE_BYELORUSSIAN"></string>
+<string name="TV_CFG_OSD_LANGUAGE_MAORI">Bahasa Maori</string>
+<string name="TV_CFG_OSD_LANGUAGE_MANDARIN">Bahasa Mandarin</string>
+<string name="TV_CFG_OSD_LANGUAGE_CANTONESE">Kanton</string>
+<string name="TV_CFG_OSD_LANGUAGE_KOREAN">Korea</string>
+<string name="TV_CFG_OSD_LANGUAGE_JAPANESE">Jepang</string>
+<string name="TV_CFG_OSD_LANGUAGE_HINDI">Hindi</string>
+
+
+<!-- SubtitleLanguage -->
+<string name="TV_CFG_SUBTITLE_LANGUAGE_OFF">Mati</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_ARABIC">التطبيق المتجر</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_ENGLISH">English</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_IRANIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_FRENCH">Française</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_INDONESIAN">findonesia</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_HEBREW">עברית שפה</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_RUSSIAN">русский</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_TAHITIAN">ภาษาไทย</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE_CHS">简体中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE">繁體中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PERSIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SPANISH">Inglés</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_UNKNOWN">TDK DIKENAL</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SETTING">Setelan Bahasa Teks</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_PRIMARY">Bahasa Utama Teks</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SECONDE">Bahasa Teks Ke Dua</string>
+
+<!-- VGA Setup -->
+<string name="TV_CFG_VGA_SETTING">VGA</string>
+<string name="TV_CFG_SCART_SETTING">Scart</string>
+<string name="TV_CFG_VGA_AUTO_ADJUST">Penyesuaian Otom</string>
+<string name="TV_CFG_VGA_H_POSITION">H. position</string>
+<string name="TV_CFG_VGA_V_POSITION">V. Position</string>
+<string name="TV_CFG_VGA_PHASE">Fase</string>
+<string name="TV_CFG_VGA_FREQUENCY">Jam</string>
+
+<!-- Lock-->
+<string name="TV_CFG_LOCK_SETTING">Kunci</string>
+<string name="TV_CFG_LOCK_KEY_EVENT_LOCK"></string>
+<string name="TV_CFG_LOCK_INPUT_PASSWORD">Kata sandi Input</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD">Ganti Kata Sandi</string>
+<string name="TV_CFG_LOCK_COMFIRM_PASSWORD">Pastikan Katasandi</string>
+<string name="TV_CFG_LOCK_AGE_LIST">Kontrol Orangtua</string>
+<string name="TV_CFG_PANEL_LOCK"></string>
+<string name="TV_CFG_LOCK_CHANNEL_LIST">Pembatas Program</string>
+<string name="TV_CFG_LOCK_SYSTEM_LOCK">Kunci Sistem</string>
+<string name="TV_CFG_LOCK_SET_LOCK_PARENTAL_CONTROL_RATING_NUMBER">Kontrol Orangtua</string>
+<string name="TV_CFG_LOCK_RATING_0">Tidak ada</string>
+    <string name="TV_CFG_LOCK_RATING_1">4</string>
+    <string name="TV_CFG_LOCK_RATING_2">5</string>
+    <string name="TV_CFG_LOCK_RATING_3">6</string>
+    <string name="TV_CFG_LOCK_RATING_4">7</string>
+    <string name="TV_CFG_LOCK_RATING_5">8</string>
+    <string name="TV_CFG_LOCK_RATING_6">9</string>
+
+    <string name="TV_CFG_LOCK_RATING_7">10</string>
+    <string name="TV_CFG_LOCK_RATING_8">11</string>
+    <string name="TV_CFG_LOCK_RATING_9">12</string>
+    <string name="TV_CFG_LOCK_RATING_10">13</string>
+    <string name="TV_CFG_LOCK_RATING_11">14</string>
+    <string name="TV_CFG_LOCK_RATING_12">15</string>
+    <string name="TV_CFG_LOCK_RATING_13">16</string>
+    <string name="TV_CFG_LOCK_RATING_14">17</string>
+    <string name="TV_CFG_LOCK_RATING_15">18</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_SUCCESS">Ganti kata sandi sukses</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_FAIL">Ganti kata sandi gagal</string>
+
+<!-- Channel Search -->
+<string name="channel_programs">Program</string>
+<string name="channel_info">Info Saluran</string>
+<string name="mannual_search">Cari MANUAL</string>
+<string name="are_you_sure_stop_DTV_search">Are you sure to exit TV tuning?</string>
+<string name="symbol_rate">Laju simbol</string>
+<string name="band_width">Lebar pita</string>
+<string name="module_mode">Modulasi</string>
+<string name="signal_quality">Kualitas Sinyal</string>
+<string name="signal_strength">Kekuatan Sinyal</string>
+<string name="signal_network">Jaringan</string>
+    <string name="signal_tsid">Transport Stream</string>
+<string name="signal_server">Server</string>
+<string name="signal_modulation">Modulasi</string>
+<string name="search_progress">Kemajuan Cari</string>
+<string name="program_tv">Program TV</string>
+<string name="program_dtv">Program DTV</string>
+<string name="program_radio">Program Radio</string>
+<string name="program_data">Program Data</string>
+<string name="search_channel">Menala</string>
+<string name="auto_search">Mencari Otomatis ATV</string>
+<string name="frequency_adjust">Penalaan Frekuensi</string>
+<string name="nit_search">Cari Semua Saluran</string>
+    <string name="channel_setting">Channel settings</string>
+<string name="enter">Masukkan</string>
+<string name="frequency">Frekuensi</string>
+<string name="frequency_segment">Seg CH.</string>
+    <string name="channel_count">Channel Count></string>
+<string name="crt_channel_num">Nomor saluran sekarang</string>
+
+    <string name="start_fine_search">Press "Left" or "Right" to fine search</string>
+<string name="start_manual_search">Tekan Lama "Kiri" atau "Kanan" utk mulai cari scr manual</string>
+    <string name="back_hint">Tekan Kembali utk keluar</string>
+<string name="frequencypoint_setting">Setelan Frekuensi</string>
+<string name="video_vod">Video on Demand</string>
+<string name="main_frequencypoint">Frekuensi Utama</string>
+    <string name="loader_frequencypoint">Loader frequency</string>
+<string name="start_frequency">Frekuensi Awal</string>
+<string name="end_frequency">Frekuensi akhir</string>
+<string name="crt_frequency">Frekuensi Sekarang</string>
+<string name="start_search">Mulai mencari</string>
+<string name="confirm">OK</string>
+<string name="cancel">Membatalkan</string>
+
+    <string name="not_empty">can not be empty</string>
+<string name="city_setting">Setelan Regional</string>
+<string name="switch_city">ganti kawasan</string>
+<string name="save">Simpan</string>
+
+<!-- EPG-->
+<string name="epgmanagetitle">Panduan Program Elektronik</string>
+<string name="epgchannellist">Daftar Siaran</string>
+<string name="epgchanneldate">Tanggal</string>
+<string name="epgprogramname">nama program</string>
+<string name="epginfomation">Informasi</string>
+<string name="epgtipsschedule">Daftar Jadwal</string>
+<string name="epgtipsreminder">Setelan Peringatan</string>
+<string name="epgtipsrecord">pengaturan data</string>
+<string name="epgsettingmode">Modus</string>
+<string name="epgsettingtime">WAKTU</string>
+<string name="epgscheduledelete">Hapus</string>
+<string name="epg_recodesetting_channel">SALURAN  </string>
+<string name="epg_recodesetting_repeat">ulangi Modus</string>
+<string name="epg_recodesetting_startmonth">Bulan Mulai</string>
+<string name="epg_recodesetting_startdate">Tanggal</string>
+<string name="epg_recodesetting_starthour">Jam</string>
+<string name="epg_recodesetting_startminute">Menit</string>
+<string name="epg_recodesetting_endmonth">Akhir bulan</string>
+<string name="epg_recodesetting_enddate">Tanggal</string>
+<string name="epg_recodesetting_endhour">Jam</string>
+<string name="epg_recodesetting_endminute">Menit</string>
+<string name="epg_remindsetting_month">Bulan</string>
+<string name="epg_mode_reminder">peringatan</string>
+<string name="epg_mode_recorder">Perekam</string>
+    <string name="epg_setting_button">Press "OK" to Setting</string>
+<string-array name="epg_record_moths">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+</string-array>
+<string-array name="epg_record_days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+</string-array>
+<string-array name="epg_record_hours">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+</string-array>
+<string-array name="epg_record_minutes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+</string-array>
+<string-array name="epg_record_repeate_mode">
+<item>sekali</item>
+<item>Harian</item>
+<item>Mingguan</item>
+</string-array>
+<string-array name="epg_record_time_tips">
+<item>Tidak ada</item>
+<item>sukses</item>
+<item>Lalu</item>
+<item>Hamparan</item>
+        <item>Endtime Before Start</item>
+        <item>Endtime Exceed Period</item>
+<item>Penuh</item>
+<item>Konflik peringatan baru</item>
+<item>Konflik peringatan DB</item>
+</string-array>
+
+<string name="SKY_SUCCESS">sukses</string>
+<string name="str_epg_schedule_y_back">Kembali</string>
+<string name="str_epg_schedule_r_delete">Hapus</string>
+
+<string name="SKY_SEARCH">Cari</string>
+<string name="SKY_H_DIRECTION_KEY">pindahkan kursor ke kiri dan kanan</string>
+<string name="SKY_V_DIRECTION_KEY">pindahkan kursor ke atas dan bawah</string>
+<string name="SKY_DELETE">Hapus</string>
+    <string name="SKY_SHUTTLE_ROTATE">Shuttle toggle selection</string>
+<string name="SKY_SEARCH_LEFTKEY">tekan tombol kiri utk menghapus</string>
+<string name="SKY_SEARCH_TEXT">Pencarian inisial pinyin</string>
+
+<!-- 网络部分 -->
+<string name="NET_WIFI_HOT_SPOT">Hot spot</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_OPEN">Buka</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_CLOSE">Tutup</string>
+<string name="NET_WIFI_HOT_SPOT_NAME">Nama hot spot</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_SET">Enkripsi</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_OPEN">Buka</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_CLOSE">Enkripsi</string>
+<string name="NET_WIFI_HOT_SPOT_PWD">Sandi hot</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_ERROR_TIP">8-24 huruf atau angka</string>
+<string name="NET_WIFI_HOT_SPOT_BTN_SAVE">Simpan</string>
+<string name="NET_WIFI_HOT_SPOT_NAME_ERROR_TIP">Nama tidak boleh kosong</string>
+<!-- 无线列表选择 -->
+    <string name="NET_WIFI_SELECT_WPS">WIFI WPS:</string>
+<string name="NET_WIFI_SELECT_WPS_ENTER">Masukkan</string>
+<string name="NET_WIFI_SELECT_LIST">daftar jaringan nirkabel:</string>
+<string name="NET_WIFI_SELECT_OTHER_WIFI">Jaringan lain</string>
+<!-- 手动设置ip -->
+<string name="SKY_IP_SETTING_GREATER_THAN_255">Panjang input tidak lebih dari 255</string>
+<string name="SKY_IP_SETTING_EMPTY_IP">Tidak boleh kosong</string>
+    <string name="Sky_IP_SETTING_START_ZERO">IP number start with 0 not allowed</string>
+<string name="SKY_IP_SETTING_INVALID">IP Salah</string>
+<string name="SKY_IP_ASSIGNMENT_TYPE">Tipe IP</string>
+<string name="SKY_IP_DHCP_STATIC">Static</string>
+<string name="SKY_IP_DHCP_DYNAMIC">Dinamik</string>
+<string name="SKY_IP_TEXT">IP</string>
+<string name="SKY_GATEWAY_TEXT">GERBANG</string>
+<string name="SKY_MASK_TEXT">Masker</string>
+<string name="SKY_DNS_TEXT">DNS</string>
+<string name="SKY_BTN_CONNECT_TEXT">Connect</string>
+<!-- 输入网络密码 -->
+<string name="INPUT_WIFI_PWD_HINT">Harap input kata sandi wifi:</string>
+<string name="INPUT_WIFI_PWD_EDIT">password</string>
+    <string name="INPUT_WIFI_PWD_ERROR_TIPS">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_1">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_2">Note: the password length is more than 64</string>
+<!-- 旧的网络设置使用，新的这些有可能被引用了 -->
+<string name="SKY_WIFI_OPEN">Wifi Buka</string>
+<string name="SKY_WIFI_CLOSE">Wifi Tutup</string>
+<string name="SKY_BTN_SET_WIFI_TEXT">Setelan IP</string>
+<string name="SKY_WIFI_SELECT_TEXT">Pilih WLAN</string>
+<string name="SKY_PUSH_TO_TALK_TEXT">WPS WIFI</string>
+<string name="SKY_OTHER_TEXT">Yang lain</string>
+<string name="SKY_WIFI_NAME_TEXT"></string>
+<string name="SKY_ENCRYPTION_TEXT">Enkripsi</string>
+<string name="SKY_PASSWORD_TEXT">Kata sandi:</string>
+<string name="SKY_PWD_LESS_THAN_8_DIGITS">Ukuran kata sandi kurang dari 8</string>
+    <string name="SKY_PWD_NO_EMPTY">Empty password not allowed</string>
+
+<!-- AD -->
+<string name="TV_CFG_SWITCH_AD_TRUE">AD Buka!</string>
+    <string name="TV_CFG_SWITCH_AD_FALSE">AD is Close!</string>
+<string name="TV_CFG_SWITCH_AD_NONE">Tidak Didukung</string>
+
+<!-- add_by_wangxian -->
+<string name="install_guide_welcome_message">Slmat datang di Panduan Setelan Pertama</string>
+<string name="left_item_language">Bahasa</string>
+<string name="left_item_timezone">ZonaWaktu</string>
+<string name="left_item_network">Jaringan</string>
+<string name="left_item_searchmode">Modus Cari</string>
+<string name="next_hint">Selanjutnya</string>
+<string name="set_network">Jaringan Setelan</string>
+<string name="installsearch">Cari</string>
+    <string name="searchhint">* Please press [OK] key to check</string>
+    <string name="netchoise_hint">Net Choise</string>
+<string name="netconnection">Koneksi Net</string>
+<string name="wiresetup">Ethernet</string>
+<string name="wirelesssetup">WIFI</string>
+<string name="wifiSetup">Setelan WIFI</string>
+<string name="wifiButtonConnect">Connect</string>
+<string name="wifiButtonExit">KELUAR </string>
+<string name="wifiInvialidPwd">Kata sandi Salah!</string>
+<!-- add_by_zhuming  -->
+<!-- Aus time zone  -->
+<string name="TV_CFG_TIMEZONE_WA">Western Australia GMT+8</string>
+<string name="TV_CFG_TIMEZONE_SA">South Australia GMT+9.5</string>
+<string name="TV_CFG_TIMEZONE_NT">Northern Territory GMT+9.5</string>
+<string name="TV_CFG_TIMEZONE_NSW">New South Wales GMT+10</string>
+<string name="TV_CFG_TIMEZONE_VIC">Victoria GMT+10</string>
+<string name="TV_CFG_TIMEZONE_QLD">Queensland GMT+10</string>
+<string name="TV_CFG_TIMEZONE_TAS">Tasmania GMT+10</string>
+<!-- Brazil time zone  -->
+    <string name="TV_CFG_TIMEZONE_F_NORONHA">GMT-2</string>
+    <string name="TV_CFG_TIMEZONE_BUENOS_AIRES">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_BRASILIA">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_NORTHEAST">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_M_GROSSO">GMT-4</string>
+    <string name="TV_CFG_TIMEZONE_ACRE">GMT-5</string>
+
+<!-- PVR  -->
+<string name="str_pvr_listview_item">LihatTeks</string>
+<string name="str_player_recorder">Perekam</string>
+<string name="str_player_playab">A/B ulangi</string>
+<string name="str_player_stop">Berhenti</string>
+<string name="str_player_play">Main</string>
+<string name="str_player_pause">Berhenti sebentar</string>
+    <string name="str_player_rev">Rev</string>
+<string name="str_player_ff">FF</string>
+<string name="str_player_slow">Slow Motion</string>
+<string name="str_player_time">Time Play</string>
+<string name="str_player_forward">Depan</string>
+<string name="str_player_backward">Terbelakang</string>
+<string name="str_pvr_is_recording">rekaman</string>
+<string name="str_pvr_mode_recorde">Merekam...</string>
+<string name="str_pvr_mode_timeshift">Ganti Waktu...</string>
+<string name="str_pvr_usb_free_space">Sisa Ruang di USB</string>
+    <string name="str_pvr_usb_lable_name">USB Lable Name</string>
+
+<string name="str_pvr_record_exit_confirm">Rekaman ... apakah Anda yakin untuk keluar?</string>
+<string name="str_pvr_timeshift_exit_confirm">Sekarang Ganti Waku...Yakin Anda Mau Keluar?</string>
+<string name="str_pvr_program_saving">Program yang tersimpan ... silahkan tunggu!</string>
+    <string name="str_info_pvr_playback_exit_confirm">Now playback... Do you really want to exit?</string>
+<string name="sky_pvr_support_disk_format">Sistem file PVR hanya mendukung disket Format FAT!</string>
+<string name="str_pvr_insert_usb">Silahkan memasukkan disk USB pertama!</string>
+    <string name="sky_pvr_record_false">Record false!</string>
+    <string name="sky_pvr_timeshift_false">Timeshift false!</string>
+    <string name="sky_pvr_disk_outofspace">Disk does not have enough space !</string>
+    <string name="sky_pvr_filesystem_unsupported">please, format your disk for FAT32 !</string>
+    <string name="sky_pvr_support_timeshift_fail">This program do not allow timeshift!</string>
+    <string name="sky_pvr_support_record_fail">This program do not allow record!</string>
+<string name="sky_pvr_record_list">Daftar Arsip PVR</string>
+<string name="sky_pvr_record_list_lcn">LCN</string>
+<string name="sky_pvr_record_list_channel">SALURAN  </string>
+<string name="sky_pvr_record_list_program">Program </string>
+<string name="sky_pvr_record_list_recordtime">Waktu Rekam</string>
+<string name="sky_pvr_record_list_delete">Hapus</string>
+<string name="sky_pvr_record_list_index">Index</string>
+<string name="sky_pvr_record_list_ok">OK</string>
+<string name="sky_pvr_record_list_yellow">Layar Penuh</string>
+<string name="sky_pvr_record_list_descend">Descend</string>
+<string name="sky_pvr_record_list_ascend">Ascend</string>
+<string name="sky_pvr_record_list_delete_tip">Anda yakin mau menghapus item ini?</string>
+
+<!-- Channel Info  -->
+<string name="str_source_info_channel">Saluran:</string>
+<string name="str_source_info_audioformat">Format Audio:</string>
+<string name="str_source_info_subtitle">Teks </string>
+<string name="str_source_info_chname">Nama CH:</string>
+<string name="str_source_info_videoformat">Format Video:</string>
+<string name="str_source_info_audiolanguage">Bahasa Audio:</string>
+<string name="str_source_info_resolution">Resolusi</string>
+<string name="str_source_info_age">Usia:</string>
+<string name="str_source_info_time">Waktu</string>
+<string name="str_source_info_programtype">Tipe Program:</string>
+<string name="str_source_info_programname">Nama Program:</string>
+<string name="str_source_info_category">Kategori Program:</string>
+<string name="str_source_info_no_information">Tidak ada Informasi</string>
+
+<string name="str_time_hour">Jam</string>
+<string name="str_time_minute">Menit</string>
+<string name="str_time_second">Detik</string>
+
+<string name="str_common">Common</string>
+<string name="str_scan_atv">ATV</string>
+<string name="str_scan_dtv">DTV</string>
+<string name="str_scan_atv_dtv">ATV+DTV</string>
+    <string name="str_scan_air">Antena</string>
+<string name="str_scan_cable">Kabel</string>
+    <string name="str_scan_air_cable">Antena+Cable</string>
+
+<!-- LNB Setting -->
+<string name="str_lnb_setup_title">Setelan LNB</string>
+<string name="str_satellite_list">Satelit</string>
+<string name="str_lnb_setup_list">Pengaturan</string>
+<string name="str_responder_list"></string>
+<string name="str_lnb_item_add">Tambahkan</string>
+<string name="str_lnb_item_Position">Posisi</string>
+<string name="str_lnb_item_limit">Limit</string>
+<string name="str_lnb_item_location">lokasi</string>
+<string name="str_lnb_item_scan">Pindai</string>
+<string name="str_lnb_item_edit">Edit</string>
+<string name="str_lnb_item_delete">Hapus</string>
+<string name="str_lnb_signal_quality">Kualitas</string>
+<string name="str_lnb_signal_strength">Kekuatan</string>
+<string name="str_lnb_signal_add">Tambahkan</string>
+<string name="str_lnb_signal_edit">Edit</string>
+<string name="str_lnb_signal_scan">Pindai</string>
+<string name="str_lnb_signal_delete">Hapus</string>
+<string name="str_lnb_signal_number_title">Angka</string>
+<string name="str_lnb_signal_name_title">Nama Satelit</string>
+    <string name="str_lnb_signal_derection_title">Longitude Derection</string>
+<string name="str_lnb_signal_angle_title">Sudut Garis Bujur</string>
+<string name="str_lnb_signal_band_title">Pita</string>
+<string name="str_lnb_signal_comfirm_button">Mulai mencari</string>
+<string name="str_lnb_signal_scan_mode_title">Modus Pindai</string>
+<string name="str_lnb_signal_network_search_title">Network Search</string>
+<string name="str_lnb_signal_service_type_title">Tipe Layanan</string>
+<string name="str_lnb_signal_search_option_title">Opsi Cari</string>
+<string name="str_lnb_transponder_frequency">Frekuensi</string>
+<string name="str_lnb_transponder_symbol_rate">Laju simbol</string>
+<string name="str_lnb_transponder_polarization"></string>
+
+<string name="TV_CFG_LNB_LNB_TAPY_UNIVERSAL">UNIVERSAL 9750 / 10600</string>
+<string name="TV_CFG_LNB_LNB_TAPY_MDU_1">MDU1 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_2">MDU2 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_3">MDU3 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_4">MDU4 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_MHZ">5150MHZ 5150 / 5150</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5750_MHZ">5750MHZ 5750 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_5750_MHZ">5150/5750MHZ 5150 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_MHZ">9750MHZ 9750 / 9750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10750_MHZ">10750MHZ 10750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10600_MHZ">10600MHZ 10600 / 10600</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11250_MHZ">11250MHZ 11250 / 11250</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11300_MHZ">11300MHZ 11300 / 11300</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11475_MHZ">11475MHZ 11475 / 11475</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_10700_MHZ">9750/10700MHZ 9750 / 10700</string>
+    <string name="TV_CFG_LNB_LNB_9750_10750_MHZ">9750/10750MHZ 9750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_10000_10450_MHZ">10000/10450MHZ 10000 / 10450</string>
+<string name="TV_CFG_LNB_LNB_USER_MODE">MODUS PENGGUNA</string>
+
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_V">V</string>
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_H">H</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE">Free</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE_SCRAMBLE">Free+Scramble</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_SCRAMBLE">Scramble</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_OFF">Mati</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_ON">Hidup</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV">DTV</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV_RADIO"></string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_RADIO">RADIO</string>
+<string name="TV_CFG_LNB_POWER_OFF">Mati</string>
+    <string name="TV_CFG_LNB_POWER_13V_18V">13V/18V</string>
+    <string name="TV_CFG_LNB_POWER_13V">13V</string>
+    <string name="TV_CFG_LNB_POWER_18V">18V</string>
+    <string name="TV_CFG_LNB_POWER_14V_19V">14V/19V</string>
+    <string name="TV_CFG_LNB_POWER_14V">14V</string>
+    <string name="TV_CFG_LNB_POWER_19V">19V</string>
+<string name="TV_CFG_AUTO">Otomts</string>
+<string name="TV_CFG_ON">Hidup</string>
+<string name="TV_CFG_OFF">Mati</string>
+<string name="TV_CFG_BURST_A">BURST A</string>
+<string name="TV_CFG_BURST_B">BURST B</string>
+
+<string name="TV_CFG_NONE">Tidak ada</string>
+<string name="TV_CFG_LNB_1"></string>
+    <string name="TV_CFG_LNB_2">LNB 2</string>
+    <string name="TV_CFG_LNB_3">LNB 3</string>
+    <string name="TV_CFG_LNB_4">LNB 4</string>
+    <string name="TV_CFG_LNB_5">LNB 5</string>
+    <string name="TV_CFG_LNB_6">LNB 6</string>
+    <string name="TV_CFG_LNB_7">LNB 7</string>
+    <string name="TV_CFG_LNB_8">LNB 8</string>
+    <string name="TV_CFG_LNB_9">LNB 9</string>
+    <string name="TV_CFG_LNB_10">LNB 10</string>
+    <string name="TV_CFG_LNB_11">LNB 11</string>
+    <string name="TV_CFG_LNB_12">LNB 12</string>
+    <string name="TV_CFG_LNB_13">LNB 13</string>
+    <string name="TV_CFG_LNB_14">LNB 14</string>
+    <string name="TV_CFG_LNB_15">LNB 15</string>
+    <string name="TV_CFG_LNB_16">LNB 16</string>
+
+    <string name="TV_CFG_LNB_DIS_EQC_10_ENUM_TYPE">DisEqc 1.0</string>
+    <string name="TV_CFG_LNB_DIS_EQC_11_ENUM_TYPE">DisEqc 1.1</string>
+    <string name="TV_CFG_LNB_DIS_EQC_12_ENUM_TYPE">DisEqc 1.2</string>
+    <string name="TV_CFG_LNB_DIS_EQC_13_ENUM_TYPE">DisEqc 1.3</string>
+<string-array name="str_lnb_option_list">
+<item>TransPonder</item>
+<item>Daya LNB</item>
+<item>KabelPanjang</item>
+<item>22KHz Tone</item>
+<item>Tipe LNB</item>
+<item>DiSEqC1.0</item>
+<item>DiSEqC1.1</item>
+        <item>Motor</item>
+</string-array>
+<string-array name="str_array_scan_mode">
+<item>Free</item>
+<item>Free+Scramble</item>
+<item>Scramble</item>
+</string-array>
+<string-array name="str_array_network_search_option">
+<item>Mati</item>
+<item>Hidup</item>
+</string-array>
+<string-array name="str_array_service_type">
+<item>DTV</item>
+<item>DTV+Radio</item>
+<item>RADIO</item>
+</string-array>
+<string-array name="str_array_search_option">
+<item>Pindai Buta</item>
+<item>Pindai Cepat</item>
+</string-array>
+<string name="str_title_motor_setting">Setelan Motor</string>
+<string-array name="str_array_move_setup_option">
+<item>Berhenti</item>
+<item>TIMUR</item>
+<item>BARAT</item>
+</string-array>
+<string-array name="str_array_longitude_direction_option">
+<item>TIMUR</item>
+<item>BARAT</item>
+</string-array>
+<string-array name="str_array_latitude_direction_option">
+<item>Utara</item>
+<item>Selatan</item>
+</string-array>
+<string name="str_moto_set_moto_auto">Motor Otom</string>
+    <string name="str_moto_set_moto_continue">Motor Continue</string>
+<string name="str_moto_set_move_setup">Pindah Stln</string>
+<string name="str_moto_set_store_positon">Simpan Posisi</string>
+<string name="str_moto_set_go_to_position">Ke Posisi</string>
+<string name="str_moto_set_go_to_reference">Ke Referensi</string>
+<string name="str_moto_set_set_west_limit">Tetapkan Batas Barat</string>
+<string name="str_moto_set_set_east_limit">Tetapkan Batas Timur</string>
+<string name="str_moto_set_disable_limit">Matikan Batas</string>
+<string name="str_moto_set_go_to_x">Ke X</string>
+<string name="str_moto_set_location">lokasi</string>
+<string name="str_moto_set_longitude_direction">Arah Garis Bujur</string>
+<string name="str_moto_set_longitude_angle">Sudut Garis Bujur</string>
+<string name="str_moto_set_latitude_direction">Arah Garis Lintang</string>
+<string name="str_moto_set_latitude_angle">Sudut Garis Lintang</string>
+<string-array name="str_array_satellite_derection">
+<item>TIMUR</item>
+<item>BARAT</item>
+</string-array>
+<string-array name="str_array_satellite_band">
+<item>C</item>
+<item>Ku</item>
+</string-array>
+    <string-array name="str_array_transponder_polarization">
+        <item>V</item>
+        <item>H</item>
+    </string-array>
+
+<!-- factory hotkey -->
+<string name="str_age_mode">M</string>
+<string name="str_bus_off">BUS OFF</string>
+    <string name="str_mac_addr">MAC ADDR : </string>
+    <string name="str_bar_code">BAR CODE : </string>
+
+<!-- Tips -->
+<string name="str_enter">Masukkan</string>
+<string name="str_no_signal">TIDAK ADA SINYAL</string>
+<string name="str_audio_only">AUDIO SAJA</string>
+<string name="str_data_only">Data Only</string>
+<string name="str_program_lock">Kunci Program</string>
+<string name="str_invalid_service">Servis Salah</string>
+<string name="str_no_ci_module">Tanpa Modul CI</string>
+<string name="str_ci_plus_authentication">CI Plus Otentikasi</string>
+<string name="str_scrambled_program">Program Terurai </string>
+<string name="str_unsupported_format">Unsupported Format</string>
+    <string name="str_auto_adjust">Auto Adjust...</string>
+<string name="str_please_wait">Silahkan Tunggu</string>
+    <string name="str_auto_adjust_success">Adjust Success!</string>
+    <string name="str_auto_adjust_fail">Adjust Fail!</string>
+<string name="str_tip_reset_tv">operasi akan menghapus informasi, dan sistem akan reboot, apakah Anda yakin?</string>
+    <string name="str_tip_off_timer">The time you have set in the past, please re-set!</string>
+    <string name="str_tip_plug_usb">No USB pluged or the format is wrong!</string>
+<string name="str_tip_usb_format">apakah Anda yakin untuk memformat disk yang dipilih?</string>
+<string name="str_tip_usb_checking">Mengecek Kecepatan......</string>
+<string name="str_tip_unplug_usb">Jangan cabut perangkat USB!</string>
+    <string name="str_tip_warning_usb_checking">Do you want to check speed of the selected disk?</string>
+<string name="str_tip_delete_program">Sukses Hapus Program!</string>
+    <string name="str_tip_last_item">The late one be deleted!</string>
+<string name="str_tip_move_program">Program Sukses Dipindah!</string>
+<string name="str_tip_update_channel_list">Daftar Saluran Sukses Diperbarui!</string>
+<string name="str_tip_updating_channel_list">Daftar Saluran Diperbarui, Harap tunggu...</string>
+<string name="str_tip_empty_channel_list">Daftar Saluran Kosong!</string>
+    <string name="str_tip_empty_epg_list">The Program No EPG!</string>
+    <string name="str_tip_switch_to_radio">Swtich To Radio!</string>
+    <string name="str_tip_switch_to_dtv">Swtich To DTV!</string>
+    <string name="str_tip_loading_chlist_title">Loading Channel List</string>
+<string name="str_tip_loading_chlist_content">Silahkan Tunggu</string>
+<string name="str_tip_ciplus_op_confirmation_title">Pastikan CI+ Ulang OP</string>
+<string name="str_tip_ciplus_op_refresh"></string>
+    <string name="str_tip_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_tip_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+    <string name="str_tip_cha_please_wait">CI invoke route switch ...</string>
+    <string name="str_tip_ci_async_cmd_switch_route">Wait a Moment Please</string>
+    <string name="str_tip_switch_language">Language is switching...Do not operate!</string>
+
+<string name="str_cha_programedit">Mengubah Program</string>
+<string name="str_list_menu_hint_b_skip">LOMPATI</string>
+<string name="str_list_menu_hint_g_fivorite"></string>
+<string name="str_list_menu_hint_g_edit">Edit</string>
+<string name="str_list_menu_hint_r_delete">Hapus</string>
+<string name="str_list_menu_hint_y_move">PINDAH</string>
+<string name="str_lock_system">Sistem Kunci</string>
+<string name="str_lock">Kunci</string>
+
+<!-- for ci+ op -->
+<string name="str_ciplus_op_confirmation_title">Pastikan CI+ Ulang OP</string>
+<string name="str_ciplus_op_refresh">Do you allow TV to do operator profile refresh?</string>
+<string name="str_op_menu_title">Menu Profil Operator</string>
+    <string name="str_op_channel_list_title">OP Profile Menu</string>
+<string name="str_op_menu">Menu OP</string>
+    <string name="str_op_forbid_channel_tuning_content">Forbid to do channel tune under OP mode.\nPlease exit OP mode at first.</string>
+<string name="str_enter_op">Enter OP</string>
+<string name="str_exit_op">Exit OP</string>
+<string name="str_delete_profile">Delete Profile</string>
+    <string name="str_delete_op_msg">Are you sure to delete the operator profile [</string>
+<string name="str_delete_op_confirm">Pastikan utk hapus OP</string>
+<string name="str_forbid_channel_tuning">Larang Penalaan Saluran</string>
+    <string name="str_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+
+
+<!-- for program edit -->
+<string name="str_program_edit_dialog_ok">OK</string>
+<string name="str_program_edit_dialog_cancel">Membatalkan</string>
+<string name="str_program_edit_dialog_input">harap input</string>
+
+<string name="str_no_sinal">SANS SIGNAL</string>
+<string name="str_channelList_favorite">Liste des Favoris</string>
+<string name="str_channelList_program">Liste des chaînes</string>
+    <string name="program_guide_time">Program Guide:Time</string>
+
+<string name="str_stop_record_dialog_title">ARRÊTER L ENREGISTREMENT</string>
+    <string name="str_stop_record_dialog_message">System will stop record if user want to channel change</string>
+    <string name="str_stop_record_playback_dialog_message">System will stop record and playback if user want to channel change</string>
+<string name="str_stop_record_dialog_confirm">Confirmez</string>
+<string name="str_stop_record_dialog_cancel">Annuler</string>
+<string name="str_stop_record_dialog_stop">Arrêtez</string>
+    <string name="str_stop_playback_dialog_title">STOP PLAYBACKING</string>
+    <string name="str_stop_playback_dialog_message">System will stop playback if user want to channel change</string>
+<string name="str_disk_too_slow">Vitesse de disque insuffisante</string>
+
+
+<string name="str_ci_insert">CI inséré</string>
+<string name="str_ci_remove">CI enlevé</string>
+<string name="str_ci_autotest">Autotest CI</string>
+
+<!-- for program category -->
+<string name="TV_PROG_CATEGORY_MOVIE">FILM</string>
+<string name="TV_PROG_CATEGORY_NEWS">Voix</string>
+<string name="TV_PROG_CATEGORY_SHOW">spectacle</string>
+<string name="TV_PROG_CATEGORY_SPORT">sport</string>
+<string name="TV_PROG_CATEGORY_CHILDREN">enfants</string>
+<string name="TV_PROG_CATEGORY_MUSIS">MUSIQUE</string>
+<string name="TV_PROG_CATEGORY_ARTS">arts</string>
+<string name="TV_PROG_CATEGORY_SOCIAL">social</string>
+<string name="TV_PROG_CATEGORY_EDUCATION">Éducation</string>
+<string name="TV_PROG_CATEGORY_LEISURE">loisir</string>
+<string name="TV_PROG_CATEGORY_SPECIAL">spécial</string>
+<string name="TV_PROG_CATEGORY_CONSTANT">constant</string>
+<string name="TV_PROG_CATEGORY_USER_DEFINDED"></string>
+<string name="TV_PROG_CATEGORY_UNDEFINDED">indéfini</string>
+<string name="SKY_CFG_TV_SWITCH_LANG_WILL_REBOOT_TV">TV akan otomatis direset jika bahasa diganti</string>
+<string name="TV_VGA_RESOLUTION_UNSUPPORT">Pas de support</string>
+</resources>

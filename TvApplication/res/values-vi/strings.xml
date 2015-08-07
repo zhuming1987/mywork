@@ -1,0 +1,1111 @@
+﻿<resources>
+
+<string name="app_name">Ứng Dụng TV</string>
+
+<string name="button_ok_str">Có</string>
+<string name="button_cancel_str">HỦY BỎ</string>
+
+<string name="TV_CFG_ON_MODE">MỞ</string>
+<string name="TV_CFG_OFF_MODE">TẮT</string>
+
+<string name="TV_CFG_QUICK_MENU_SETTING">menu nhanh chóng</string>
+
+<string name="TV_CFG_NO_SIGNAL">KHÔNG CÓ TÍN HIỆU</string>
+
+<!-- 3D -->
+<string name="TV_CFG_THREED_SETTING">Thiết đặt 3D</string>
+<string name="TV_CFG_3D_MODE">Chế độ 3D</string>
+<string name="TV_CFG_3D_MODE_OFF">TẮT</string>
+<string name="TV_CFG_3D_MODE_AUTO">Tự Động</string>
+<string name="TV_CFG_3D_MODE_2D_TO_3D">2D Sang 3D</string>
+<string name="TV_CFG_3D_MODE_SIDE_BY_SIDE">Trái Sang Phải</string>
+<string name="TV_CFG_3D_MODE_TOP_AND_BOTTOM">Trên xuống Dưới</string>
+<string name="TV_CFG_3D_MODE_FRAME_PACKING">Gói khung</string>
+<string name="TV_CFG_3D_DEPTH">3D Độ sâu</string>
+<string name="TV_CFG_3D_LR_SWAP">chuyển đổi trái-phải</string>
+<string name="TV_CFG_3D_TO_2D">3D Sang 2D</string>
+<string name="TV_CFG_3D_TO_2D_OFF">TẮT</string>
+<string name="TV_CFG_3D_TO_2D_LEFT">TRÁI</string>
+<string name="TV_CFG_3D_TO_2D_RIGHT">PHẢI</string>
+
+<!-- CI SEtting -->
+<string name="TV_CFG_CI_SETTING">Thông Tin CI</string>
+<!-- Picture -->
+<string name="TV_CFG_PICTURE_SETTING">Thiết Đặt Ảnh</string>
+<string name="TV_CFG_BRIGHTNESS">ĐỘ SÁNG</string>
+<string name="TV_CFG_CONTRAST">ĐỘ TƯƠNG PHẢN</string>
+<string name="TV_CFG_COLOR">MÀU SẮC</string>
+<string name="TV_CFG_HUE">Huế</string>
+<string name="TV_CFG_NTSC_HUE">SẮC THÁI</string>
+<string name="TV_CFG_COLOR_TEMPERATURE">Nhiệt Độ Màu</string>
+<string name="TV_CFG_SHARPNESS">ĐỘ NÉT</string>
+<string name="TV_CFG_DNR">DNR</string>
+<string name="TV_CFG_MPEG_NR">NR MPEG</string>
+<string name="TV_CFG_DNR_OFF">TẮT</string>
+<string name="TV_CFG_DNR_LOW">THẤP</string>
+<string name="TV_CFG_DNR_MID">trung bình</string>
+<string name="TV_CFG_DNR_HIGH">CAO</string>
+<string name="TV_CFG_DNR_AUTO">Tự Động</string>
+<string name="TV_CFG_MPEG_NR_OFF">TẮT</string>
+<string name="TV_CFG_MPEG_NR_LOW">THẤP</string>
+<string name="TV_CFG_MPEG_NR_MID">trung bình</string>
+<string name="TV_CFG_MPEG_NR_HIGH">CAO</string>
+<string name="TV_CFG_DREAM_PANEL">DLC</string>
+<string name="TV_CFG_DREAM_PANEL_OFF">TẮT</string>
+<string name="TV_CFG_DREAM_PANEL_LIGHT_SENSOR">Cảm biến ánh sáng</string>
+    <string name="TV_CFG_DREAM_PANEL_IMAGE_DETECT">Image</string>
+<string name="TV_CFG_DREAM_PANEL_MULTI_DETECT">Đa</string>
+<string name="TV_CFG_DREAM_PANEL_SWITCH">Đổi bảg điều khiển Dream</string>
+<string name="TV_CFG_DTV_DISPLAY_MODE">Chế độ hiển thị</string>
+<string name="TV_CFG_DISPLAY_MODE">Chế độ hiển thị</string>
+<string name="TV_CFG_DISPLAY_MODE_16_9">16:9</string>
+<string name="TV_CFG_DISPLAY_MODE_4_3">4:3</string>
+<string name="TV_CFG_VIDEO_DISPLAY_MODE_DEFAULT">mặc định</string>
+<string name="TV_CFG_DISPLAY_MODE_MOVIE">PHIM</string>
+    <string name="TV_CFG_DISPLAY_MODE_CAPTION">Caption</string>
+<string name="TV_CFG_DISPLAY_MODE_PANORAMA">TOÀN CẢNH</string>
+<string name="TV_CFG_DISPLAY_MODE_PERSON">Người</string>
+<string name="TV_CFG_DISPLAY_MODE_AUTO">Tự Động</string>
+<string name="TV_CFG_DISPLAY_MODE_JUST_SCAN">bản địa</string>
+<string name="TV_CFG_DISPLAY_MODE_P2P">P2P</string>
+<string name="TV_CFG_DISPLAY_MODE_DEFAULT">mặc định</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM1">Thu phóng1</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM2">Thu phóng2</string>
+<string name="TV_CFG_PICTURE_MODE">Chế Độ Ảnh</string>
+<string name="TV_CFG_PICTURE_MODE_VIVID">Vivid</string>
+<string name="TV_CFG_PICTURE_MODE_SOFT">Nhẹ nhàng</string>
+<string name="TV_CFG_PICTURE_MODE_GAME">Trò Chơi</string>
+    <string name="TV_CFG_PICTURE_MODE_NATURAL">Natural</string>
+<string name="TV_CFG_PICTURE_MODE_SPORTS">thể thao</string>
+<string name="TV_CFG_PICTURE_MODE_PC">PC</string>
+    <string name="TV_CFG_PICTURE_MODE_DYMANIC">Dymanic</string>
+    <string name="TV_CFG_PICTURE_MODE_USER">CHẾ ĐỘ NGƯỜI DÙNG</string>
+<string name="TV_CFG_PICTURE_MODE_STANDARD">TIÊU CHUẨN</string>
+<string name="TV_CFG_PICTURE_MODE_4K_CINEMA">Xi-nê 4K</string>
+<string name="TV_CFG_NOSIGNAL">KHÔNG CÓ TÍN HIỆU</string>
+<string name="TV_CFG_NOTSUPPORTED">Không Được Hỗ Trợ</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_WARM">NÓNG</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_STANDARD">TIÊU CHUẨN</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_COOL">LẠNH</string>
+    <string name="TV_CFG_LOCAL_DIMMING_MODE">Local Dim.</string>
+<string name="TV_CFG_LOCAL_DIMMING_OFF_MODE">Đóng</string>
+<string name="TV_CFG_LOCAL_DIMMING_ON_MODE">Mở</string>
+<string name="TV_CFG_CINEMA_MODE">Chế Độ Xi-Nê</string>
+<string name="TV_CFG_MANUAL_BACKLIGHT_ADJUST">Ngược Sáng</string>
+<string name="TV_CFG_MEMC_MODE">MEMC</string>
+<string name="TV_CFG_MEMC_MODE_OFF">TẮT</string>
+<string name="TV_CFG_MEMC_MODE_LOW">THẤP</string>
+<string name="TV_CFG_MEMC_MODE_MID">MID</string>
+<string name="TV_CFG_MEMC_MODE_HIGH">CAO</string>
+
+<!-- Sound -->
+<string name="TV_CFG_SOUND_SETTING">Thiết Đặt Âm Thanh</string>
+<string name="TV_CFG_VOLUME">ÂM LƯỢNG</string>
+<string name="TV_CFG_AUDIO_MUTE">Im lặng</string>
+<string name="TV_CFG_SOUND_MODE">CHẾ ĐỘ ÂM THANH</string>
+<string name="TV_CFG_BASS">TRẦM </string>
+<string name="TV_CFG_TREBLE">BỔNG</string>
+<string name="TV_CFG_BALANCE">CÂN BẰNG</string>
+<string name="TV_CFG_SURROUND">Âm thanh vòm</string>
+<string name="TV_CFG_SOUND_CLARITY">Thoại</string>
+<string name="TV_CFG_TRUBASS">TruBass</string>
+<string name="TV_CFG_SUBWOOFER">Siêu Trầm</string>
+<string name="TV_CFG_SUBWOOFER_VOLUME">S.W.VOL</string>
+<string name="TV_CFG_WALL_SOUND_EFFECTS">Wall-M.S.E.</string>
+<string name="TV_CFG_SOUND_SPDIF">SPDIF</string>
+<string name="TV_CFG_SOUND_SPDIF_SOURCE">liệu</string>
+    <string name="TV_CFG_SOUND_SPDIF_PCM">PCM</string>
+<string name="TV_CFG_SOUND_SEPERATE">CHỈ ÂM THANH</string>
+<string name="TV_CFG_SOUND_MODE_STANDARD">TIÊU CHUẨN</string>
+<string name="TV_CFG_SOUND_MODE_NEWS">PHIM ẢNH</string>
+<string name="TV_CFG_SOUND_MODE_MUSIC">ÂM NHẠC</string>
+<string name="TV_CFG_SOUND_MODE_MOVIE">PHIM</string>
+<string name="TV_CFG_SOUND_MODE_SPORTS">thể thao</string>
+    <string name="TV_CFG_SOUND_MODE_USER">CHẾ ĐỘ NGƯỜI DÙNG</string>
+<string name="TV_CFG_EQUALIZER_SETTING">Cân bằng</string>
+<string name="TV_CFG_EQUALIZER">Cân bằng</string>
+<string name="TV_CFG_EQUALIZER_100HZ">100HZ</string>
+<string name="TV_CFG_EQUALIZER_500HZ">500Hz</string>
+    <string name="TV_CFG_EQUALIZER_1KHZ">1KHZ</string>
+<string name="TV_CFG_EQUALIZER_3KHZ">3KHz</string>
+<string name="TV_CFG_EQUALIZER_10KHZ">10KHz</string>
+<string name="TV_CFG_MTS_MODE">MTS</string>
+<string name="TV_CFG_NICAM_MODE">Nicam</string>
+    <string name="TV_CFG_AVL">AVL</string>
+<string name="TV_CFG_BBE_SOUND">BBE</string>
+<string name="TV_CFG_AUDIO_LANGUAGE">ngôn ngữ âm thanh</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING">ngôn ngữ âm thanh</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE">Chế Độ Âm Thah</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LL">LL</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LR">ÂM THANH NỔI</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_RR">RR</string>
+
+
+<!-- MTS/NICAM -->
+<string name="TV_CFG_AUDIOMODE_MONO">ĐƠN SẮC</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_A">KÉP I</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_AB">KÉP I+II</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_B">KÉP II</string>
+<string name="TV_CFG_AUDIOMODE_FORCED_MONO">ĐƠN SẮC</string>
+<string name="TV_CFG_AUDIOMODE_G_STEREO">ÂM THANH NỔI</string>
+<string name="TV_CFG_AUDIOMODE_HIDEV_MONO">HIDEV ĐƠN SẮC</string>
+<string name="TV_CFG_AUDIOMODE_NUM">ĐƠN SẮC</string>
+<string name="TV_CFG_AUDIOMODE_INVALID">ĐƠN SẮC</string>
+<string name="TV_CFG_AUDIOMODE_K_STEREO">ÂM THANH NỔI</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_LEFT">TRÁI TRÁI</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_RIGHT">TRÁI PHẢI</string>
+<string name="TV_CFG_AUDIOMODE_MONO_SAP">SAP</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_A">KÉP I</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_AB">DUAL I/II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_B">KÉP II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_MONO">ĐƠN SẮC</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_STEREO">ÂM THANH NỔI</string>
+<string name="TV_CFG_AUDIOMODE_RIGHT_RIGHT">PHẢI PHẢI</string>
+<string name="TV_CFG_AUDIOMODE_STEREO_SAP">SAP</string>
+
+<!-- Installed -->
+    <string name="TV_CFG_CHANNEL_SETTING">Installation</string>
+<string name="TV_CFG_AUTO_SEARCH">DÒ TỰ ĐỘNG</string>
+<string name="TV_CFG_MANUAL_SEARCH">Tìm THỦ CÔNG</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM">HỆ MÀU</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM">HỆ TIẾNG</string>
+<string name="TV_CFG_SEARCH_TYPE">Loại tìm kiếm</string>
+    <string name="TV_CFG_FIVE_ATENNA">5V Atenna</string>
+<string name="TV_CFG_START_AUTO_SEARCH">Bắt Đầu Tìm</string>
+<string name="TV_CFG_CHANNEL_EDIT">Chỉnh sửa kênh</string>
+<string name="TV_CFG_FAVORITE_LIST">Danh sách yêu thích</string>
+<string name="TV_CFG_CHANNEL_LIST">Danh sách kênh</string>
+    <string name="TV_CFG_SIGNAL_INFO">Signal Infomation</string>
+<string name="TV_CFG_CHANNEL_NO">Kênh Số</string>
+<string name="TV_CFG_FREQUENCY_SET">tần số</string>
+<string name="TV_CFG_TV_CHANNEL_SKIP">Kênh Bỏ qua</string>
+<string name="TV_CFG_TV_SEARCH_ATV">ATV</string>
+<string name="TV_CFG_TV_SEARCH_DTV">DTV</string>
+<string name="TV_CFG_TV_SEARCH_ATV_DTV">DTV+ATV</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_AUTO">Tự Động</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_BGHI">PAL</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_N">PAL_N</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_M">PAL_M</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_60">PAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_M">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_44">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_SECAM">SECAM</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_I">I</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_DK">D/K</string>
+    <string name="TV_CFG_TV_SOUND_SYSTEM_BG">B/G</string> 
+<string name="TV_CFG_TV_SOUND_SYSTEM_M">M</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_L">L</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_M_BTSC">M</string>
+<string name="TV_CFG_EPG_REPEAT_ONCE">một lần</string>
+<string name="TV_CFG_EPG_REPEAT_WEEKLY">hàng tuần</string>
+<string name="TV_CFG_EPG_REPEAT_DAILY">Hàng ngày</string>
+<string name="TV_CFG_SEARCH_TYPE_ATV">ATV</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBT">DVB_T</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBC">DVB_C</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBS">DVB_S</string>
+<string name="TV_CFG_SEARCH_TYPE_DTMB">DTMB</string>
+<string name="signal_info_title">Thông Tin Tín Hiệu</string>
+<string name="TV_CFG_CI_INFORMATION">Thông Tin CI</string>
+<string name="TV_CFG_DVBS_AUTO_SEARCH">Tự Động Tìm DVB_S</string>
+<string name="TV_CFG_DVBT_AUTO_SEARCH">Tự Động Tìm DVB_T</string>
+<string name="TV_CFG_DVBC_AUTO_SEARCH">Tự Động Tìm DVB_C</string>
+<string name="str_channel_edit_r_delete">XÓA</string>
+<string name="str_channel_edit_g_sort">Sắp xếp</string>
+    <string name="str_channel_edit_y_favorite">Favorite</string>
+<string name="str_channel_edit_b_skip">BỎ QUA</string>
+<string name="str_channel_edit_g_lock">Khóa</string>
+<string name="str_channel_edit_ok_move">DI CHUYỂN</string>
+<string name="TV_CFG_LNB_SETTING">Thiết lập LNB</string>
+<string name="TV_CFG_DVBS_MODULATION">truyền hình vệ tinh</string>
+<string name="str_ci_channellist_op_menu">Menu Hồ Sơ Người Vận Hành</string>
+<string name="str_ci_channellist_op_del">xóa hồ sơ</string>
+<string name="str_ci_channellist_exit_op">thoát OP</string>
+<string name="str_ci_channellist_enter_op">nhập OP</string>
+<string name="str_ci_channellist_op_title">OP Danh sách kênh</string>
+    <string name="str_ci_channellist_op_del_msg">Are you sure to delete \rthe operator profile [</string>
+
+<!-- Setup -->
+    <string name="TV_CFG_SYSTEM_SETTING">Setup</string>
+    <string name="TV_CFG_CAPTION_ONOFF">Caption</string>
+    <string name="TV_CFG_CC_MODE">CCMode</string>
+    <string name="TV_CFG_LANGUAGE">Language</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE">PHỤ ĐỀ  NGÔN NGỮ</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_AUTO">Tự Động</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_VIDEO">16~235</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_GRAPHIC">0~255</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC">BẬT/TẮT HDMI-CEC</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC_AUTO_STANDBY">tự động ở chế độ chờ</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST">Danh sách thiết bị</string>
+<string name="TV_CFG_TELETEXT_LANGUAGE">Ngôn Ngữ TTX</string>
+<string name="TTX_LANG_RUSSIAN">NGA</string>
+<string name="TTX_LANG_EAST">EAST</string>
+<string name="TTX_LANG_ARABIC">ARABIC</string>
+<string name="TTX_LANG_FARSI">FARSI</string>
+<string name="TTX_LANG_WEST">WEST</string>
+<string name="TV_CFG_TIME_SHIFT">Hiện phím Shift</string>
+<string name="TV_CFG_TIME">Đặt Thời Gian</string>
+<string name="TV_CFG_CURRENT_TIME">Thời Gian Hiện Tại</string>
+<string name="TV_CFG_TIME_ZONE">múi giờ</string>
+<string name="TV_CFG_TIME_ZONE_SETTING">múi giờ</string>
+<string name="TV_CFG_DAY_LIGHT_SAVING">Tiết Kiệm Điện Ban Ngày</string>
+<string name="TV_CFG_SLEEP_TIMER">Hẹn giờ ngủ</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TITLE">Đếm Ngược</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TIP_TEXT">Nhấn Back (Quay Lại) để thoát</string>
+<string name="TV_CFG_OFF_TIMER">Tắt Hẹn Giờ</string>
+<string name="TV_CFG_ENGERY_SAVING">Tiết kiệm năng lượng</string>
+<string name="TV_CFG_AUTO_OFF">Tự Động Tắt</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_10">10s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_20">20s</string>
+<string name="TV_CFG_MEMU_SHOW_TIME_ALWAYS">Luôn luôn</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_OFF">TẮT</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_ON">MỞ</string>
+<string name="TV_CFG_PVR">Hệ Thống PVR</string>
+<string name="TV_CFG_PVR_SELECT_DISK">Select Disk</string>
+<string name="TV_CFG_PVR_SELECT_USB">Chọn USB</string>
+<string name="TV_CFG_PVR_USB_SPEED">Tốc Độ USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE">Khoảng Định Thời</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_512M">512M</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_1G">1G</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE_2G">2G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_4G">4G</string>
+<string name="TV_CFG_PVR_USB_FORMAT">Định Dạng USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_ALWAYS">Luôn Định Thời</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE">Phạm vi màu</string>
+<string name="TV_CFG_HDMI_CEC_MENU_LIST">HDMI-CEC</string>
+<string name="TV_CFG_MENU_SHOW_TIME">đơn thời gian hiển thị</string>
+<string name="TV_CFG_STICKER_DEMO">Trình diễn Sticker </string>
+<string name="TV_CFG_SLEEP_TIMER_OFF">TẮT</string>
+<string name="TV_CFG_SLEEP_TIMER_5_MINUTES">5 Phút</string>
+<string name="TV_CFG_SLEEP_TIMER_15_MINUTES">15 Phút</string>
+    <string name="TV_CFG_SLEEP_TIMER_30_MINUTES">30 Min</string>
+    <string name="TV_CFG_SLEEP_TIMER_60_MINUTES">60 Min</string>
+<string name="TV_CFG_SLEEP_TIMER_90_MINUTES">90 Phút</string>
+    <string name="TV_CFG_SLEEP_TIMER_120_MINUTES">120 Min</string>
+<string name="TV_CFG_AUTO_SLEEP">tự động ngủ</string>
+<string name="TV_CFG_AUTO_SLEEP_OFF">TẮT</string>
+<string name="TV_CFG_AUTO_SLEEP_1_HOURS">1 Giờ</string>
+<string name="TV_CFG_AUTO_SLEEP_2_HOURS">2 Giờ</string>
+<string name="TV_CFG_AUTO_SLEEP_3_HOURS">3 Giờ</string>
+<string name="TV_CFG_AUTO_SLEEP_4_HOURS">4 Giờ</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP">No Signal Sleep</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_OFF">TẮT</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_5_MINUTES">5 Phút</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_10_MINUTES">10 phút</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_15_MINUTES">15 Phút</string>
+<string name="TV_CFG_TIME_YEAR">Năm</string>
+<string name="TV_CFG_TIME_MONTH">Tháng</string>
+<string name="TV_CFG_TIME_DAY">ngày</string>
+<string name="TV_CFG_TIME_HOUR">giờ</string>
+<string name="TV_CFG_TIME_MINUTE">phút</string>
+    <string name="TV_CFG_START_OFF_TIME">Press "Enter to Set OffTime"</string>
+<string name="TV_CFG_REBOOT_SYSTEM">Khởi Động Lại Hệ Thống</string>
+<string name="TV_CFG_RECOVERY">Thiết lập lại truyền hình</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST_SETTING">Danh sách thiết bị</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_AUTO">Tự Động</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_ON">MỞ</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_OFF">TẮT</string>
+<string name="TV_CFG_CAPTION_ON">MỞ</string>
+	<string name="TV_CFG_CAPTION_ON_MUTE">ON MUTE</string>
+<string name="TV_CFG_CAPTION_OFF">TẮT</string>
+<string name="TV_CFG_CC_MODE_OFF">TẮT</string>
+<string name="TV_CFG_CC_MODE_CC1">CC1</string>
+<string name="TV_CFG_CC_MODE_CC2">CC2</string>
+<string name="TV_CFG_CC_MODE_CC3">CC3</string>
+<string name="TV_CFG_CC_MODE_CC4">CC4</string>
+<string name="TV_CFG_CC_MODE_TXT1">TXT1</string>
+<string name="TV_CFG_CC_MODE_TXT2">TXT2</string>
+<string name="TV_CFG_CC_MODE_TXT3">TXT3</string>
+<string name="TV_CFG_CC_MODE_TXT4">TXT4</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SET">Thiết Đặt Ngôn Ngữ Âm Thah</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_PRIMARY_SET">Ngôn Ngữ Âm Thanh Chính</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SECOND_SET">Ngôn Ngữ Âm Thanh Thứ Hai</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SWITCH">Chuyển Ngôn Ngữ Phụ Đề</string>
+
+<!-- OSDLanguage -->
+<string name="TV_CFG_OSD_LANGUAGE_ENGLISH">English</string>
+    <string name="TV_CFG_OSD_LANGUAGE_THAI">ภาษาไทย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ARABIC">العربية</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FARSI">فارسی</string>
+    <string name="TV_CFG_OSD_LANGUAGE_RUSSIAN">русский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FRENCH">française</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HEBREW">עברית שפה</string>
+    <string name="TV_CFG_OSD_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+<string name="TV_CFG_OSD_LANGUAGE_INDONESIAN">Dân Nam dương</string>
+    <string name="TV_CFG_OSD_LANGUAGE_PORTUGUESE">português</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SPANISH">español</string>
+    <string name="TV_CFG_OSD_LANGUAGE_TURKISH">Türk dili</string>
+<string name="TV_CFG_OSD_LANGUAGE_GERMAN">Deutsch</string>
+<string name="TV_CFG_OSD_LANGUAGE_CZECH">Séc</string>
+<string name="TV_CFG_OSD_LANGUAGE_DANISH">Đan Mạch</string>
+<string name="TV_CFG_OSD_LANGUAGE_GREEK">Hy Lạp</string>
+<string name="TV_CFG_OSD_LANGUAGE_CROATIAN">Croatia</string>
+<string name="TV_CFG_OSD_LANGUAGE_ITALIAN">Ý</string>
+<string name="TV_CFG_OSD_LANGUAGE_HUNGARIAN">Hungary</string>
+<string name="TV_CFG_OSD_LANGUAGE_DUTCH">Hà Lan</string>
+    <string name="TV_CFG_OSD_LANGUAGE_NORWEGIAN">Norwegian</string>
+<string name="TV_CFG_OSD_LANGUAGE_POLISH">Ba Lan</string>
+<string name="TV_CFG_OSD_LANGUAGE_ROMANIAN">Rumani</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVENIAN">Slovenia</string>
+<string name="TV_CFG_OSD_LANGUAGE_SERBIAN">Serbia</string>
+<string name="TV_CFG_OSD_LANGUAGE_FINNISH">Phần Lan</string>
+<string name="TV_CFG_OSD_LANGUAGE_SWEDISH">Thụy Điển</string>
+<string name="TV_CFG_OSD_LANGUAGE_BULGARIAN">Bungari</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVAK">Slovak</string>
+<string name="TV_CFG_OSD_LANGUAGE_CHINESE">Trung Quốc</string>
+<string name="TV_CFG_OSD_LANGUAGE_GAELIC">Gaelic</string>
+<string name="TV_CFG_OSD_LANGUAGE_WELSH">Welsh</string>
+<string name="TV_CFG_OSD_LANGUAGE_IRISH">Ailen</string>
+<string name="TV_CFG_OSD_LANGUAGE_LATVIAN">Latvia</string>
+<string name="TV_CFG_OSD_LANGUAGE_ESTONIAN">Estonia</string>
+<string name="TV_CFG_OSD_LANGUAGE_GALLEGAN">Gallegan</string>
+<string name="TV_CFG_OSD_LANGUAGE_BASQUE">Basque</string>
+<string name="TV_CFG_OSD_LANGUAGE_CATALAN">catalan</string>
+<string name="TV_CFG_OSD_LANGUAGE_ICELANDIC">Iceland</string>
+<string name="TV_CFG_OSD_LANGUAGE_LETZEBURGESCH">Letzeburgesch</string>
+<string name="TV_CFG_OSD_LANGUAGE_LITHUANIAN">Lithuania</string>
+<string name="TV_CFG_OSD_LANGUAGE_UKRAINIAN">Ukraina</string>
+<string name="TV_CFG_OSD_LANGUAGE_BYELORUSSIAN">Belorussia</string>
+<string name="TV_CFG_OSD_LANGUAGE_MAORI">Maori</string>
+<string name="TV_CFG_OSD_LANGUAGE_MANDARIN">Quan Thoại</string>
+<string name="TV_CFG_OSD_LANGUAGE_CANTONESE">Quảng Đông</string>
+<string name="TV_CFG_OSD_LANGUAGE_KOREAN">Hàn Quốc</string>
+<string name="TV_CFG_OSD_LANGUAGE_JAPANESE">Nhật Bản</string>
+<string name="TV_CFG_OSD_LANGUAGE_HINDI">Hindi</string>
+
+
+<!-- SubtitleLanguage -->
+<string name="TV_CFG_SUBTITLE_LANGUAGE_OFF">TẮT</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_ARABIC">التطبيق المتجر</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_ENGLISH">English</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_IRANIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_FRENCH">Française</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_INDONESIAN">findonesia</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_HEBREW">עברית שפה</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_RUSSIAN">русский</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_TAHITIAN">ภาษาไทย</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE_CHS">简体中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE">繁體中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PERSIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SPANISH">Inglés</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_UNKNOWN">KHÔNG BIẾT</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SETTING">Thiết Đặt Ngôn Ngữ Phụ Đề</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_PRIMARY">Ngôn Ngữ Phụ Đề Chính</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SECONDE">Ngôn Ngữ Phụ Đề Thứ Hai</string>
+
+<!-- VGA Setup -->
+<string name="TV_CFG_VGA_SETTING">VGA</string>
+<string name="TV_CFG_SCART_SETTING">Scart</string>
+<string name="TV_CFG_VGA_AUTO_ADJUST">Tự Động Chỉnh</string>
+<string name="TV_CFG_VGA_H_POSITION">CHIỀU NGANG</string>
+<string name="TV_CFG_VGA_V_POSITION">CHIỀU DỌC</string>
+<string name="TV_CFG_VGA_PHASE">PHA</string>
+<string name="TV_CFG_VGA_FREQUENCY">ĐỒNG BỘ</string>
+
+<!-- Lock-->
+<string name="TV_CFG_LOCK_SETTING">Khóa</string>
+<string name="TV_CFG_LOCK_KEY_EVENT_LOCK">bảng điều khiển Khóa</string>
+<string name="TV_CFG_LOCK_INPUT_PASSWORD">Nhập Mật Khẩu</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD">thay đổi mật khẩu</string>
+<string name="TV_CFG_LOCK_COMFIRM_PASSWORD">Xác Nhận Mật Khẩu</string>
+<string name="TV_CFG_LOCK_AGE_LIST">kiểm soát của cha mẹ</string>
+<string name="TV_CFG_PANEL_LOCK">bảng điều khiển Khóa</string>
+<string name="TV_CFG_LOCK_CHANNEL_LIST">Chặn Chương Trình</string>
+<string name="TV_CFG_LOCK_SYSTEM_LOCK">Khóa Hệ Thống</string>
+<string name="TV_CFG_LOCK_SET_LOCK_PARENTAL_CONTROL_RATING_NUMBER">kiểm soát của cha mẹ</string>
+<string name="TV_CFG_LOCK_RATING_0">không ai</string>
+    <string name="TV_CFG_LOCK_RATING_1">4</string>
+    <string name="TV_CFG_LOCK_RATING_2">5</string>
+    <string name="TV_CFG_LOCK_RATING_3">6</string>
+    <string name="TV_CFG_LOCK_RATING_4">7</string>
+    <string name="TV_CFG_LOCK_RATING_5">8</string>
+    <string name="TV_CFG_LOCK_RATING_6">9</string>
+    <string name="TV_CFG_LOCK_RATING_7">10</string>
+    <string name="TV_CFG_LOCK_RATING_8">11</string>
+    <string name="TV_CFG_LOCK_RATING_9">12</string>
+    <string name="TV_CFG_LOCK_RATING_10">13</string>
+    <string name="TV_CFG_LOCK_RATING_11">14</string>
+    <string name="TV_CFG_LOCK_RATING_12">15</string>
+    <string name="TV_CFG_LOCK_RATING_13">16</string>
+    <string name="TV_CFG_LOCK_RATING_14">17</string>
+    <string name="TV_CFG_LOCK_RATING_15">18</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_SUCCESS">Đổi mật khẩu thành công</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_FAIL">Đổi mật khẩu thất bại</string>
+
+<!-- Channel Search -->
+<string name="channel_programs">Chương Trình</string>
+<string name="channel_info">Thông Tin Kênh</string>
+<string name="mannual_search">Tìm THỦ CÔNG</string>
+<string name="symbol_rate">Tỉ Lệ biểu tượng</string>
+<string name="band_width">Băng thông</string>
+<string name="module_mode">điều chế</string>
+<string name="signal_quality">Chất Lượng Tín Hiệu</string>
+<string name="signal_strength">Cường Độ Tín Hiệu</string>
+<string name="signal_network">Mạng </string>
+<string name="signal_tsid">luồng giao thông</string>
+<string name="signal_server">Máy chủ</string>
+<string name="signal_modulation">điều chế</string>
+<string name="search_progress">Tiến Độ Tìm</string>
+<string name="program_tv">Chương Trình TV</string>
+<string name="program_dtv">Chương Trìh DTV</string>
+<string name="program_radio">C.Trình Phát Thanh</string>
+<string name="program_data">C.Trình Dữ Liệu</string>
+<string name="search_channel">Đang dò</string>
+<string name="auto_search">DÒ TỰ ĐỘNG ATV</string>
+<string name="frequency_adjust">Dò Tần Số</string>
+<string name="nit_search">Tìm Toàn Bộ Kênh</string>
+    <string name="channel_setting">Channel settings</string>
+    <string name="enter">Enter</string>
+<string name="frequency">tần số</string>
+<string name="frequency_segment">Đoạn kêh</string>
+    <string name="channel_count">Channel Count></string>
+<string name="crt_channel_num">Số kênh hiện tại</string>
+
+    <string name="start_fine_search">Press "Left" or "Right" to fine search</string>
+<string name="start_manual_search">Nhấn Giữ "Left" (Trái) hoặc "Right"  (Phải) để tìm thủ công</string>
+    <string name="back_hint">Nhấn Back (Quay Lại) để thoát</string>
+<string name="frequencypoint_setting">Thiết Đặt Tần Số</string>
+<string name="video_vod">Video theo Yêu Cầu (VoD)</string>
+<string name="main_frequencypoint">Tần Số Chính</string>
+    <string name="loader_frequencypoint">Loader frequency</string>
+<string name="start_frequency">Tần Số Bắt Đầu</string>
+<string name="end_frequency">Tần số kết thúc</string>
+<string name="crt_frequency">Tần Số Hiện Tại</string>
+<string name="start_search">Bắt đầu tìm</string>
+<string name="confirm">OK</string>
+<string name="cancel">HỦY BỎ</string>
+
+    <string name="not_empty">can not be empty</string>
+<string name="city_setting">Thiết Đặt Vùng</string>
+<string name="switch_city">chuyển vùng</string>
+<string name="save">Lưu</string>
+
+<!-- EPG-->
+    <string name="epgmanagetitle">Electronic Program Guide</string>
+<string name="epgchannellist">Danh sách kênh</string>
+<string name="epgchanneldate">Ngày</string>
+<string name="epgprogramname">tên chương trình</string>
+<string name="epginfomation">Thông tin</string>
+<string name="epgtipsschedule">Danh sách lịch</string>
+<string name="epgtipsreminder">Thiết Đặt Nhắc Nhở</string>
+<string name="epgtipsrecord">thiết lập kỷ lục</string>
+<string name="epgsettingmode">Chế độ</string>
+<string name="epgsettingtime">THỜI GIAN</string>
+<string name="epgscheduledelete">XÓA</string>
+<string name="epg_recodesetting_channel">KÊNH</string>
+<string name="epg_recodesetting_repeat">Chế độ lặp lại</string>
+<string name="epg_recodesetting_startmonth">Tháng Bắt Đầu</string>
+<string name="epg_recodesetting_startdate">Ngày</string>
+<string name="epg_recodesetting_starthour">giờ</string>
+<string name="epg_recodesetting_startminute">phút</string>
+<string name="epg_recodesetting_endmonth">Tháng Kết Thúc</string>
+<string name="epg_recodesetting_enddate">Ngày</string>
+<string name="epg_recodesetting_endhour">giờ</string>
+<string name="epg_recodesetting_endminute">phút</string>
+<string name="epg_remindsetting_month">Tháng</string>
+<string name="epg_mode_reminder">nhắc nhở</string>
+<string name="epg_mode_recorder">Trình ghi</string>
+    <string name="epg_setting_button">Press "OK" to Setting</string>
+<string-array name="epg_record_moths">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+</string-array>
+<string-array name="epg_record_days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+</string-array>
+<string-array name="epg_record_hours">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+</string-array>
+<string-array name="epg_record_minutes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+</string-array>
+<string-array name="epg_record_repeate_mode">
+<item>một lần</item>
+<item>Hàng ngày</item>
+<item>hàng tuần</item>
+</string-array>
+<string-array name="epg_record_time_tips">
+<item>không ai</item>
+<item>thành công</item>
+<item>Trước</item>
+<item>Lớp Phủ</item>
+        <item>Endtime Before Start</item>
+        <item>Endtime Exceed Period</item>
+<item>TOÀN BỘ</item>
+<item>Xug đột trình nhắc mới</item>
+<item>Xung đột trình nhắc CSDL</item>
+</string-array>
+<string name="str_epg_schedule_y_back">lưng</string>
+<string name="str_epg_schedule_r_delete">XÓA</string>
+
+<string name="SKY_SEARCH">tìm kiếm</string>
+<string name="SKY_H_DIRECTION_KEY">để di con trỏ sang trái và phải</string>
+<string name="SKY_V_DIRECTION_KEY">để di con trỏ lên và xuống</string>
+<string name="SKY_DELETE">XÓA</string>
+    <string name="SKY_SHUTTLE_ROTATE">Shuttle toggle selection</string>
+<string name="SKY_SEARCH_LEFTKEY">nhấn nút bên trái để xóa</string>
+<string name="SKY_SEARCH_TEXT">Tìm chữ cái đầu Bính âm</string>
+
+<!-- 网络部分 -->
+<string name="NET_WIFI_HOT_SPOT">Điểm truy cập</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_OPEN">Mở</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_CLOSE">Đóng</string>
+<string name="NET_WIFI_HOT_SPOT_NAME">Tên điểm truy cập</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_SET">Mã hóa</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_OPEN">Mở</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_CLOSE">Mã hóa</string>
+<string name="NET_WIFI_HOT_SPOT_PWD">Mk truy cập</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_ERROR_TIP">8-24 chữ cái hoặc số</string>
+<string name="NET_WIFI_HOT_SPOT_BTN_SAVE">Lưu</string>
+<string name="NET_WIFI_HOT_SPOT_NAME_ERROR_TIP">Không để trống tên</string>
+<!-- 无线列表选择 -->
+    <string name="NET_WIFI_SELECT_WPS">WIFI WPS:</string>
+    <string name="NET_WIFI_SELECT_WPS_ENTER">Enter</string>
+<string name="NET_WIFI_SELECT_LIST">danh sách mạng không dây: </string>
+<string name="NET_WIFI_SELECT_OTHER_WIFI">Mạng khác</string>
+<!-- 手动设置ip -->
+<string name="SKY_IP_SETTING_GREATER_THAN_255">Độ dài nhập liệu không quá 255</string>
+<string name="SKY_IP_SETTING_EMPTY_IP">Không thể để trống</string>
+    <string name="Sky_IP_SETTING_START_ZERO">IP number start with 0 not allowed</string>
+<string name="SKY_IP_SETTING_INVALID">IP không hợp lệ</string>
+<string name="SKY_IP_ASSIGNMENT_TYPE">Loại IP</string>
+<string name="SKY_IP_DHCP_STATIC">tĩnh</string>
+<string name="SKY_IP_DHCP_DYNAMIC">Động</string>
+<string name="SKY_IP_TEXT">IP</string>
+<string name="SKY_GATEWAY_TEXT">CỔNG KẾT NỐI</string>
+<string name="SKY_MASK_TEXT">Mặt nạ</string>
+<string name="SKY_DNS_TEXT">DNS</string>
+<string name="SKY_BTN_CONNECT_TEXT">kết nối</string>
+<!-- 输入网络密码 -->
+<string name="INPUT_WIFI_PWD_HINT">Xin nhập mật khẩu wifi: </string>
+<string name="INPUT_WIFI_PWD_EDIT">mật khẩu</string>
+    <string name="INPUT_WIFI_PWD_ERROR_TIPS">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_1">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_2">Note: the password length is more than 64</string>
+<!-- 旧的网络设置使用，新的这些有可能被引用了 -->
+<string name="SKY_WIFI_OPEN">Wifi Mở</string>
+<string name="SKY_WIFI_CLOSE">Đã Ngắt Wifi</string>
+<string name="SKY_BTN_SET_WIFI_TEXT">Thiết Đặt IP</string>
+<string name="SKY_WIFI_SELECT_TEXT">Chọn WLAN</string>
+<string name="SKY_PUSH_TO_TALK_TEXT">WIFI WPS</string>
+<string name="SKY_OTHER_TEXT">khác</string>
+<string name="SKY_WIFI_NAME_TEXT">SSID</string>
+<string name="SKY_ENCRYPTION_TEXT">Mã hóa</string>
+<string name="SKY_PASSWORD_TEXT">Mật khẩu: </string>
+<string name="SKY_PWD_LESS_THAN_8_DIGITS">Độ dài mật khẩu ít hơn 8</string>
+    <string name="SKY_PWD_NO_EMPTY">Empty password not allowed</string>
+
+<!-- AD -->
+<string name="TV_CFG_SWITCH_AD_TRUE">AD Đã Mở!</string>
+    <string name="TV_CFG_SWITCH_AD_FALSE">AD is Close!</string>
+<string name="TV_CFG_SWITCH_AD_NONE">Không Được Hỗ Trợ</string>
+
+<!-- add_by_wangxian -->
+<string name="install_guide_welcome_message">Chào mừng đến Hướng Dẫn Thiết Đặt Đầu Tiên</string>
+    <string name="left_item_language">Language</string>
+<string name="left_item_timezone">Múi Giờ</string>
+<string name="left_item_network">Mạng </string>
+<string name="left_item_searchmode">Chế Độ Tìm</string>
+<string name="next_hint">Tiếp theo</string>
+<string name="set_network">Đặt Mạng</string>
+<string name="installsearch">tìm kiếm</string>
+    <string name="searchhint">* Please press [OK] key to check</string>
+    <string name="netchoise_hint">Net Choise</string>
+<string name="netconnection">Kết Nối Mạng</string>
+<string name="wiresetup">Ethernet</string>
+<string name="wirelesssetup">WIFI</string>
+<string name="wifiSetup">Cài Đặt WIFI</string>
+<string name="wifiButtonConnect">kết nối</string>
+<string name="wifiButtonExit">THOÁT</string>
+<string name="wifiInvialidPwd">Mật Khẩu Không Hợp Lệ!</string>
+<!-- add_by_zhuming  -->
+<!-- Aus time zone  -->
+<string name="TV_CFG_TIMEZONE_WA">Tây Úc GMT +8</string>
+<string name="TV_CFG_TIMEZONE_SA">Nam Úc GMT 9,5</string>
+<string name="TV_CFG_TIMEZONE_NT">Lãnh thổ phía bắc GMT 9,5</string>
+<string name="TV_CFG_TIMEZONE_NSW">New South Wales GMT +10</string>
+<string name="TV_CFG_TIMEZONE_VIC">Victoria GMT +10</string>
+<string name="TV_CFG_TIMEZONE_QLD">Queensland GMT +10</string>
+<string name="TV_CFG_TIMEZONE_TAS">Tasmania GMT +10</string>
+<!-- Brazil time zone  -->
+    <string name="TV_CFG_TIMEZONE_F_NORONHA">GMT-2</string>
+    <string name="TV_CFG_TIMEZONE_BUENOS_AIRES">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_BRASILIA">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_NORTHEAST">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_M_GROSSO">GMT-4</string>
+    <string name="TV_CFG_TIMEZONE_ACRE">GMT-5</string>
+
+<!-- PVR  -->
+<string name="str_pvr_listview_item">Hiển Thị Văn Bản</string>
+<string name="str_player_recorder">Trình ghi</string>
+<string name="str_player_playab">A/Blặp lại</string>
+<string name="str_player_stop">Dừng</string>
+<string name="str_player_play">Chơi</string>
+<string name="str_player_pause">Tạm Nghi</string>
+    <string name="str_player_rev">Rev</string>
+<string name="str_player_ff">FF</string>
+    <string name="str_player_slow">Slow Motion</string>
+<string name="str_player_time">thời gian chơi</string>
+<string name="str_player_forward">về phía trước</string>
+<string name="str_player_backward">lạc hậu</string>
+    <string name="str_pvr_is_recording">Recording</string>
+<string name="str_pvr_mode_recorde">Đang ghi...</string>
+<string name="str_pvr_mode_timeshift">Định Thời...</string>
+<string name="str_pvr_usb_free_space">Dung Lượng USB Trống </string>
+    <string name="str_pvr_usb_lable_name">USB Lable Name</string>
+
+<string name="str_pvr_record_exit_confirm">Ghi âm ... bạn có chắc để thoát khỏi?</string>
+<string name="str_pvr_timeshift_exit_confirm">Đang Định Thời... Bạn Có Thật Sự Muốn Thoát Không?</string>
+<string name="str_pvr_program_saving">Chương trình đang được lưu trữ ... vui lòng chờ!</string>
+    <string name="str_info_pvr_playback_exit_confirm">Now playback... Do you really want to exit?</string>
+<string name="sky_pvr_support_disk_format">Hệ thống tập tin PVR chỉ hỗ trợ ổ đĩa định dạng FAT!</string>
+<string name="str_pvr_insert_usb">Xin vui lòng chèn đĩa USB đầu tiên!</string>
+    <string name="sky_pvr_record_false">Record false!</string>
+    <string name="sky_pvr_timeshift_false">Timeshift false!</string>
+    <string name="sky_pvr_disk_outofspace">Disk does not have enough space !</string>
+    <string name="sky_pvr_filesystem_unsupported">please, format your disk for FAT32 !</string>
+    <string name="sky_pvr_support_timeshift_fail">This program do not allow timeshift!</string>
+    <string name="sky_pvr_support_record_fail">This program do not allow record!</string>
+<string name="sky_pvr_record_list">Danh Sách Ghi PVR</string>
+<string name="sky_pvr_record_list_lcn">LCN</string>
+<string name="sky_pvr_record_list_channel">KÊNH</string>
+<string name="sky_pvr_record_list_program">Chương Trình</string>
+<string name="sky_pvr_record_list_recordtime">Thời Gian Ghi</string>
+<string name="sky_pvr_record_list_delete">XÓA</string>
+    <string name="sky_pvr_record_list_index">Index</string>
+<string name="sky_pvr_record_list_ok">OK</string>
+<string name="sky_pvr_record_list_yellow">màn hình đầy đủ</string>
+<string name="sky_pvr_record_list_descend">xuống</string>
+<string name="sky_pvr_record_list_ascend">lên</string>
+<string name="sky_pvr_record_list_delete_tip">Bạn có chắc muốn xóa mục này?</string>
+
+<!-- Channel Info  -->
+<string name="str_source_info_channel">Kênh: </string>
+<string name="str_source_info_audioformat">Định Dạng Âm Thanh: </string>
+<string name="str_source_info_subtitle">Phụ Đề:</string>
+<string name="str_source_info_chname">Tên kênh: </string>
+<string name="str_source_info_videoformat">Định Dạng Video: </string>
+<string name="str_source_info_audiolanguage">Ngôn Ngữ Âm Thanh: </string>
+<string name="str_source_info_resolution">Độ phân giải</string>
+<string name="str_source_info_age">Tuổi:</string>
+<string name="str_source_info_time">Thời Gian:</string>
+<string name="str_source_info_programtype">Loại Chương Trình: </string>
+<string name="str_source_info_programname">Tên Chương Trình: </string>
+<string name="str_source_info_category">Loại Chương Trình: </string>
+<string name="str_source_info_no_information">không có thông tin</string>
+
+<string name="str_time_hour">giờ</string>
+<string name="str_time_minute">phút</string>
+<string name="str_time_second">Giây</string>
+
+<string name="str_common">Common</string>
+<string name="str_scan_atv">ATV</string>
+<string name="str_scan_dtv">DTV</string>
+<string name="str_scan_atv_dtv">ATV+DTV</string>
+    <string name="str_scan_air">Antena</string>
+<string name="str_scan_cable">Cáp</string>
+    <string name="str_scan_air_cable">Antena+Cable</string>
+
+<!-- LNB Setting -->
+<string name="str_lnb_setup_title">Cài LNB</string>
+<string name="str_satellite_list">truyền hình vệ tinh</string>
+    <string name="str_lnb_setup_list">Setup</string>
+<string name="str_responder_list">60 Phút</string>
+<string name="str_lnb_item_add">thêm</string>
+<string name="str_lnb_item_Position">Chức vụ</string>
+<string name="str_lnb_item_limit">giới hạn</string>
+<string name="str_lnb_item_location">địa điểm</string>
+<string name="str_lnb_item_scan">Quét</string>
+<string name="str_lnb_item_edit">chỉnh sửa</string>
+<string name="str_lnb_item_delete">XÓA</string>
+<string name="str_lnb_signal_quality">Chất lượng</string>
+<string name="str_lnb_signal_strength">Cường độ</string>
+<string name="str_lnb_signal_add">thêm</string>
+<string name="str_lnb_signal_edit">chỉnh sửa</string>
+<string name="str_lnb_signal_scan">Quét</string>
+<string name="str_lnb_signal_delete">XÓA</string>
+<string name="str_lnb_signal_number_title">Số</string>
+<string name="str_lnb_signal_name_title">Tên Vệ Tinh</string>
+    <string name="str_lnb_signal_derection_title">Longitude Derection</string>
+<string name="str_lnb_signal_angle_title">kinh độ góc</string>
+<string name="str_lnb_signal_band_title">Băng</string>
+<string name="str_lnb_signal_comfirm_button">Bắt đầu tìm</string>
+<string name="str_lnb_signal_scan_mode_title">Chế độ quét</string>
+<string name="str_lnb_signal_network_search_title">mạng tìm kiếm</string>
+<string name="str_lnb_signal_service_type_title">Loại dịch vụ</string>
+<string name="str_lnb_signal_search_option_title">Tùy Chọn Tìm</string>
+<string name="str_lnb_transponder_frequency">tần số</string>
+<string name="str_lnb_transponder_symbol_rate">Tỉ Lệ biểu tượng</string>
+<string name="str_lnb_transponder_polarization">phân cực</string>
+
+<string name="TV_CFG_LNB_LNB_TAPY_UNIVERSAL">UNIVERSAL 9750 / 10600</string>
+<string name="TV_CFG_LNB_LNB_TAPY_MDU_1">MDU1 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_2">MDU2 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_3">MDU3 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_4">MDU4 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_MHZ">5150MHZ 5150 / 5150</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5750_MHZ">5750MHZ 5750 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_5750_MHZ">5150/5750MHZ 5150 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_MHZ">9750MHZ 9750 / 9750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10750_MHZ">10750MHZ 10750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10600_MHZ">10600MHZ 10600 / 10600</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11250_MHZ">11250MHZ 11250 / 11250</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11300_MHZ">11300MHZ 11300 / 11300</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11475_MHZ">11475MHZ 11475 / 11475</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_10700_MHZ">9750/10700MHZ 9750 / 10700</string>
+    <string name="TV_CFG_LNB_LNB_9750_10750_MHZ">9750/10750MHZ 9750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_10000_10450_MHZ">10000/10450MHZ 10000 / 10450</string>
+<string name="TV_CFG_LNB_LNB_USER_MODE">CHẾ ĐỘ NGƯỜI DÙNG</string>
+
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_V">V</string>
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_H">Н</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE">miễn phí</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE_SCRAMBLE">Miễn phí + Scramble</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_SCRAMBLE">liệng</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_OFF">TẮT</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_ON">MỞ</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV">DTV</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV_RADIO">DTV + Radio</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_RADIO">RADIO</string>
+<string name="TV_CFG_LNB_POWER_OFF">TẮT</string>
+    <string name="TV_CFG_LNB_POWER_13V_18V">13V/18V</string>
+    <string name="TV_CFG_LNB_POWER_13V">13V</string>
+    <string name="TV_CFG_LNB_POWER_18V">18V</string>
+    <string name="TV_CFG_LNB_POWER_14V_19V">14V/19V</string>
+    <string name="TV_CFG_LNB_POWER_14V">14V</string>
+    <string name="TV_CFG_LNB_POWER_19V">19V</string>
+<string name="TV_CFG_AUTO">Tự Động</string>
+<string name="TV_CFG_ON">MỞ</string>
+<string name="TV_CFG_OFF">TẮT</string>
+<string name="TV_CFG_BURST_A">NHÓM A</string>
+<string name="TV_CFG_BURST_B">NHÓM B</string>
+
+<string name="TV_CFG_NONE">không ai</string>
+<string name="TV_CFG_LNB_1">LNB 1</string>
+    <string name="TV_CFG_LNB_2">LNB 2</string>
+    <string name="TV_CFG_LNB_3">LNB 3</string>
+    <string name="TV_CFG_LNB_4">LNB 4</string>
+    <string name="TV_CFG_LNB_5">LNB 5</string>
+    <string name="TV_CFG_LNB_6">LNB 6</string>
+    <string name="TV_CFG_LNB_7">LNB 7</string>
+    <string name="TV_CFG_LNB_8">LNB 8</string>
+    <string name="TV_CFG_LNB_9">LNB 9</string>
+    <string name="TV_CFG_LNB_10">LNB 10</string>
+    <string name="TV_CFG_LNB_11">LNB 11</string>
+    <string name="TV_CFG_LNB_12">LNB 12</string>
+    <string name="TV_CFG_LNB_13">LNB 13</string>
+    <string name="TV_CFG_LNB_14">LNB 14</string>
+    <string name="TV_CFG_LNB_15">LNB 15</string>
+    <string name="TV_CFG_LNB_16">LNB 16</string>
+
+    <string name="TV_CFG_LNB_DIS_EQC_10_ENUM_TYPE">DisEqc 1.0</string>
+    <string name="TV_CFG_LNB_DIS_EQC_11_ENUM_TYPE">DisEqc 1.1</string>
+    <string name="TV_CFG_LNB_DIS_EQC_12_ENUM_TYPE">DisEqc 1.2</string>
+    <string name="TV_CFG_LNB_DIS_EQC_13_ENUM_TYPE">DisEqc 1.3</string>
+<string-array name="str_lnb_option_list">
+<item>Bộ Tách Sóng</item>
+<item>LNB điện</item>
+<item>Cáp Dài</item>
+<item>tone 22KHz</item>
+<item>Loại LNB</item>
+<item>DiSEqC1.0</item>
+<item>DiSEqC1.1</item>
+        <item>Motor</item>
+</string-array>
+<string-array name="str_array_scan_mode">
+<item>miễn phí</item>
+<item>Miễn phí + Scramble</item>
+<item>liệng</item>
+</string-array>
+<string-array name="str_array_network_search_option">
+<item>TẮT</item>
+<item>MỞ</item>
+</string-array>
+<string-array name="str_array_service_type">
+<item>DTV</item>
+<item>DTV + Radio</item>
+<item>RADIO</item>
+</string-array>
+<string-array name="str_array_search_option">
+<item>Dò Tự Động</item>
+<item>Quét Nhanh</item>
+</string-array>
+<string name="str_title_motor_setting">Thiết Đặt Động Cơ</string>
+<string-array name="str_array_move_setup_option">
+<item>Dừng</item>
+<item>EAST</item>
+<item>WEST</item>
+</string-array>
+<string-array name="str_array_longitude_direction_option">
+<item>EAST</item>
+<item>WEST</item>
+</string-array>
+<string-array name="str_array_latitude_direction_option">
+<item>Bắc</item>
+<item>nam</item>
+</string-array>
+<string name="str_moto_set_moto_auto">Động Cơ Tự Động</string>
+    <string name="str_moto_set_moto_continue">Motor Continue</string>
+<string name="str_moto_set_move_setup">Chuyển Cài Đặt</string>
+<string name="str_moto_set_store_positon">cửa hàng Chức vụ</string>
+<string name="str_moto_set_go_to_position">Tới Vị Trí</string>
+<string name="str_moto_set_go_to_reference">Tới Tài Liệu Tham Khảo</string>
+<string name="str_moto_set_set_west_limit">Thiết lập Tây Giới hạn</string>
+<string name="str_moto_set_set_east_limit">Thiết lập Đông Giới hạn</string>
+<string name="str_moto_set_disable_limit">vô hiệu hóa giới hạn</string>
+<string name="str_moto_set_go_to_x">Tới X</string>
+<string name="str_moto_set_location">địa điểm</string>
+<string name="str_moto_set_longitude_direction">Hướng Kinh Độ</string>
+<string name="str_moto_set_longitude_angle">kinh độ góc</string>
+<string name="str_moto_set_latitude_direction">Hướng vĩ độ</string>
+<string name="str_moto_set_latitude_angle">Góc nhìn vĩ độ</string>
+<string-array name="str_array_satellite_derection">
+<item>EAST</item>
+<item>WEST</item>
+</string-array>
+<string-array name="str_array_satellite_band">
+<item>C</item>
+<item>ku</item>
+</string-array>
+    <string-array name="str_array_transponder_polarization">
+        <item>V</item>
+        <item>H</item>
+    </string-array>
+
+<!-- factory hotkey -->
+<string name="str_age_mode">M</string>
+<string name="str_bus_off">BUS OFF</string>
+    <string name="str_mac_addr">MAC ADDR : </string>
+    <string name="str_bar_code">BAR CODE : </string>
+
+<!-- Tips -->
+    <string name="str_enter">Enter</string>
+<string name="str_no_signal">KHÔNG CÓ TÍN HIỆU</string>
+<string name="str_audio_only">CHỈ ÂM THANH</string>
+<string name="str_data_only">Chỉ có dữ liệu</string>
+<string name="str_program_lock">Khóa Chương Trình</string>
+<string name="str_invalid_service">Dịch Vụ Không Hợp Lệ</string>
+<string name="str_no_ci_module">Không Có Mô-đun CI</string>
+<string name="str_ci_plus_authentication">Xác Thực CI Plus</string>
+<string name="str_scrambled_program">Chương Trình Bị Lẫn</string>
+<string name="str_unsupported_format">Định dạng không được hỗ trợ</string>
+    <string name="str_auto_adjust">Auto Adjust...</string>
+<string name="str_please_wait">Vui lòng đợi…</string>
+    <string name="str_auto_adjust_success">Adjust Success!</string>
+    <string name="str_auto_adjust_fail">Adjust Fail!</string>
+<string name="str_tip_reset_tv">các hoạt động sẽ xóa thông tin, và hệ thống sẽ khởi động lại, bạn có chắc?</string>
+    <string name="str_tip_off_timer">The time you have set in the past, please re-set!</string>
+    <string name="str_tip_plug_usb">No USB pluged or the format is wrong!</string>
+<string name="str_tip_usb_format">bạn có chắc để định dạng đĩa đã chọn?</string>
+<string name="str_tip_usb_checking">Đag Kiểm Tra Tốc Độ......</string>
+<string name="str_tip_unplug_usb">Đừng rút thiết bị USB ra!</string>
+    <string name="str_tip_warning_usb_checking">Do you want to check speed of the selected disk?</string>
+<string name="str_tip_delete_program">Xóa Chương Trình Thành Công!</string>
+    <string name="str_tip_last_item">The late one be deleted!</string>
+<string name="str_tip_move_program">Chuyển Chươg Trình Thàh Côg!</string>
+<string name="str_tip_update_channel_list">Cập Nhật Danh Sách Kênh Thành Công!</string>
+<string name="str_tip_updating_channel_list">Đang Cập Nhật Danh Sách Kênh, Xin đợi…</string>
+<string name="str_tip_empty_channel_list">Danh Sách Kênh Trống!</string>
+    <string name="str_tip_empty_epg_list">The Program No EPG!</string>
+    <string name="str_tip_switch_to_radio">Swtich To Radio!</string>
+    <string name="str_tip_switch_to_dtv">Swtich To DTV!</string>
+    <string name="str_tip_loading_chlist_title">Loading Channel List</string>
+<string name="str_tip_loading_chlist_content">Vui lòng đợi…</string>
+<string name="str_tip_ciplus_op_confirmation_title">Xác Nhận Làm Mới CI+ OP</string>
+<string name="str_tip_ciplus_op_refresh">Bạn có cho phép truyền hình để làm hồ sơ điều hành làm mới ?</string>
+    <string name="str_tip_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_tip_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+    <string name="str_tip_cha_please_wait">CI invoke route switch ...</string>
+    <string name="str_tip_ci_async_cmd_switch_route">Wait a Moment Please</string>
+    <string name="str_tip_switch_language">Language is switching...Do not operate!</string>
+
+<string name="str_cha_programedit">SỬA KÊNH</string>
+<string name="str_list_menu_hint_b_skip">BỎ QUA</string>
+    <string name="str_list_menu_hint_g_fivorite">Favorite</string>
+<string name="str_list_menu_hint_g_edit">chỉnh sửa</string>
+<string name="str_list_menu_hint_r_delete">XÓA</string>
+<string name="str_list_menu_hint_y_move">DI CHUYỂN</string>
+<string name="str_lock_system">hệ thống khóa</string>
+<string name="str_lock">Khóa</string>
+
+<!-- for ci+ op -->
+<string name="str_ciplus_op_confirmation_title">Xác Nhận Làm Mới CI+ OP</string>
+<string name="str_ciplus_op_refresh">Bạn có cho phép truyền hình để làm hồ sơ điều hành làm mới ?</string>
+<string name="str_op_menu_title">Menu Hồ Sơ Người Vận Hành</string>
+    <string name="str_op_channel_list_title">OP Profile Menu</string>
+<string name="str_op_menu">Menu OP</string>
+    <string name="str_op_forbid_channel_tuning_content">Forbid to do channel tune under OP mode.\nPlease exit OP mode at first.</string>
+<string name="str_enter_op">nhập OP</string>
+<string name="str_exit_op">thoát OP</string>
+<string name="str_delete_profile">xóa hồ sơ</string>
+    <string name="str_delete_op_msg">Are you sure to delete the operator profile [</string>
+<string name="str_delete_op_confirm">Xác nhận xóa OP</string>
+<string name="str_forbid_channel_tuning">Cấm Dò Kênh</string>
+    <string name="str_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+
+
+<!-- for program edit -->
+<string name="str_program_edit_dialog_ok">OK</string>
+<string name="str_program_edit_dialog_cancel">HỦY BỎ</string>
+<string name="str_program_edit_dialog_input">xin nhập</string>
+<string name="str_no_sinal">KHÔNG CÓ TÍN HIỆU</string>
+<string name="str_channelList_favorite">Danh sách yêu thích</string>
+<string name="str_channelList_program">Danh sách kênh</string>
+    <string name="program_guide_time">Program Guide:Time</string>
+
+<string name="str_stop_record_dialog_title">DỪNG GHI</string>
+    <string name="str_stop_record_dialog_message">System will stop record if user want to channel change</string>
+    <string name="str_stop_record_playback_dialog_message">System will stop record and playback if user want to channel change</string>
+<string name="str_stop_record_dialog_confirm">Xác nhận</string>
+<string name="str_stop_record_dialog_cancel">HỦY BỎ</string>
+<string name="str_stop_record_dialog_stop">Dừng</string>
+    <string name="str_stop_playback_dialog_title">STOP PLAYBACKING</string>
+    <string name="str_stop_playback_dialog_message">System will stop playback if user want to channel change</string>
+<string name="str_disk_too_slow">Tốc Độ Đĩa quá thấp</string>
+
+
+<string name="str_ci_insert">Đã Lắp CI</string>
+<string name="str_ci_remove">Đã Gỡ CI</string>
+<string name="str_ci_autotest">Tự Động Thử CI</string>
+
+<!-- for program category -->
+<string name="TV_PROG_CATEGORY_MOVIE">PHIM</string>
+<string name="TV_PROG_CATEGORY_NEWS">PHIM ẢNH</string>
+<string name="TV_PROG_CATEGORY_SHOW">hiện</string>
+<string name="TV_PROG_CATEGORY_SPORT">thể thao</string>
+<string name="TV_PROG_CATEGORY_CHILDREN">trẻ em</string>
+<string name="TV_PROG_CATEGORY_MUSIS">ÂM NHẠC</string>
+<string name="TV_PROG_CATEGORY_ARTS">nghệ thuật</string>
+<string name="TV_PROG_CATEGORY_SOCIAL">xã hội</string>
+<string name="TV_PROG_CATEGORY_EDUCATION">Giáo dục</string>
+<string name="TV_PROG_CATEGORY_LEISURE">giải trí</string>
+<string name="TV_PROG_CATEGORY_SPECIAL">đặc biệt</string>
+<string name="TV_PROG_CATEGORY_CONSTANT">liên tục</string>
+<string name="TV_PROG_CATEGORY_USER_DEFINDED">người dùng định nghĩa</string>
+<string name="TV_PROG_CATEGORY_UNDEFINDED">chưa xác định</string>
+<string name="SKY_CFG_TV_SWITCH_LANG_WILL_REBOOT_TV">TV sẽ tự động khởi động lại nếu chuyển ngôn ngữ</string>
+<string name="TV_VGA_RESOLUTION_UNSUPPORT">Không hỗ trợ</string>
+</resources>

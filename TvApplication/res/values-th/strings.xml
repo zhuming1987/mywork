@@ -1,0 +1,1116 @@
+﻿<resources>
+
+<string name="app_name">แอพทีวี</string>
+
+<string name="button_ok_str">ใช่</string>
+<string name="button_cancel_str">ยกเลิก</string>
+
+<string name="TV_CFG_ON_MODE">เปิด</string>
+<string name="TV_CFG_OFF_MODE">ปิด</string>
+
+<string name="TV_CFG_QUICK_MENU_SETTING">เมนู ด่วน</string>
+
+<string name="TV_CFG_NO_SIGNAL">ไม่มีสัญญาณ</string>
+
+<!-- 3D -->
+<string name="TV_CFG_THREED_SETTING">การตั้งค่า 3D</string>
+<string name="TV_CFG_3D_MODE">โหมด 3D </string>
+<string name="TV_CFG_3D_MODE_OFF">ปิด</string>
+<string name="TV_CFG_3D_MODE_AUTO">อัตโนมัติ</string>
+<string name="TV_CFG_3D_MODE_2D_TO_3D">2D ไป 3D</string>
+<string name="TV_CFG_3D_MODE_SIDE_BY_SIDE">ซ้ายไปขวา</string>
+<string name="TV_CFG_3D_MODE_TOP_AND_BOTTOM">บนสู่ล่าง</string>
+<string name="TV_CFG_3D_MODE_FRAME_PACKING">การอัดกรอบ</string>
+<string name="TV_CFG_3D_DEPTH">ความลึก 3D</string>
+<string name="TV_CFG_3D_LR_SWAP">สวิทช์ซ้ายขวา</string>
+<string name="TV_CFG_3D_TO_2D">3D ไป 2D</string>
+<string name="TV_CFG_3D_TO_2D_OFF">ปิด</string>
+<string name="TV_CFG_3D_TO_2D_LEFT">ซ้าย</string>
+<string name="TV_CFG_3D_TO_2D_RIGHT">ขวา</string>
+
+<!-- CI SEtting -->
+<string name="TV_CFG_CI_SETTING">ข้อมูล CI</string>
+<!-- Picture -->
+<string name="TV_CFG_PICTURE_SETTING">การตั้งค่ารูปภาพ</string>
+<string name="TV_CFG_BRIGHTNESS">ความสว่าง</string>
+<string name="TV_CFG_CONTRAST">ความคมชัด</string>
+<string name="TV_CFG_COLOR">สี</string>
+<string name="TV_CFG_HUE">สี</string>
+<string name="TV_CFG_NTSC_HUE">สี</string>
+<string name="TV_CFG_COLOR_TEMPERATURE">อุณหภูมิสี</string>
+<string name="TV_CFG_SHARPNESS">ความชัด</string>
+<string name="TV_CFG_DNR">DNR</string>
+<string name="TV_CFG_MPEG_NR">MPEG NR</string>
+<string name="TV_CFG_DNR_OFF">ปิด</string>
+<string name="TV_CFG_DNR_LOW">ต่ำ</string>
+<string name="TV_CFG_DNR_MID">ปานกลาง</string>
+<string name="TV_CFG_DNR_HIGH">สูง</string>
+<string name="TV_CFG_DNR_AUTO">อัตโนมัติ</string>
+<string name="TV_CFG_MPEG_NR_OFF">ปิด</string>
+<string name="TV_CFG_MPEG_NR_LOW">ต่ำ</string>
+<string name="TV_CFG_MPEG_NR_MID">ปานกลาง</string>
+<string name="TV_CFG_MPEG_NR_HIGH">สูง</string>
+<string name="TV_CFG_DREAM_PANEL">DLC</string>
+<string name="TV_CFG_DREAM_PANEL_OFF">ปิด</string>
+<string name="TV_CFG_DREAM_PANEL_LIGHT_SENSOR">เซนเซอร์แสง</string>
+    <string name="TV_CFG_DREAM_PANEL_IMAGE_DETECT">Image</string>
+<string name="TV_CFG_DREAM_PANEL_MULTI_DETECT">หลายๆ</string>
+<string name="TV_CFG_DREAM_PANEL_SWITCH">สวิตช์ Dream Panel</string>
+<string name="TV_CFG_DTV_DISPLAY_MODE">โหมดการแสดง</string>
+<string name="TV_CFG_DISPLAY_MODE">โหมดการแสดง</string>
+<string name="TV_CFG_DISPLAY_MODE_16_9">16:9</string>
+<string name="TV_CFG_DISPLAY_MODE_4_3">4:3</string>
+<string name="TV_CFG_VIDEO_DISPLAY_MODE_DEFAULT">ผิดพลาด</string>
+<string name="TV_CFG_DISPLAY_MODE_MOVIE">ภาพยนตร์</string>
+<string name="TV_CFG_DISPLAY_MODE_CAPTION">คำอธิบายภาพ</string>
+<string name="TV_CFG_DISPLAY_MODE_PANORAMA">ทัศนียภาพ</string>
+<string name="TV_CFG_DISPLAY_MODE_PERSON">บุคคล</string>
+<string name="TV_CFG_DISPLAY_MODE_AUTO">อัตโนมัติ</string>
+<string name="TV_CFG_DISPLAY_MODE_JUST_SCAN">พื้นเมือง</string>
+<string name="TV_CFG_DISPLAY_MODE_P2P">P2P</string>
+<string name="TV_CFG_DISPLAY_MODE_DEFAULT">ผิดพลาด</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM1">ซูม 1</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM2">ซูม 2</string>
+<string name="TV_CFG_PICTURE_MODE">โหมดรูปภาพ</string>
+<string name="TV_CFG_PICTURE_MODE_VIVID">ชัดเจน</string>
+<string name="TV_CFG_PICTURE_MODE_SOFT">นุ่มนวล</string>
+<string name="TV_CFG_PICTURE_MODE_GAME">เกม</string>
+    <string name="TV_CFG_PICTURE_MODE_NATURAL">Natural</string>
+<string name="TV_CFG_PICTURE_MODE_SPORTS">กีฬา</string>
+<string name="TV_CFG_PICTURE_MODE_PC">PC</string>
+    <string name="TV_CFG_PICTURE_MODE_DYMANIC">Dymanic</string>
+<string name="TV_CFG_PICTURE_MODE_USER">โหมดผู้ใช้</string>
+<string name="TV_CFG_PICTURE_MODE_STANDARD">มาตรฐาน</string>
+<string name="TV_CFG_PICTURE_MODE_4K_CINEMA">โรงภาพยนตร์ 4K</string>
+<string name="TV_CFG_NOSIGNAL">ไม่มีสัญญาณ</string>
+<string name="TV_CFG_NOTSUPPORTED">ไม่มีการสนับสนุน</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_WARM">อบอุ่น</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_STANDARD">มาตรฐาน</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_COOL">ความเย็น</string>
+    <string name="TV_CFG_LOCAL_DIMMING_MODE">Local Dim.</string>
+<string name="TV_CFG_LOCAL_DIMMING_OFF_MODE">ปิด</string>
+<string name="TV_CFG_LOCAL_DIMMING_ON_MODE">เปิด</string>
+<string name="TV_CFG_CINEMA_MODE">โหมดภาพยนตร์</string>
+<string name="TV_CFG_MANUAL_BACKLIGHT_ADJUST">แสงจากหลังภาพ</string>
+<string name="TV_CFG_MEMC_MODE">MEMC</string>
+<string name="TV_CFG_MEMC_MODE_OFF">ปิด</string>
+<string name="TV_CFG_MEMC_MODE_LOW">ต่ำ</string>
+<string name="TV_CFG_MEMC_MODE_MID">MID</string>
+<string name="TV_CFG_MEMC_MODE_HIGH">สูง</string>
+
+<!-- Sound -->
+<string name="TV_CFG_SOUND_SETTING">การตั้งค่าเสียง</string>
+<string name="TV_CFG_VOLUME">ระดับเสียง</string>
+<string name="TV_CFG_AUDIO_MUTE">ปิดเสียง</string>
+<string name="TV_CFG_SOUND_MODE">โหมดเสียง</string>
+<string name="TV_CFG_BASS">เสียงทุ้ม</string>
+<string name="TV_CFG_TREBLE">เสียงแหลม</string>
+<string name="TV_CFG_BALANCE">สมดุล</string>
+<string name="TV_CFG_SURROUND">รอบทิศทาง</string>
+<string name="TV_CFG_SOUND_CLARITY">เสียง</string>
+<string name="TV_CFG_TRUBASS">TruBass</string>
+<string name="TV_CFG_SUBWOOFER">SubWoofer</string>
+<string name="TV_CFG_SUBWOOFER_VOLUME">S.W. VOL</string>
+<string name="TV_CFG_WALL_SOUND_EFFECTS">Wall-M.S.E.</string>
+<string name="TV_CFG_SOUND_SPDIF">SPDIF</string>
+<string name="TV_CFG_SOUND_SPDIF_SOURCE">ดิบ</string>
+<string name="TV_CFG_SOUND_SPDIF_PCM">PCM</string>
+<string name="TV_CFG_SOUND_SEPERATE">เสียงเท่านั้น</string>
+<string name="TV_CFG_SOUND_MODE_STANDARD">มาตรฐาน</string>
+<string name="TV_CFG_SOUND_MODE_NEWS">ข่าว</string>
+<string name="TV_CFG_SOUND_MODE_MUSIC">ดนตรี</string>
+<string name="TV_CFG_SOUND_MODE_MOVIE">ภาพยนตร์</string>
+<string name="TV_CFG_SOUND_MODE_SPORTS">กีฬา</string>
+<string name="TV_CFG_SOUND_MODE_USER">โหมดผู้ใช้</string>
+<string name="TV_CFG_EQUALIZER_SETTING">ควอไลเซอร์</string>
+<string name="TV_CFG_EQUALIZER">ควอไลเซอร์</string>
+<string name="TV_CFG_EQUALIZER_100HZ">100 เฮิร์ตส</string>
+<string name="TV_CFG_EQUALIZER_500HZ">500 เฮิร์ตส</string>
+    <string name="TV_CFG_EQUALIZER_1KHZ">1K เฮิร์ตส</string>
+<string name="TV_CFG_EQUALIZER_3KHZ">3K เฮิร์ตส</string>
+<string name="TV_CFG_EQUALIZER_10KHZ">10K เฮิร์ตส</string>
+<string name="TV_CFG_MTS_MODE">MTS</string>
+<string name="TV_CFG_NICAM_MODE">Nicam</string>
+<string name="TV_CFG_AVL">AVL</string>
+<string name="TV_CFG_BBE_SOUND">BBE</string>
+<string name="TV_CFG_AUDIO_LANGUAGE">เสียง</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING">เสียง</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE">โหมดเสียง:</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LL">LL</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LR">สเตอริโอ</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_RR">RR</string>
+
+
+<!-- MTS/NICAM -->
+<string name="TV_CFG_AUDIOMODE_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_A">ภาษา 1</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_AB">ภาษา 3</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_B">ภาษา 2</string>
+<string name="TV_CFG_AUDIOMODE_FORCED_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_G_STEREO">สเตอริโอ</string>
+<string name="TV_CFG_AUDIOMODE_HIDEV_MONO">HIDEV MONO</string>
+<string name="TV_CFG_AUDIOMODE_NUM">MONO</string>
+<string name="TV_CFG_AUDIOMODE_INVALID">MONO</string>
+<string name="TV_CFG_AUDIOMODE_K_STEREO">สเตอริโอ</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_LEFT">ซ้าย ซ้าย</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_RIGHT">ซ้าย ขวา</string>
+<string name="TV_CFG_AUDIOMODE_MONO_SAP">SAP</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_A">ภาษา 1</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_AB">DUAL I/II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_B">ภาษา 2</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_STEREO">สเตอริโอ</string>
+<string name="TV_CFG_AUDIOMODE_RIGHT_RIGHT">ขวา ขวา</string>
+<string name="TV_CFG_AUDIOMODE_STEREO_SAP">SAP</string>
+
+<!-- Installed -->
+<string name="TV_CFG_CHANNEL_SETTING">การติดตั้ง</string>
+<string name="TV_CFG_AUTO_SEARCH">ค้นหาอัตโนมัติ</string>
+<string name="TV_CFG_MANUAL_SEARCH">การค้นหาด้วยตนเอง</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM">ระบบสี</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM">ระบบเสียง</string>
+<string name="TV_CFG_SEARCH_TYPE">ประเภทการค้นหา</string>
+    <string name="TV_CFG_FIVE_ATENNA">5V Atenna</string>
+<string name="TV_CFG_START_AUTO_SEARCH">เริ่มการค้นหา</string>
+<string name="TV_CFG_CHANNEL_EDIT">เมื่อช่องทาง</string>
+<string name="TV_CFG_FAVORITE_LIST">รายการโปรด</string>
+<string name="TV_CFG_CHANNEL_LIST">รายการช่อง</string>
+<string name="TV_CFG_SIGNAL_INFO">ข้อมูลสัญญาณ</string>
+<string name="TV_CFG_CHANNEL_NO">หมายเลขช่อง</string>
+<string name="TV_CFG_FREQUENCY_SET">ความถี่</string>
+<string name="TV_CFG_TV_CHANNEL_SKIP">ข้ามช่อง</string>
+<string name="TV_CFG_TV_SEARCH_ATV">ATV</string>
+<string name="TV_CFG_TV_SEARCH_DTV">DTV</string>
+<string name="TV_CFG_TV_SEARCH_ATV_DTV">DTV+ATV</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_AUTO">อัตโนมัติ</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_BGHI">PAL</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_N">PAL_N</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_M">PAL_M</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_60">PAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_M">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_44">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_SECAM">SECAM</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_I">I</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_DK">D/K</string>
+    <string name="TV_CFG_TV_SOUND_SYSTEM_BG">B/G</string> 
+<string name="TV_CFG_TV_SOUND_SYSTEM_M">M</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_L">L</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_M_BTSC">M</string>
+<string name="TV_CFG_EPG_REPEAT_ONCE">ครั้งหนึ่ง</string>
+<string name="TV_CFG_EPG_REPEAT_WEEKLY">สัปดาห์</string>
+<string name="TV_CFG_EPG_REPEAT_DAILY">ประจำทุกวัน</string>
+<string name="TV_CFG_SEARCH_TYPE_ATV">ATV</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBT">DVB_T</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBC">DVB_C</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBS">DVB_S</string>
+<string name="TV_CFG_SEARCH_TYPE_DTMB">DTMB</string>
+<string name="signal_info_title">ข้อมูลสัญญาณ</string>
+<string name="TV_CFG_CI_INFORMATION">ข้อมูล CI</string>
+<string name="TV_CFG_DVBS_AUTO_SEARCH">ค้นหาอัตโนมัติ DVB_S</string>
+<string name="TV_CFG_DVBT_AUTO_SEARCH">ค้นหาอัตโนมัติ DVB_T</string>
+<string name="TV_CFG_DVBC_AUTO_SEARCH">ค้นหาอัตโนมัติ DVB_C</string>
+<string name="str_channel_edit_r_delete">ลบ</string>
+<string name="str_channel_edit_g_sort">จำแนก</string>
+<string name="str_channel_edit_y_favorite">favorite</string>
+<string name="str_channel_edit_b_skip">ข้าม</string>
+<string name="str_channel_edit_g_lock">ล็อค</string>
+<string name="str_channel_edit_ok_move">ย้าย</string>
+<string name="TV_CFG_LNB_SETTING">LNB การตั้งค่า</string>
+<string name="TV_CFG_DVBS_MODULATION">ดาวเทียม</string>
+<string name="str_ci_channellist_op_menu">เมนูโพรไฟล์ของผู้ดูแล</string>
+<string name="str_ci_channellist_op_del">ลบ รายละเอียด</string>
+<string name="str_ci_channellist_exit_op">ออกจาก สหกรณ์</string>
+<string name="str_ci_channellist_enter_op">ใส่ OP</string>
+<string name="str_ci_channellist_op_title">OP รายชื่อ ช่อง</string>
+    <string name="str_ci_channellist_op_del_msg">Are you sure to delete \rthe operator profile [</string>
+
+<!-- Setup -->
+<string name="TV_CFG_SYSTEM_SETTING">การติดตั้ง</string>
+<string name="TV_CFG_CAPTION_ONOFF">คำอธิบายภาพ</string>
+    <string name="TV_CFG_CC_MODE">CCMode</string>
+<string name="TV_CFG_LANGUAGE">ภาษา</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE">คำบรรยายภาษา</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_AUTO">อัตโนมัติ</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_VIDEO">16~235</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_GRAPHIC">0~255</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC">เปิด/ปิด HDMI-CEC</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC_AUTO_STANDBY">สแตนด์บายโดยอัตโนมัติ</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST">รายชื่อ อุปกรณ์</string>
+<string name="TV_CFG_TELETEXT_LANGUAGE">ภาษา TTX</string>
+<string name="TTX_LANG_RUSSIAN">ภาษารัสเซีย</string>
+<string name="TTX_LANG_EAST">ตะวันออก</string>
+<string name="TTX_LANG_ARABIC">ภาษาอาหรับ</string>
+<string name="TTX_LANG_FARSI">FARSI</string>
+<string name="TTX_LANG_WEST">ตะวันตก</string>
+<string name="TV_CFG_TIME_SHIFT">Time Shift</string>
+<string name="TV_CFG_TIME">การตั้งค่าเวลา</string>
+<string name="TV_CFG_CURRENT_TIME">เวลาปัจจุบัน</string>
+<string name="TV_CFG_TIME_ZONE">เวลา</string>
+<string name="TV_CFG_TIME_ZONE_SETTING">เวลา</string>
+<string name="TV_CFG_DAY_LIGHT_SAVING">เวลาออมแสง</string>
+<string name="TV_CFG_SLEEP_TIMER">ตั้งเวลาปิดเครื่อง</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TITLE">นับถอยหลัง</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TIP_TEXT">กด ย้อนกลับ เพื่อออก</string>
+<string name="TV_CFG_OFF_TIMER">ตั้งเวลาปิด</string>
+<string name="TV_CFG_ENGERY_SAVING">ประหยัดพลังงาน</string>
+<string name="TV_CFG_AUTO_OFF">ปิดอัตโนมัติ</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_10">10s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_20">20s</string>
+<string name="TV_CFG_MEMU_SHOW_TIME_ALWAYS">เสมอ</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_OFF">ปิด</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_ON">เปิด</string>
+<string name="TV_CFG_PVR">ระบบ PVR</string>
+<string name="TV_CFG_PVR_SELECT_DISK">เลือกแผ่น ดิสก์</string>
+<string name="TV_CFG_PVR_SELECT_USB">เลือก USB</string>
+<string name="TV_CFG_PVR_USB_SPEED">ความเร็ว USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE">ขนาดบันทึกรายการสด</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_512M">512M</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_1G">1G</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE_2G">2G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_4G">4G</string>
+<string name="TV_CFG_PVR_USB_FORMAT">ฟอร์แมตของ USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_ALWAYS">บันทึกรายการสดเสมอ</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE">ช่วงสี</string>
+<string name="TV_CFG_HDMI_CEC_MENU_LIST">HDMI-CEC</string>
+<string name="TV_CFG_MENU_SHOW_TIME">เวลาแสดงเมนู</string>
+<string name="TV_CFG_STICKER_DEMO">การสาธิตสติกเกอร์</string>
+<string name="TV_CFG_SLEEP_TIMER_OFF">ปิด</string>
+<string name="TV_CFG_SLEEP_TIMER_5_MINUTES">5 นาที</string>
+<string name="TV_CFG_SLEEP_TIMER_15_MINUTES">15 นาที</string>
+    <string name="TV_CFG_SLEEP_TIMER_30_MINUTES">30 นาที</string>
+    <string name="TV_CFG_SLEEP_TIMER_60_MINUTES">60 นาที</string>
+<string name="TV_CFG_SLEEP_TIMER_90_MINUTES">90 นาที</string>
+    <string name="TV_CFG_SLEEP_TIMER_120_MINUTES">120 นาที</string>
+<string name="TV_CFG_AUTO_SLEEP">ตั้งเลาปิด</string>
+<string name="TV_CFG_AUTO_SLEEP_OFF">ปิด</string>
+<string name="TV_CFG_AUTO_SLEEP_1_HOURS">1 ชั่วโมง</string>
+<string name="TV_CFG_AUTO_SLEEP_2_HOURS">2 ชั่วโมง</string>
+<string name="TV_CFG_AUTO_SLEEP_3_HOURS">3 ชั่วโมง</string>
+<string name="TV_CFG_AUTO_SLEEP_4_HOURS">4 ชั่วโมง</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP">No Signal Sleep</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_OFF">ปิด</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_5_MINUTES">5 นาที</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_10_MINUTES">10 นาที</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_15_MINUTES">15 นาที</string>
+<string name="TV_CFG_TIME_YEAR">ปี</string>
+<string name="TV_CFG_TIME_MONTH">เดือน</string>
+<string name="TV_CFG_TIME_DAY">วัน</string>
+<string name="TV_CFG_TIME_HOUR">ชั่วโมง</string>
+<string name="TV_CFG_TIME_MINUTE">นาที</string>
+    <string name="TV_CFG_START_OFF_TIME">Press "Enter to Set OffTime"</string>
+<string name="TV_CFG_REBOOT_SYSTEM">ระบบการรีบูต</string>
+<string name="TV_CFG_RECOVERY">ตั้งค่าโทรทัศน์</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST_SETTING">รายชื่อ อุปกรณ์</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_AUTO">อัตโนมัติ</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_ON">เปิด</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_OFF">ปิด</string>
+<string name="TV_CFG_CAPTION_ON">เปิด</string>
+	<string name="TV_CFG_CAPTION_ON_MUTE">ON MUTE</string>
+<string name="TV_CFG_CAPTION_OFF">ปิด</string>
+<string name="TV_CFG_CC_MODE_OFF">ปิด</string>
+<string name="TV_CFG_CC_MODE_CC1">CC1</string>
+<string name="TV_CFG_CC_MODE_CC2">CC2</string>
+<string name="TV_CFG_CC_MODE_CC3">CC3</string>
+<string name="TV_CFG_CC_MODE_CC4">CC4</string>
+<string name="TV_CFG_CC_MODE_TXT1">TXT1</string>
+<string name="TV_CFG_CC_MODE_TXT2">TXT2</string>
+<string name="TV_CFG_CC_MODE_TXT3">TXT3</string>
+<string name="TV_CFG_CC_MODE_TXT4">TXT4</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SET">การตั้งค่าภาษาของเสียง:</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_PRIMARY_SET">ภาษาเริ่มต้น</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SECOND_SET">ภาษาของเสียง 2</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SWITCH">การเปลี่ยนภาษาซับไตเติ้ล</string>
+
+<!-- OSDLanguage -->
+<string name="TV_CFG_OSD_LANGUAGE_ENGLISH">English</string>
+    <string name="TV_CFG_OSD_LANGUAGE_THAI">ภาษาไทย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ARABIC">العربية</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FARSI">فارسی</string>
+    <string name="TV_CFG_OSD_LANGUAGE_RUSSIAN">русский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FRENCH">française</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HEBREW">עברית שפה</string>
+    <string name="TV_CFG_OSD_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+<string name="TV_CFG_OSD_LANGUAGE_INDONESIAN">ชาวอินโดนีเซีย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_PORTUGUESE">português</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SPANISH">español</string>
+    <string name="TV_CFG_OSD_LANGUAGE_TURKISH">Türk dili</string>
+<string name="TV_CFG_OSD_LANGUAGE_GERMAN">ภาษาเยอรมัน</string>
+<string name="TV_CFG_OSD_LANGUAGE_CZECH">เช็ก</string>
+<string name="TV_CFG_OSD_LANGUAGE_DANISH">ภาษาเดนมาร์ก</string>
+<string name="TV_CFG_OSD_LANGUAGE_GREEK">ภาษากรีก</string>
+<string name="TV_CFG_OSD_LANGUAGE_CROATIAN">ภาษาโครเอเชีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_ITALIAN">ภาษาอิตาเลี่ยน</string>
+<string name="TV_CFG_OSD_LANGUAGE_HUNGARIAN">ภาษาฮังการี</string>
+<string name="TV_CFG_OSD_LANGUAGE_DUTCH">ภาษาดัช</string>
+<string name="TV_CFG_OSD_LANGUAGE_NORWEGIAN">ภาษานอร์เวย์</string>
+<string name="TV_CFG_OSD_LANGUAGE_POLISH">ภาษาโปแลนด์</string>
+<string name="TV_CFG_OSD_LANGUAGE_ROMANIAN">ภาษาโรมาเนีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVENIAN">ภาษาสโลเวเนีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_SERBIAN">ภาษาเซอร์เบีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_FINNISH">ภาษาฟินแลนด์</string>
+<string name="TV_CFG_OSD_LANGUAGE_SWEDISH">ภาษาสวีเดน</string>
+<string name="TV_CFG_OSD_LANGUAGE_BULGARIAN">ภาษาบัลแกเรีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVAK">สโลวะเกีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_CHINESE">ภาษาจีน</string>
+<string name="TV_CFG_OSD_LANGUAGE_GAELIC">ภาษาเซล์</string>
+<string name="TV_CFG_OSD_LANGUAGE_WELSH">ภาษาเวลส์</string>
+<string name="TV_CFG_OSD_LANGUAGE_IRISH">ภาษาไอริช</string>
+<string name="TV_CFG_OSD_LANGUAGE_LATVIAN">ภาษาลัทเวีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_ESTONIAN">ภาษาเอสทัวเนีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_GALLEGAN">Gallegan</string>
+<string name="TV_CFG_OSD_LANGUAGE_BASQUE">ปราก</string>
+<string name="TV_CFG_OSD_LANGUAGE_CATALAN">ภาษาแคตาโลเนีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_ICELANDIC">ไอซ์แลนด์</string>
+<string name="TV_CFG_OSD_LANGUAGE_LETZEBURGESCH">Letzeburgesch</string>
+<string name="TV_CFG_OSD_LANGUAGE_LITHUANIAN">ภาษาลิทัวเนีย</string>
+<string name="TV_CFG_OSD_LANGUAGE_UKRAINIAN">ภาษายูเครน</string>
+<string name="TV_CFG_OSD_LANGUAGE_BYELORUSSIAN">เบลารุส</string>
+<string name="TV_CFG_OSD_LANGUAGE_MAORI">เมารี</string>
+<string name="TV_CFG_OSD_LANGUAGE_MANDARIN">ภาษาจีนแมนดาริน</string>
+<string name="TV_CFG_OSD_LANGUAGE_CANTONESE">ภาษากวางตุ้ง</string>
+<string name="TV_CFG_OSD_LANGUAGE_KOREAN">ถาษาเกาหลี</string>
+<string name="TV_CFG_OSD_LANGUAGE_JAPANESE">ภาษาญี่ปุ่น</string>
+<string name="TV_CFG_OSD_LANGUAGE_HINDI">ภาษาฮินดี</string>
+
+
+<!-- SubtitleLanguage -->
+<string name="TV_CFG_SUBTITLE_LANGUAGE_OFF">ปิด</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_ARABIC">التطبيق المتجر</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_ENGLISH">English</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_IRANIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_FRENCH">Française</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_INDONESIAN">findonesia</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_HEBREW">עברית שפה</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_RUSSIAN">русский</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_TAHITIAN">ภาษาไทย</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE_CHS">简体中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE">繁體中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PERSIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SPANISH">Inglés</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_UNKNOWN">ไม่ทราบ</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SETTING">การตั้งค่าภาษาซับไตเติ้ล</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_PRIMARY">ภาษาซับไตเติ้ลเริ่มต้น</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SECONDE">ภาษาซับไตเติ้ลลำดับ 2</string>
+
+<!-- VGA Setup -->
+<string name="TV_CFG_VGA_SETTING">VGA</string>
+<string name="TV_CFG_SCART_SETTING">Scart</string>
+<string name="TV_CFG_VGA_AUTO_ADJUST">การแก้ไขอัตโนมัติ</string>
+<string name="TV_CFG_VGA_H_POSITION">การปรับตำแหน่งด้านแนวนอน</string>
+<string name="TV_CFG_VGA_V_POSITION">การปรับตำแหน่งด้านแนวตั้ง</string>
+<string name="TV_CFG_VGA_PHASE">สัญญาณ Phase</string>
+<string name="TV_CFG_VGA_FREQUENCY">นาฬิกา</string>
+
+<!-- Lock-->
+<string name="TV_CFG_LOCK_SETTING">ล็อค</string>
+<string name="TV_CFG_LOCK_KEY_EVENT_LOCK">แผง ล็อค</string>
+<string name="TV_CFG_LOCK_INPUT_PASSWORD">ใส่รหัสผ่าน</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD">เปลี่ยนรหัสผ่าน</string>
+<string name="TV_CFG_LOCK_COMFIRM_PASSWORD">ยืนยันรหัสผ่าน</string>
+<string name="TV_CFG_LOCK_AGE_LIST">ควบคุมโดยผู้ปกครอง</string>
+<string name="TV_CFG_PANEL_LOCK">แผง ล็อค</string>
+<string name="TV_CFG_LOCK_CHANNEL_LIST">บล็อคโปรแกรม</string>
+<string name="TV_CFG_LOCK_SYSTEM_LOCK">ระบบถูกล็อค</string>
+<string name="TV_CFG_LOCK_SET_LOCK_PARENTAL_CONTROL_RATING_NUMBER">ควบคุมโดยผู้ปกครอง</string>
+<string name="TV_CFG_LOCK_RATING_0">None</string>
+<string name="TV_CFG_LOCK_RATING_1">4</string>
+<string name="TV_CFG_LOCK_RATING_2">5</string>
+<string name="TV_CFG_LOCK_RATING_3">6</string>
+<string name="TV_CFG_LOCK_RATING_4">7</string>
+<string name="TV_CFG_LOCK_RATING_5">8</string>
+<string name="TV_CFG_LOCK_RATING_6">9</string>
+    <string name="TV_CFG_LOCK_RATING_7">10</string>
+    <string name="TV_CFG_LOCK_RATING_8">11</string>
+    <string name="TV_CFG_LOCK_RATING_9">12</string>
+    <string name="TV_CFG_LOCK_RATING_10">13</string>
+    <string name="TV_CFG_LOCK_RATING_11">14</string>
+    <string name="TV_CFG_LOCK_RATING_12">15</string>
+    <string name="TV_CFG_LOCK_RATING_13">16</string>
+    <string name="TV_CFG_LOCK_RATING_14">17</string>
+    <string name="TV_CFG_LOCK_RATING_15">18</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_SUCCESS">การเปลี่ยนรหัสผ่านเสร็จสิ้น</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_FAIL">การเปลี่ยนรหัสผ่านล้มเหลว</string>
+
+<!-- Channel Search -->
+<string name="channel_programs">โปรแกรม</string>
+<string name="channel_info">ข้อมูลช่อง</string>
+<string name="mannual_search">การค้นหาด้วยตนเอง</string>
+<string name="are_you_sure_stop_DTV_search">คุณแน่ใจหรือว่าเพื่อออกจากโหมดการปรับแต่งโทรทัศน์</string>
+<string name="symbol_rate">อัตราสัญลักษณ์</string>
+<string name="band_width">แบนด์วิธ</string>
+<string name="module_mode">การปรับ</string>
+<string name="signal_quality">คุณภาพสัญญาณ</string>
+<string name="signal_strength">ความแรงของสัญญาณ</string>
+<string name="signal_network">เครือข่าย</string>
+<string name="signal_tsid">กระแส การขนส่ง</string>
+<string name="signal_server">เซิร์ฟเวอร์</string>
+<string name="signal_modulation">การปรับ</string>
+<string name="search_progress">ค้นหาความคืบหน้า</string>
+<string name="program_tv">โปรแกรมทีวี</string>
+<string name="program_dtv">โปรแกรม DTV</string>
+<string name="program_radio">โปรแกรมวิทยุ</string>
+<string name="program_data">โปรแกรมขั้อมูล</string>
+<string name="search_channel">การจูน</string>
+<string name="auto_search">ค้นหาอัตโนมัติ ATV</string>
+<string name="frequency_adjust">การจูนความถี่</string>
+<string name="nit_search">ค้นหาช่องเต็มๆ</string>
+    <string name="channel_setting">Channel settings</string>
+<string name="enter">กดปุ่ม Enter</string>
+<string name="frequency">ความถี่</string>
+<string name="frequency_segment">ส่วน CH</string>
+    <string name="channel_count">Channel Count></string>
+<string name="crt_channel_num">หมายเลขช่องปัจจุบัน</string>
+
+    <string name="start_fine_search">Press "Left" or "Right" to fine search</string>
+<string name="start_manual_search">กด "ซ้าย" หรือ "ขวา" ค้างไว้ เพื่อเริ่มการค้นหาด้วยตนเอง</string>
+    <string name="back_hint">กด ย้อนกลับ เพื่อออก</string>
+<string name="frequencypoint_setting">การตั้งค่าความถี่</string>
+<string name="video_vod">วีดิโอตามคำขอ</string>
+<string name="main_frequencypoint">ความถี่หลัก</string>
+    <string name="loader_frequencypoint">Loader frequency</string>
+<string name="start_frequency">เริ่มความถี่</string>
+<string name="end_frequency">สิ้นสุดคลื่น</string>
+<string name="crt_frequency">คลื่นปัจจุบัน</string>
+<string name="start_search">เริ่มค้นหา</string>
+<string name="confirm">OK</string>
+<string name="cancel">ยกเลิก</string>
+
+    <string name="not_empty">can not be empty</string>
+<string name="city_setting">การตั้งค่าส่วนภูมิภาค</string>
+<string name="switch_city">เปลี่ยนภูมิภาค</string>
+<string name="save">บันทึก</string>
+
+<!-- EPG-->
+<string name="epgmanagetitle">Electronic Program Guide</string>
+<string name="epgchannellist">รายการช่อง</string>
+<string name="epgchanneldate">วันที่</string>
+<string name="epgprogramname">ชื่อโปรแกรม</string>
+<string name="epginfomation">ข้อมูล</string>
+<string name="epgtipsschedule">รายการตารางเวลา</string>
+<string name="epgtipsreminder">การตั้งค่าการแจ้งเตือน</string>
+<string name="epgtipsrecord">การตั้งค่าระเบียน</string>
+<string name="epgsettingmode">โหมด</string>
+<string name="epgsettingtime">เวลา</string>
+<string name="epgscheduledelete">ลบ</string>
+<string name="epg_recodesetting_channel">ช่อง</string>
+<string name="epg_recodesetting_repeat">ทำซ้ำโหมด</string>
+<string name="epg_recodesetting_startmonth">เดือนเริ่มต้น</string>
+<string name="epg_recodesetting_startdate">วันที่</string>
+<string name="epg_recodesetting_starthour">ชั่วโมง</string>
+<string name="epg_recodesetting_startminute">นาที</string>
+<string name="epg_recodesetting_endmonth">สิ้นสุดเดือน</string>
+<string name="epg_recodesetting_enddate">วันที่</string>
+<string name="epg_recodesetting_endhour">ชั่วโมง</string>
+<string name="epg_recodesetting_endminute">นาที</string>
+<string name="epg_remindsetting_month">เดือน</string>
+<string name="epg_mode_reminder">เตือนความทรงจำ</string>
+<string name="epg_mode_recorder">เครื่องบันทึก</string>
+    <string name="epg_setting_button">Press "OK" to Setting</string>
+<string-array name="epg_record_moths">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+</string-array>
+<string-array name="epg_record_days">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+</string-array>
+<string-array name="epg_record_hours">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+</string-array>
+<string-array name="epg_record_minutes">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+</string-array>
+<string-array name="epg_record_repeate_mode">
+<item>ครั้งหนึ่ง</item>
+<item>ประจำทุกวัน</item>
+<item>สัปดาห์</item>
+</string-array>
+<string-array name="epg_record_time_tips">
+<item>None</item>
+<item>ความสำเร็จ</item>
+<item>อดีต</item>
+<item>ซ้อนแทน</item>
+        <item>Endtime Before Start</item>
+        <item>Endtime Exceed Period</item>
+<item>เต็ม ชัด</item>
+<item>ปัญหาการแจ้งเตือนใหม่</item>
+<item>ปัญหาการแจ้งเตือนของ DB</item>
+</string-array>
+<string name="SKY_FAILED">ล้มเหลว</string>
+<string name="SKY_SUCCESS">ความสำเร็จ</string>
+<string name="SKY_insert_cable">โปรดสอดสายเคเบิ้ล</string>
+<string name="str_epg_schedule_y_back">กลับ</string>
+<string name="str_epg_schedule_r_delete">ลบ</string>
+
+<string name="SKY_SEARCH">กำลังค้นหา</string>
+<string name="SKY_H_DIRECTION_KEY">เลื่อนเคอร์เซอร์ไปซ้ายและขวา</string>
+<string name="SKY_V_DIRECTION_KEY">เลื่อนเคอร์เซอร์ไปบนและล่าง</string>
+<string name="SKY_DELETE">ลบ</string>
+    <string name="SKY_SHUTTLE_ROTATE">Shuttle toggle selection</string>
+<string name="SKY_SEARCH_LEFTKEY">กดปุ่มซ้ายเพื่อลบ</string>
+<string name="SKY_SEARCH_TEXT">การค้นหาตัวย่อพินอิน</string>
+
+<!-- 网络部分 -->
+<string name="NET_WIFI_HOT_SPOT">ฮอตสป็อต</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_OPEN">เปิด</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_CLOSE">ปิด</string>
+<string name="NET_WIFI_HOT_SPOT_NAME">ชื่อฮอตสป็อต</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_SET">การเข้ารหัส</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_OPEN">เปิด</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_CLOSE">การเข้ารหัส</string>
+<string name="NET_WIFI_HOT_SPOT_PWD">Hot pwd</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_ERROR_TIP">ตัวอักษรหรือตัวเลข 8-24 ตัว</string>
+<string name="NET_WIFI_HOT_SPOT_BTN_SAVE">บันทึก</string>
+<string name="NET_WIFI_HOT_SPOT_NAME_ERROR_TIP">ชื่อไม่สามารถปล่อยให้ว่างได้</string>
+<!-- 无线列表选择 -->
+    <string name="NET_WIFI_SELECT_WPS">WIFI WPS:</string>
+<string name="NET_WIFI_SELECT_WPS_ENTER">กดปุ่ม Enter</string>
+<string name="NET_WIFI_SELECT_LIST">รายการเครือข่าย WiFi:</string>
+<string name="NET_WIFI_SELECT_OTHER_WIFI">เครือข่ายอื่นๆ</string>
+<!-- 手动设置ip -->
+<string name="SKY_IP_SETTING_GREATER_THAN_255">ความยาวต้องไม่เกิน 255 ตัวอักษร</string>
+<string name="SKY_IP_SETTING_EMPTY_IP">ไม่สามารถปล่อยว่างได้</string>
+    <string name="Sky_IP_SETTING_START_ZERO">IP number start with 0 not allowed</string>
+<string name="SKY_IP_SETTING_INVALID">IP ไม่ถูกต้อง</string>
+<string name="SKY_IP_ASSIGNMENT_TYPE">ประเภท IP</string>
+<string name="SKY_IP_DHCP_STATIC">Static</string>
+<string name="SKY_IP_DHCP_DYNAMIC">ไดนามิก</string>
+<string name="SKY_IP_TEXT">IP</string>
+<string name="SKY_GATEWAY_TEXT">เกตเวย์</string>
+<string name="SKY_MASK_TEXT">หน้ากาก</string>
+<string name="SKY_DNS_TEXT">DNS</string>
+<string name="SKY_BTN_CONNECT_TEXT">ต่อ</string>
+<!-- 输入网络密码 -->
+<string name="INPUT_WIFI_PWD_HINT">โปรดป้อนรหัสผ่าน WiFi</string>
+<string name="INPUT_WIFI_PWD_EDIT">รหัสผ่าน</string>
+    <string name="INPUT_WIFI_PWD_ERROR_TIPS">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_1">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_2">Note: the password length is more than 64</string>
+<!-- 旧的网络设置使用，新的这些有可能被引用了 -->
+<string name="SKY_WIFI_OPEN">เปิด WiFi</string>
+<string name="SKY_WIFI_CLOSE">WiFi ถูกปิดแล้ว</string>
+<string name="SKY_BTN_SET_WIFI_TEXT">การตั้งค่า IP</string>
+<string name="SKY_WIFI_SELECT_TEXT">เลือก WLAN</string>
+<string name="SKY_PUSH_TO_TALK_TEXT">WIFI WPS</string>
+<string name="SKY_OTHER_TEXT">อื่น ๆ</string>
+<string name="SKY_WIFI_NAME_TEXT">SSID</string>
+<string name="SKY_ENCRYPTION_TEXT">การเข้ารหัส</string>
+<string name="SKY_PASSWORD_TEXT">รหัสผ่าน:</string>
+<string name="SKY_PWD_LESS_THAN_8_DIGITS">ความยาวรหัสผ่านน้อยกว่า 8 หลัก</string>
+    <string name="SKY_PWD_NO_EMPTY">Empty password not allowed</string>
+
+<!-- AD -->
+<string name="TV_CFG_SWITCH_AD_TRUE">AD เปิดแล้ว!</string>
+    <string name="TV_CFG_SWITCH_AD_FALSE">AD is Close!</string>
+<string name="TV_CFG_SWITCH_AD_NONE">ไม่มีการสนับสนุน</string>
+
+<!-- add_by_wangxian -->
+<string name="install_guide_welcome_message">ยินดีต้อนรับสู่คู่มือการตั้งค่าเริ่มต้น</string>
+<string name="left_item_language">ภาษา</string>
+<string name="left_item_timezone">โซนเวลา</string>
+<string name="left_item_network">เครือข่าย</string>
+<string name="left_item_searchmode">ค้นหาโหมด</string>
+<string name="next_hint">ถัดไป</string>
+<string name="set_network">การตั้งค่าเครือข่าย</string>
+<string name="installsearch">กำลังค้นหา</string>
+    <string name="searchhint">กด "OK" เพื่อเข้าสู่การตั้งค่า</string>
+    <string name="netchoise_hint">ตัวเลือกเน็ต</string>
+<string name="netconnection">การเชื่อมต่อเน็ต</string>
+<string name="wiresetup">อีเธอร์เน็ต</string>
+<string name="wirelesssetup">WIFI</string>
+<string name="wifiSetup">การตั้งค่า WiFi</string>
+<string name="wifiButtonConnect">ต่อ</string>
+<string name="wifiButtonExit">ออก</string>
+<string name="wifiInvialidPwd">รหัสผ่านไม่ถูกต้อง!</string>
+<!-- add_by_zhuming  -->
+<!-- Aus time zone  -->
+<string name="TV_CFG_TIMEZONE_WA">เวสเธิร์น ออสเตรเลีย</string>
+<string name="TV_CFG_TIMEZONE_SA">เซาท์ ออสเตรเลีย</string>
+<string name="TV_CFG_TIMEZONE_NT">นอธเทิร์น เทอ์ริทอรี</string>
+<string name="TV_CFG_TIMEZONE_NSW">นิวเซาท์เวล</string>
+<string name="TV_CFG_TIMEZONE_VIC">วิคตอเรีย</string>
+<string name="TV_CFG_TIMEZONE_QLD">ควีนส์แลนด์</string>
+<string name="TV_CFG_TIMEZONE_TAS">ทาสมาเนีย</string>
+<!-- Brazil time zone  -->
+    <string name="TV_CFG_TIMEZONE_F_NORONHA">GMT-2</string>
+    <string name="TV_CFG_TIMEZONE_BUENOS_AIRES">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_BRASILIA">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_NORTHEAST">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_M_GROSSO">GMT-4</string>
+    <string name="TV_CFG_TIMEZONE_ACRE">GMT-5</string>
+
+<!-- PVR  -->
+<string name="str_pvr_listview_item">ดูตัวอย่างข้อความ</string>
+<string name="str_player_recorder">เครื่องบันทึก</string>
+<string name="str_player_playab">A/B ทำซ้ำ</string>
+<string name="str_player_stop">หยุด</string>
+<string name="str_player_play">เล่น</string>
+<string name="str_player_pause">หยุด</string>
+    <string name="str_player_rev">Rev</string>
+<string name="str_player_ff">FF</string>
+    <string name="str_player_slow">Slow Motion</string>
+<string name="str_player_time">เวลาที่ เล่น</string>
+<string name="str_player_forward">ข้างหน้า</string>
+<string name="str_player_backward">ย้อนกลับ</string>
+<string name="str_pvr_is_recording">บันทึก</string>
+<string name="str_pvr_mode_recorde">กำลังบันทึก…</string>
+<string name="str_pvr_mode_timeshift">กำลังบันทึก…</string>
+<string name="str_pvr_usb_free_space">พื้นที่ว่างของ USB</string>
+    <string name="str_pvr_usb_lable_name">USB Lable Name</string>
+
+<string name="str_pvr_record_exit_confirm">กำลังบันทึก ... คุณแน่ใจหรือว่าจะออก?</string>
+<string name="str_pvr_timeshift_exit_confirm">กำลังย้อนรายการสด... คุณต้องการออกหรือไม่</string>
+<string name="str_pvr_program_saving">โปรแกรมนี้จะถูกเก็บไว้ ... กรุณารอสักครู่!</string>
+    <string name="str_info_pvr_playback_exit_confirm">Now playback... Do you really want to exit?</string>
+<string name="sky_pvr_support_disk_format">ระบบแฟ้ม PVR สนับสนุนเฉพาะรูปแบบดิสก์ FAT!</string>
+<string name="str_pvr_insert_usb">กรุณาใส่ดิสก์ USB ครั้งแรก!</string>
+    <string name="sky_pvr_record_false">Record false!</string>
+    <string name="sky_pvr_timeshift_false">Timeshift false!</string>
+    <string name="sky_pvr_disk_outofspace">Disk does not have enough space !</string>
+    <string name="sky_pvr_filesystem_unsupported">please, format your disk for FAT32 !</string>
+    <string name="sky_pvr_support_timeshift_fail">This program do not allow timeshift!</string>
+    <string name="sky_pvr_support_record_fail">This program do not allow record!</string>
+<string name="sky_pvr_record_list">รายการบันทึก PVR</string>
+<string name="sky_pvr_record_list_lcn">LCN</string>
+<string name="sky_pvr_record_list_channel">ช่อง</string>
+<string name="sky_pvr_record_list_program">โปรแกรม</string>
+<string name="sky_pvr_record_list_recordtime">เวลาบันทึก</string>
+<string name="sky_pvr_record_list_delete">ลบ</string>
+<string name="sky_pvr_record_list_index">สารบัญ</string>
+<string name="sky_pvr_record_list_ok">OK</string>
+<string name="sky_pvr_record_list_yellow">แบบเต็มหน้าจอ</string>
+<string name="sky_pvr_record_list_descend">ลง</string>
+<string name="sky_pvr_record_list_ascend">ขึ้นไป</string>
+<string name="sky_pvr_record_list_delete_tip">แน่ใจหรือว่าต้องการลบสิ่งนี้?</string>
+
+<!-- Channel Info  -->
+<string name="str_source_info_channel">ช่อง:</string>
+<string name="str_source_info_audioformat">ฟอร์แม็ตเสียง:</string>
+<string name="str_source_info_subtitle">หัวเรื่อง</string>
+<string name="str_source_info_chname">ชื่อ CH:</string>
+<string name="str_source_info_videoformat">ฟอร์แมตจของวีดิโอ:</string>
+<string name="str_source_info_audiolanguage">ภาษาของเสียง:</string>
+<string name="str_source_info_resolution">ความละเอียด</string>
+<string name="str_source_info_age">อายุ:</string>
+<string name="str_source_info_time">เวลา</string>
+<string name="str_source_info_programtype">ประเภทโปรแกรม:</string>
+<string name="str_source_info_programname">ชื่อโปรแกรม:</string>
+<string name="str_source_info_category">ประเภทโปรแกรม:</string>
+<string name="str_source_info_no_information">ไม่มีข้อมูล</string>
+
+<string name="str_time_hour">ชั่วโมง</string>
+<string name="str_time_minute">นาที</string>
+<string name="str_time_second">วินาที</string>
+
+<string name="str_common">Common</string>
+<string name="str_scan_atv">ATV</string>
+<string name="str_scan_dtv">DTV</string>
+<string name="str_scan_atv_dtv">ATV+DTV</string>
+    <string name="str_scan_air">Antena</string>
+<string name="str_scan_cable">สายเคเบิล</string>
+    <string name="str_scan_air_cable">Antena+Cable</string>
+
+<!-- LNB Setting -->
+<string name="str_lnb_setup_title">ตั้งค่า LNB</string>
+<string name="str_satellite_list">ดาวเทียม</string>
+<string name="str_lnb_setup_list">การติดตั้ง</string>
+<string name="str_responder_list">60 นาที</string>
+<string name="str_lnb_item_add">เพิ่ม</string>
+<string name="str_lnb_item_Position">ตำแหน่ง</string>
+<string name="str_lnb_item_limit">จำกัด</string>
+<string name="str_lnb_item_location">สถานที่ตั้ง</string>
+<string name="str_lnb_item_scan">สแกน</string>
+    <string name="str_lnb_info_hint">Signal Info</string>
+<string name="str_lnb_item_edit">แก้ไข</string>
+<string name="str_lnb_item_delete">ลบ</string>
+<string name="str_lnb_signal_quality">คุณภาพ</string>
+<string name="str_lnb_signal_strength">ความแข็งแรง</string>
+<string name="str_lnb_signal_add">เพิ่ม</string>
+<string name="str_lnb_signal_edit">แก้ไข</string>
+<string name="str_lnb_signal_scan">สแกน</string>
+<string name="str_lnb_signal_delete">ลบ</string>
+<string name="str_lnb_signal_number_title">หมายเลข</string>
+<string name="str_lnb_signal_name_title">ชื่อดาวเทียม</string>
+    <string name="str_lnb_signal_derection_title">Longitude Derection</string>
+<string name="str_lnb_signal_angle_title">ลองจิจูด มุม</string>
+<string name="str_lnb_signal_band_title">วงดนตรี</string>
+<string name="str_lnb_signal_comfirm_button">เริ่มค้นหา</string>
+<string name="str_lnb_signal_scan_mode_title">โหมด การสแกน</string>
+<string name="str_lnb_signal_network_search_title">เครือข่ายการค้นหา</string>
+<string name="str_lnb_signal_service_type_title">ประเภท บริการ</string>
+<string name="str_lnb_signal_search_option_title">ค้นหาตัวเลือก</string>
+<string name="str_lnb_transponder_frequency">ความถี่</string>
+<string name="str_lnb_transponder_symbol_rate">อัตราสัญลักษณ์</string>
+<string name="str_lnb_transponder_polarization">โพลาไรซ์</string>
+
+<string name="TV_CFG_LNB_LNB_TAPY_UNIVERSAL">UNIVERSAL 9750 / 10600</string>
+<string name="TV_CFG_LNB_LNB_TAPY_MDU_1">MDU1 0/0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_2">MDU2 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_3">MDU3 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_4">MDU4 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_MHZ">5150MHZ 5150 / 5150</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5750_MHZ">5750MHZ 5750 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_5750_MHZ">5150/5750MHZ 5150 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_MHZ">9750MHZ 9750 / 9750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10750_MHZ">10750MHZ 10750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10600_MHZ">10600MHZ 10600 / 10600</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11250_MHZ">11250MHZ 11250 / 11250</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11300_MHZ">11300MHZ 11300 / 11300</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11475_MHZ">11475MHZ 11475 / 11475</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_10700_MHZ">9750/10700MHZ 9750 / 10700</string>
+    <string name="TV_CFG_LNB_LNB_9750_10750_MHZ">9750/10750MHZ 9750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_10000_10450_MHZ">10000/10450MHZ 10000 / 10450</string>
+<string name="TV_CFG_LNB_LNB_USER_MODE">โหมดผู้ใช้</string>
+
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_V">V</string>
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_H">H</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE">ฟรี</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE_SCRAMBLE">ฟรี + แย่ง</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_SCRAMBLE">การแย่งชิง</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_OFF">ปิด</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_ON">เปิด</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV">DTV</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV_RADIO">DTV + วิทยุ</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_RADIO">วิทยุ</string>
+<string name="TV_CFG_LNB_POWER_OFF">ปิด</string>
+    <string name="TV_CFG_LNB_POWER_13V_18V">13V/18V</string>
+    <string name="TV_CFG_LNB_POWER_13V">13V</string>
+    <string name="TV_CFG_LNB_POWER_18V">18V</string>
+    <string name="TV_CFG_LNB_POWER_14V_19V">14V/19V</string>
+    <string name="TV_CFG_LNB_POWER_14V">14V</string>
+    <string name="TV_CFG_LNB_POWER_19V">19V</string>
+<string name="TV_CFG_AUTO">อัตโนมัติ</string>
+<string name="TV_CFG_ON">เปิด</string>
+<string name="TV_CFG_OFF">ปิด</string>
+<string name="TV_CFG_BURST_A">BURST A</string>
+<string name="TV_CFG_BURST_B">BURST B</string>
+
+<string name="TV_CFG_NONE">None</string>
+<string name="TV_CFG_LNB_1">LNB 1</string>
+    <string name="TV_CFG_LNB_2">LNB 2</string>
+    <string name="TV_CFG_LNB_3">LNB 3</string>
+    <string name="TV_CFG_LNB_4">LNB 4</string>
+    <string name="TV_CFG_LNB_5">LNB 5</string>
+    <string name="TV_CFG_LNB_6">LNB 6</string>
+    <string name="TV_CFG_LNB_7">LNB 7</string>
+    <string name="TV_CFG_LNB_8">LNB 8</string>
+    <string name="TV_CFG_LNB_9">LNB 9</string>
+    <string name="TV_CFG_LNB_10">LNB 10</string>
+    <string name="TV_CFG_LNB_11">LNB 11</string>
+    <string name="TV_CFG_LNB_12">LNB 12</string>
+    <string name="TV_CFG_LNB_13">LNB 13</string>
+    <string name="TV_CFG_LNB_14">LNB 14</string>
+    <string name="TV_CFG_LNB_15">LNB 15</string>
+    <string name="TV_CFG_LNB_16">LNB 16</string>
+
+    <string name="TV_CFG_LNB_DIS_EQC_10_ENUM_TYPE">DisEqc 1.0</string>
+    <string name="TV_CFG_LNB_DIS_EQC_11_ENUM_TYPE">DisEqc 1.1</string>
+    <string name="TV_CFG_LNB_DIS_EQC_12_ENUM_TYPE">DisEqc 1.2</string>
+    <string name="TV_CFG_LNB_DIS_EQC_13_ENUM_TYPE">DisEqc 1.3</string>
+<string-array name="str_lnb_option_list">
+<item>เครื่องทบทวนสัญญาณของดาวเทียม</item>
+<item>LNB พาวเวอร์</item>
+<item>เคเบิ้ลยาว</item>
+<item>22KHz</item>
+<item>ประเภท LNB</item>
+<item>DiSEqC1.0</item>
+<item>DiSEqC1.1</item>
+        <item>Montor</item>
+</string-array>
+<string-array name="str_array_scan_mode">
+<item>ฟรี</item>
+<item>ฟรี + แย่ง</item>
+<item>การแย่งชิง</item>
+</string-array>
+<string-array name="str_array_network_search_option">
+<item>ปิด</item>
+<item>เปิด</item>
+</string-array>
+<string-array name="str_array_service_type">
+<item>DTV</item>
+<item>DTV + วิทยุ</item>
+<item>วิทยุ</item>
+</string-array>
+<string-array name="str_array_search_option">
+<item>การสแกนแบบสุ่ม</item>
+<item>สแกนอย่างรวดเร็ว</item>
+</string-array>
+<string name="str_title_motor_setting">การตั้งค่ามอเตอร์</string>
+<string-array name="str_array_move_setup_option">
+<item>หยุด</item>
+<item>ตะวันออก</item>
+<item>ตะวันตก</item>
+</string-array>
+<string-array name="str_array_longitude_direction_option">
+<item>ตะวันออก</item>
+<item>ตะวันตก</item>
+</string-array>
+<string-array name="str_array_latitude_direction_option">
+<item>เหนือ</item>
+<item>ใต้</item>
+</string-array>
+<string name="str_moto_set_moto_auto">มอเตอร์อัตโนมัติ</string>
+    <string name="str_moto_set_moto_continue">Motor Continue</string>
+<string name="str_moto_set_move_setup">การตั้งค่าการเคลื่อนย้าย</string>
+<string name="str_moto_set_store_positon">เก็บ ตำแหน่ง</string>
+<string name="str_moto_set_go_to_position">ไปยังตำแหน่ง</string>
+<string name="str_moto_set_go_to_reference">ไปยังแหล่งอ้างอิง</string>
+<string name="str_moto_set_set_west_limit">จำกัด ตั้งอยู่ ทางทิศตะวันตก</string>
+<string name="str_moto_set_set_east_limit">จำกัด ตั้งอยู่ ทางทิศตะวันออก</string>
+<string name="str_moto_set_disable_limit">ปิดการใช้งาน จำกัด</string>
+<string name="str_moto_set_go_to_x">ไปยัง X</string>
+<string name="str_moto_set_location">สถานที่ตั้ง</string>
+<string name="str_moto_set_longitude_direction">ทิศทางลองติจูด</string>
+<string name="str_moto_set_longitude_angle">ลองจิจูด มุม</string>
+<string name="str_moto_set_latitude_direction">ทิศทาง ละติจูด</string>
+<string name="str_moto_set_latitude_angle">มุม ละติจูด</string>
+<string-array name="str_array_satellite_derection">
+<item>ตะวันออก</item>
+<item>ตะวันตก</item>
+</string-array>
+<string-array name="str_array_satellite_band">
+<item>C</item>
+<item>ku</item>
+</string-array>
+    <string-array name="str_array_transponder_polarization">
+        <item>V</item>
+        <item>H</item>
+    </string-array>
+
+<!-- factory hotkey -->
+<string name="str_age_mode">M</string>
+<string name="str_bus_off">BUS OFF</string>
+    <string name="str_mac_addr">MAC ADDR : </string>
+    <string name="str_bar_code">BAR CODE : </string>
+
+<!-- Tips -->
+<string name="str_enter">กดปุ่ม Enter</string>
+<string name="str_no_signal">ไม่มีสัญญาณ</string>
+<string name="str_audio_only">เสียงเท่านั้น</string>
+<string name="str_data_only">เฉพาะข้อมูล</string>
+<string name="str_program_lock">โปรแกรมถูกล็อค</string>
+<string name="str_invalid_service">บริการไม่ถูกต้อง</string>
+<string name="str_no_ci_module">ไม่มี CI โมดูล</string>
+<string name="str_ci_plus_authentication">การตรวจสอบ CI Plus</string>
+<string name="str_scrambled_program">โปรแกรมขัดข้อง</string>
+<string name="str_unsupported_format">รูปแบบ ที่ไม่สนับสนุน</string>
+    <string name="str_auto_adjust">Auto Adjust...</string>
+<string name="str_please_wait">กรุณารอสักครู่</string>
+    <string name="str_auto_adjust_success">Adjust Success!</string>
+    <string name="str_auto_adjust_fail">Adjust Fail!</string>
+<string name="str_tip_reset_tv">การดำเนินการจะลบข้อมูลและระบบจะรีบูต, คุณแน่ใจ?</string>
+    <string name="str_tip_off_timer">The time you have set in the past, please re-set!</string>
+    <string name="str_tip_plug_usb">No USB pluged or the format is wrong!</string>
+<string name="str_tip_usb_format">คุณแน่ใจว่าจะจัดรูปแบบดิสก์ที่เลือก?</string>
+<string name="str_tip_usb_checking">กำลังตรวจสอบอย่างรวดเร็ว…</string>
+<string name="str_tip_unplug_usb">อย่าถอดอุปกรณ์ USB ออก!</string>
+    <string name="str_tip_warning_usb_checking">Do you want to check speed of the selected disk?</string>
+<string name="str_tip_delete_program">ลบโปรแกรมเสร็จสิ้น</string>
+    <string name="str_tip_last_item">The late one be deleted!</string>
+<string name="str_tip_move_program">เคลื่อนย้ายโปรแกรมสำเร็จ!</string>
+<string name="str_tip_update_channel_list">การอัพเดตรายการช่องเสร็จสิ้น!</string>
+<string name="str_tip_updating_channel_list">กำลังอัพเดตรายการช่อง โปรดรอสักครู่…</string>
+<string name="str_tip_empty_channel_list">รายการช่องว่างเปล่า!</string>
+    <string name="str_tip_empty_epg_list">The Program No EPG!</string>
+    <string name="str_tip_switch_to_radio">Swtich To Radio!</string>
+    <string name="str_tip_switch_to_dtv">Swtich To DTV!</string>
+    <string name="str_tip_loading_chlist_title">Loading Channel List</string>
+<string name="str_tip_loading_chlist_content">กรุณารอสักครู่</string>
+<string name="str_tip_ciplus_op_confirmation_title">ยืนยัน CI+ รีเฟรช OP</string>
+<string name="str_tip_ciplus_op_refresh">คุณ ช่วยให้ ทีวี ทำ รายละเอียด ประกอบ การรีเฟรช ?</string>
+    <string name="str_tip_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_tip_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+    <string name="str_tip_cha_please_wait">CI invoke route switch ...</string>
+    <string name="str_tip_ci_async_cmd_switch_route">Wait a Moment Please</string>
+    <string name="str_tip_switch_language">Language is switching...Do not operate!</string>
+
+<string name="str_cha_programedit">โปรแกรม แก้ไข</string>
+<string name="str_list_menu_hint_b_skip">ข้าม</string>
+    <string name="str_list_menu_hint_g_fivorite">Favorite</string>
+<string name="str_list_menu_hint_g_edit">แก้ไข</string>
+<string name="str_list_menu_hint_r_delete">ลบ</string>
+<string name="str_list_menu_hint_y_move">ย้าย</string>
+<string name="str_lock_system">ล็อกระบบ</string>
+<string name="str_lock">ล็อค</string>
+
+<!-- for ci+ op -->
+<string name="str_ciplus_op_confirmation_title">ยืนยัน CI+ รีเฟรช OP</string>
+<string name="str_ciplus_op_refresh">คุณ ช่วยให้ ทีวี ทำ รายละเอียด ประกอบ การรีเฟรช ?</string>
+<string name="str_op_menu_title">เมนูโพรไฟล์ของผู้ดูแล</string>
+    <string name="str_op_channel_list_title">OP Profile Menu</string>
+<string name="str_op_menu">เมนู OP</string>
+    <string name="str_op_forbid_channel_tuning_content">Forbid to do channel tune under OP mode.\nPlease exit OP mode at first.</string>
+<string name="str_enter_op">ใส่ OP</string>
+<string name="str_exit_op">ออกจาก สหกรณ์</string>
+<string name="str_delete_profile">ลบ รายละเอียด</string>
+    <string name="str_delete_op_msg">Are you sure to delete the operator profile [</string>
+<string name="str_delete_op_confirm">ยืนยันเพื่อลบ OP</string>
+<string name="str_forbid_channel_tuning">ห้ามจูนช่อง</string>
+    <string name="str_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+
+
+<!-- for program edit -->
+<string name="str_program_edit_dialog_ok">OK</string>
+<string name="str_program_edit_dialog_cancel">ยกเลิก</string>
+<string name="str_program_edit_dialog_input">โปรดป้อน</string>
+<string name="str_no_sinal">ไม่มีสัญญาณ</string>
+<string name="str_channelList_favorite">รายการโปรด</string>
+<string name="str_channelList_program">รายการช่อง</string>
+    <string name="program_guide_time">Program Guide:Time</string>
+
+<string name="str_stop_record_dialog_title">หยุดบันทึก</string>
+    <string name="str_stop_record_dialog_message">System will stop record if user want to channel change</string>
+    <string name="str_stop_record_playback_dialog_message">System will stop record and playback if user want to channel change</string>
+<string name="str_stop_record_dialog_confirm">ยืนยัน</string>
+<string name="str_stop_record_dialog_cancel">ยกเลิก</string>
+<string name="str_stop_record_dialog_stop">หยุด</string>
+    <string name="str_stop_playback_dialog_title">STOP PLAYBACKING</string>
+    <string name="str_stop_playback_dialog_message">System will stop playback if user want to channel change</string>
+<string name="str_disk_too_slow">ความเร็วของดิสก์ช้าเกินไป</string>
+
+
+<string name="str_ci_insert">CI ถูกสอดเข้าไปแล้ว</string>
+<string name="str_ci_remove">CI นำออกมาแล้ว</string>
+<string name="str_ci_autotest">การทดสอบอัตโนมัติของ CI</string>
+
+<!-- for program category -->
+<string name="TV_PROG_CATEGORY_MOVIE">ภาพยนตร์</string>
+<string name="TV_PROG_CATEGORY_NEWS">ข่าว</string>
+<string name="TV_PROG_CATEGORY_SHOW">แสดง</string>
+<string name="TV_PROG_CATEGORY_SPORT">กีฬา</string>
+<string name="TV_PROG_CATEGORY_CHILDREN">เด็ก</string>
+<string name="TV_PROG_CATEGORY_MUSIS">ดนตรี</string>
+<string name="TV_PROG_CATEGORY_ARTS">ศิลปะ</string>
+<string name="TV_PROG_CATEGORY_SOCIAL">สังคม</string>
+<string name="TV_PROG_CATEGORY_EDUCATION">การศึกษา</string>
+<string name="TV_PROG_CATEGORY_LEISURE">เวลาว่าง</string>
+<string name="TV_PROG_CATEGORY_SPECIAL">พิเศษ</string>
+<string name="TV_PROG_CATEGORY_CONSTANT">สม่ำเสมอ</string>
+<string name="TV_PROG_CATEGORY_USER_DEFINDED">ที่ผู้ใช้กำหนด</string>
+<string name="TV_PROG_CATEGORY_UNDEFINDED">ไม่สามารถระบุได้</string>
+<string name="SKY_CFG_TV_SWITCH_LANG_WILL_REBOOT_TV">ทีวีจะรีเซ็ตโดยอัตโนมัติหากภาษาเปลี่ยนแปลง</string>
+<string name="TV_VGA_RESOLUTION_UNSUPPORT">ไม่รองรับ</string>
+</resources>

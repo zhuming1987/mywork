@@ -1,0 +1,1115 @@
+﻿<resources>
+
+<string name="app_name">יישום TV</string>
+
+    <string name="button_ok_str">Yes</string>
+<string name="button_cancel_str">יציאה</string>
+
+<string name="TV_CFG_ON_MODE">דלוק</string>
+<string name="TV_CFG_OFF_MODE">כבוי</string>
+
+    <string name="TV_CFG_QUICK_MENU_SETTING">Quick Menu</string>
+
+    <string name="TV_CFG_NO_SIGNAL">No Signal</string>
+
+<!-- 3D -->
+<string name="TV_CFG_THREED_SETTING">הגדרת 3D</string>
+<string name="TV_CFG_3D_MODE">מצב 3D</string>
+<string name="TV_CFG_3D_MODE_OFF">כבוי</string>
+<string name="TV_CFG_3D_MODE_AUTO">אוטו\'</string>
+<string name="TV_CFG_3D_MODE_2D_TO_3D">2D ל-3D</string>
+<string name="TV_CFG_3D_MODE_SIDE_BY_SIDE">שמאל לימין</string>
+<string name="TV_CFG_3D_MODE_TOP_AND_BOTTOM">מחלק עליון לתחתון</string>
+    <string name="TV_CFG_3D_MODE_FRAME_PACKING">Frame Packing</string>
+    <string name="TV_CFG_3D_DEPTH">3D Depth</string>
+<string name="TV_CFG_3D_LR_SWAP">מתג של שמאל וימין</string>
+<string name="TV_CFG_3D_TO_2D">3D ל-2D</string>
+<string name="TV_CFG_3D_TO_2D_OFF">כבוי</string>
+<string name="TV_CFG_3D_TO_2D_LEFT">שמאל</string>
+<string name="TV_CFG_3D_TO_2D_RIGHT">ימין</string>
+
+<!-- CI SEtting -->
+<string name="TV_CFG_CI_SETTING">מידע CI</string>
+<!-- Picture -->
+<string name="TV_CFG_PICTURE_SETTING">הגדרות תמונה</string>
+<string name="TV_CFG_BRIGHTNESS">בהירות</string>
+<string name="TV_CFG_CONTRAST">ניגודיות</string>
+<string name="TV_CFG_COLOR">צבע</string>
+<string name="TV_CFG_HUE">גוון</string>
+<string name="TV_CFG_NTSC_HUE">צבע </string>
+<string name="TV_CFG_COLOR_TEMPERATURE">טמפ\' צבע</string>
+<string name="TV_CFG_SHARPNESS">חדות</string>
+<string name="TV_CFG_DNR">DNR</string>
+    <string name="TV_CFG_MPEG_NR">MPEG NR</string>
+<string name="TV_CFG_DNR_OFF">כבוי</string>
+<string name="TV_CFG_DNR_LOW">נמוך</string>
+    <string name="TV_CFG_DNR_MID">Medium</string>
+<string name="TV_CFG_DNR_HIGH">גבוה</string>
+<string name="TV_CFG_DNR_AUTO">אוטו\'</string>
+<string name="TV_CFG_MPEG_NR_OFF">כבוי</string>
+<string name="TV_CFG_MPEG_NR_LOW">נמוך</string>
+    <string name="TV_CFG_MPEG_NR_MID">Medium</string>
+<string name="TV_CFG_MPEG_NR_HIGH">גבוה</string>
+<string name="TV_CFG_DREAM_PANEL">DLC</string>
+<string name="TV_CFG_DREAM_PANEL_OFF">כבוי</string>
+<string name="TV_CFG_DREAM_PANEL_LIGHT_SENSOR">חיישן תאורה</string>
+    <string name="TV_CFG_DREAM_PANEL_IMAGE_DETECT">Image</string>
+<string name="TV_CFG_DREAM_PANEL_MULTI_DETECT">מולטי</string>
+<string name="TV_CFG_DREAM_PANEL_SWITCH">החלפת פנ\' Dream</string>
+<string name="TV_CFG_DTV_DISPLAY_MODE">מצב תצוגה</string>
+<string name="TV_CFG_DISPLAY_MODE">מצב תצוגה</string>
+<string name="TV_CFG_DISPLAY_MODE_16_9">16:9</string>
+<string name="TV_CFG_DISPLAY_MODE_4_3">4:3</string>
+<string name="TV_CFG_VIDEO_DISPLAY_MODE_DEFAULT">ברירת מחדל</string>
+    <string name="TV_CFG_DISPLAY_MODE_MOVIE">Movie</string>
+    <string name="TV_CFG_DISPLAY_MODE_CAPTION">Caption</string>
+<string name="TV_CFG_DISPLAY_MODE_PANORAMA">פנורמי</string>
+<string name="TV_CFG_DISPLAY_MODE_PERSON">אדם</string>
+<string name="TV_CFG_DISPLAY_MODE_AUTO">אוטו\'</string>
+    <string name="TV_CFG_DISPLAY_MODE_JUST_SCAN">Native</string>
+<string name="TV_CFG_DISPLAY_MODE_P2P">P2P</string>
+<string name="TV_CFG_DISPLAY_MODE_DEFAULT">ברירת מחדל</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM1">זום1</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM2">זום2</string>
+<string name="TV_CFG_PICTURE_MODE">מצב תמונה</string>
+<string name="TV_CFG_PICTURE_MODE_VIVID">חי</string>
+<string name="TV_CFG_PICTURE_MODE_SOFT">רך</string>
+    <string name="TV_CFG_PICTURE_MODE_GAME">Game</string>
+    <string name="TV_CFG_PICTURE_MODE_NATURAL">Natural</string>
+    <string name="TV_CFG_PICTURE_MODE_SPORTS">Sports</string>
+    <string name="TV_CFG_PICTURE_MODE_PC">PC</string>
+    <string name="TV_CFG_PICTURE_MODE_DYMANIC">Dymanic</string>
+    <string name="TV_CFG_PICTURE_MODE_USER">מצב משתמש</string>
+<string name="TV_CFG_PICTURE_MODE_STANDARD">סטנדרטי</string>
+<string name="TV_CFG_PICTURE_MODE_4K_CINEMA">4K סרט</string>
+    <string name="TV_CFG_NOSIGNAL">No Signal</string>
+    <string name="TV_CFG_NOTSUPPORTED">Not Supported</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_WARM">חם</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_STANDARD">סטנדרטי</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_COOL">קר</string>
+    <string name="TV_CFG_LOCAL_DIMMING_MODE">Local Dim.</string>
+<string name="TV_CFG_LOCAL_DIMMING_OFF_MODE">סגור</string>
+<string name="TV_CFG_LOCAL_DIMMING_ON_MODE">פתיחה</string>
+<string name="TV_CFG_CINEMA_MODE">מצב קולנוע</string>
+<string name="TV_CFG_MANUAL_BACKLIGHT_ADJUST">תאורה אחורית</string>
+<string name="TV_CFG_MEMC_MODE">MEMC</string>
+<string name="TV_CFG_MEMC_MODE_OFF">כבוי</string>
+<string name="TV_CFG_MEMC_MODE_LOW">נמוך</string>
+<string name="TV_CFG_MEMC_MODE_MID">MID</string>
+<string name="TV_CFG_MEMC_MODE_HIGH">גבוה</string>
+
+<!-- Sound -->
+<string name="TV_CFG_SOUND_SETTING">הגדרות קול</string>
+<string name="TV_CFG_VOLUME">עוצמת שמע</string>
+<string name="TV_CFG_AUDIO_MUTE">השתק</string>
+<string name="TV_CFG_SOUND_MODE">מצבי שמע</string>
+<string name="TV_CFG_BASS">באס</string>
+<string name="TV_CFG_TREBLE">טרבל</string>
+<string name="TV_CFG_BALANCE">ימין/שמאל</string>
+<string name="TV_CFG_SURROUND">סראונד</string>
+<string name="TV_CFG_SOUND_CLARITY">קול</string>
+<string name="TV_CFG_TRUBASS">TruBass</string>
+<string name="TV_CFG_SUBWOOFER">SubWoofer</string>
+<string name="TV_CFG_SUBWOOFER_VOLUME">S.W.VOL</string>
+<string name="TV_CFG_WALL_SOUND_EFFECTS">Wall-M.S.E.</string>
+<string name="TV_CFG_SOUND_SPDIF">SPDIF</string>
+<string name="TV_CFG_SOUND_SPDIF_SOURCE">חי</string>
+    <string name="TV_CFG_SOUND_SPDIF_PCM">PCM</string>
+    <string name="TV_CFG_SOUND_SEPERATE">Audio Only</string>
+<string name="TV_CFG_SOUND_MODE_STANDARD">סטנדרטי</string>
+<string name="TV_CFG_SOUND_MODE_NEWS">דיבור</string>
+<string name="TV_CFG_SOUND_MODE_MUSIC">מוזיקה</string>
+    <string name="TV_CFG_SOUND_MODE_MOVIE">Movie</string>
+    <string name="TV_CFG_SOUND_MODE_SPORTS">Sports</string>
+    <string name="TV_CFG_SOUND_MODE_USER">מצב משתמש</string>
+<string name="TV_CFG_EQUALIZER_SETTING">אקוליזר</string>
+<string name="TV_CFG_EQUALIZER">אקוליזר</string>
+<string name="TV_CFG_EQUALIZER_100HZ">100Hz</string>
+<string name="TV_CFG_EQUALIZER_500HZ">500Hz</string>
+    <string name="TV_CFG_EQUALIZER_1KHZ">1KHZ</string>
+<string name="TV_CFG_EQUALIZER_3KHZ">3KHz</string>
+<string name="TV_CFG_EQUALIZER_10KHZ">10KHz</string>
+<string name="TV_CFG_MTS_MODE">MTS</string>
+<string name="TV_CFG_NICAM_MODE">Nicam</string>
+    <string name="TV_CFG_AVL">AVL</string>
+    <string name="TV_CFG_BBE_SOUND">BBE</string>
+<string name="TV_CFG_AUDIO_LANGUAGE">שפת אודיו</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING">שפת אודיו</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE">מצב שמע</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LL">LL</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LR">סטריאו</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_RR">RR</string>
+
+
+<!-- MTS/NICAM -->
+<string name="TV_CFG_AUDIOMODE_MONO">מונו</string>
+    <string name="TV_CFG_AUDIOMODE_DUAL_A">DUAL I</string>
+    <string name="TV_CFG_AUDIOMODE_DUAL_AB">DUAL I+II</string>
+    <string name="TV_CFG_AUDIOMODE_DUAL_B">DUAL II</string>
+<string name="TV_CFG_AUDIOMODE_FORCED_MONO">מונו</string>
+<string name="TV_CFG_AUDIOMODE_G_STEREO">סטריאו</string>
+<string name="TV_CFG_AUDIOMODE_HIDEV_MONO">HIDEV MONO</string>
+<string name="TV_CFG_AUDIOMODE_NUM">מונו</string>
+<string name="TV_CFG_AUDIOMODE_INVALID">מונו</string>
+<string name="TV_CFG_AUDIOMODE_K_STEREO">סטריאו</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_LEFT">שמאל שמאל</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_RIGHT">שמאל ימין</string>
+<string name="TV_CFG_AUDIOMODE_MONO_SAP">SAP</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_A">DUAL I</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_AB">DUAL I/II</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_B">DUAL II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_MONO">מונו</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_STEREO">סטריאו</string>
+<string name="TV_CFG_AUDIOMODE_RIGHT_RIGHT">ימין ימין</string>
+<string name="TV_CFG_AUDIOMODE_STEREO_SAP">SAP</string>
+
+<!-- Installed -->
+<string name="TV_CFG_CHANNEL_SETTING">התקנה</string>
+<string name="TV_CFG_AUTO_SEARCH">התקנה אוטומטית</string>
+<string name="TV_CFG_MANUAL_SEARCH">חיפוש ידני</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM">שיטת צבע</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM">שיטת שמע</string>
+<string name="TV_CFG_SEARCH_TYPE">הקלד את החיפוש</string>
+    <string name="TV_CFG_FIVE_ATENNA">5V Atenna</string>
+<string name="TV_CFG_START_AUTO_SEARCH">התחל חיפוש</string>
+<string name="TV_CFG_CHANNEL_EDIT">ערוץ עריכה</string>
+    <string name="TV_CFG_FAVORITE_LIST">Favorite List</string>
+<string name="TV_CFG_CHANNEL_LIST">רשימת ערוצים</string>
+<string name="TV_CFG_SIGNAL_INFO">מידע קליטה</string>
+<string name="TV_CFG_CHANNEL_NO">מס\' ערוץ</string>
+<string name="TV_CFG_FREQUENCY_SET">תדר</string>
+<string name="TV_CFG_TV_CHANNEL_SKIP">דלג על ערוץ</string>
+    <string name="TV_CFG_TV_SEARCH_ATV">ATV</string>
+    <string name="TV_CFG_TV_SEARCH_DTV">DTV</string>
+<string name="TV_CFG_TV_SEARCH_ATV_DTV">DTV+ATV</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_AUTO">אוטו\'</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_BGHI">PAL</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_N">PAL_N</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_M">PAL_M</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_60">PAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_M">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_44">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_SECAM">SECAM</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_I">I</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_DK">D/K</string>
+    <string name="TV_CFG_TV_SOUND_SYSTEM_BG">B/G</string> 
+<string name="TV_CFG_TV_SOUND_SYSTEM_M">M</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_L">L</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_M_BTSC">M</string>
+<string name="TV_CFG_EPG_REPEAT_ONCE">פעם אחת</string>
+<string name="TV_CFG_EPG_REPEAT_WEEKLY">שבועי</string>
+<string name="TV_CFG_EPG_REPEAT_DAILY">יומיום</string>
+    <string name="TV_CFG_SEARCH_TYPE_ATV">ATV</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBT">DVB_T</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBC">DVB_C</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBS">DVB_S</string>
+<string name="TV_CFG_SEARCH_TYPE_DTMB">DTMB</string>
+<string name="signal_info_title">מידע קליטה</string>
+<string name="TV_CFG_CI_INFORMATION">מידע CI</string>
+<string name="TV_CFG_DVBS_AUTO_SEARCH">חיפ\' אוטו\' DVB_S</string>
+<string name="TV_CFG_DVBT_AUTO_SEARCH">חיפ\' אוטו\' DVB_T</string>
+<string name="TV_CFG_DVBC_AUTO_SEARCH">חיפ\' אוטו\' DVB_C</string>
+<string name="str_channel_edit_r_delete">מחק</string>
+<string name="str_channel_edit_g_sort">מיין</string>
+    <string name="str_channel_edit_y_favorite">Favorite</string>
+    <string name="str_channel_edit_b_skip">Skip</string>
+<string name="str_channel_edit_g_lock">נעילה</string>
+    <string name="str_channel_edit_ok_move">Move</string>
+    <string name="TV_CFG_LNB_SETTING">LNB Setting</string>
+    <string name="TV_CFG_DVBS_MODULATION">Satellite</string>
+<string name="str_ci_channellist_op_menu">תפריט פרופילי מפעיל</string>
+    <string name="str_ci_channellist_op_del">Delete Profile</string>
+    <string name="str_ci_channellist_exit_op">Exit Op</string>
+    <string name="str_ci_channellist_enter_op">Enter Op</string>
+    <string name="str_ci_channellist_op_title">OP Channel List</string>
+    <string name="str_ci_channellist_op_del_msg">Are you sure to delete \rthe operator profile [</string>
+
+<!-- Setup -->
+<string name="TV_CFG_SYSTEM_SETTING">העדפות</string>
+    <string name="TV_CFG_CAPTION_ONOFF">Caption</string>
+    <string name="TV_CFG_CC_MODE">CCMode</string>
+<string name="TV_CFG_LANGUAGE">שפה</string>
+    <string name="TV_CFG_SUBTITLE_LANGUAGE">Subtitle Language</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_AUTO">אוטו\'</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_VIDEO">16~235</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_GRAPHIC">0~255</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC">הפ\'/כי\' HDMI-CEC</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC_AUTO_STANDBY">מתנה אוטומטית</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST">רשימת מכשירים</string>
+<string name="TV_CFG_TELETEXT_LANGUAGE">שפה TTX</string>
+<string name="TTX_LANG_RUSSIAN">רוסית</string>
+<string name="TTX_LANG_EAST">מזרח</string>
+<string name="TTX_LANG_ARABIC">ערבית</string>
+<string name="TTX_LANG_FARSI">פרסית</string>
+<string name="TTX_LANG_WEST">מערב</string>
+    <string name="TV_CFG_TIME_SHIFT">Time Shift</string>
+<string name="TV_CFG_TIME">הגדרת שעה</string>
+<string name="TV_CFG_CURRENT_TIME">שעה נוכחית</string>
+    <string name="TV_CFG_TIME_ZONE">Time Zone</string>
+    <string name="TV_CFG_TIME_ZONE_SETTING">Time Zone</string>
+<string name="TV_CFG_DAY_LIGHT_SAVING">שעון קיץ</string>
+<string name="TV_CFG_SLEEP_TIMER">טיימר שינה</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TITLE">ס\' לאחור</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TIP_TEXT">לחץ חזרה ליציאה</string>
+<string name="TV_CFG_OFF_TIMER">שעון עצר כבוי</string>
+<string name="TV_CFG_ENGERY_SAVING">חסכון באנרג\'</string>
+<string name="TV_CFG_AUTO_OFF">כיבוי אוטו\'</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_10">10s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_20">20s</string>
+<string name="TV_CFG_MEMU_SHOW_TIME_ALWAYS">תמיד</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_OFF">כבוי</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_ON">דלוק</string>
+<string name="TV_CFG_PVR">מערכת PVR</string>
+<string name="TV_CFG_PVR_SELECT_DISK">בחר בדיסק</string>
+<string name="TV_CFG_PVR_SELECT_USB">בחר USB</string>
+<string name="TV_CFG_PVR_USB_SPEED">מהירות USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE">גודל Time Shift</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_512M">512M</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_1G">1G</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE_2G">2G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_4G">4G</string>
+<string name="TV_CFG_PVR_USB_FORMAT">תבנית USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_ALWAYS">Time Shift תמיד</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE">Color Range</string>
+<string name="TV_CFG_HDMI_CEC_MENU_LIST">HDMI-CEC</string>
+<string name="TV_CFG_MENU_SHOW_TIME">זמן תכנית תפריט</string>
+<string name="TV_CFG_STICKER_DEMO">הדגמת מדבקה</string>
+<string name="TV_CFG_SLEEP_TIMER_OFF">כבוי</string>
+<string name="TV_CFG_SLEEP_TIMER_5_MINUTES">5 דק\'</string>
+<string name="TV_CFG_SLEEP_TIMER_15_MINUTES">15 דק\'</string>
+<string name="TV_CFG_SLEEP_TIMER_30_MINUTES">30 דק\'</string>
+    <string name="TV_CFG_SLEEP_TIMER_60_MINUTES">60 Min</string>
+<string name="TV_CFG_SLEEP_TIMER_90_MINUTES">90 דק\'</string>
+<string name="TV_CFG_SLEEP_TIMER_120_MINUTES">120 דק\'</string>
+    <string name="TV_CFG_AUTO_SLEEP">Auto Sleep</string>
+<string name="TV_CFG_AUTO_SLEEP_OFF">כבוי</string>
+<string name="TV_CFG_AUTO_SLEEP_1_HOURS">1 שעה</string>
+<string name="TV_CFG_AUTO_SLEEP_2_HOURS">2 שעות</string>
+<string name="TV_CFG_AUTO_SLEEP_3_HOURS">3 שעות</string>
+<string name="TV_CFG_AUTO_SLEEP_4_HOURS">4 שעות</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP">No Signal Sleep</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_OFF">כבוי</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_5_MINUTES">5 דק\'</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP_10_MINUTES">10 דק\'</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_15_MINUTES">15 דק\'</string>
+    <string name="TV_CFG_TIME_YEAR">Year</string>
+<string name="TV_CFG_TIME_MONTH">חודש</string>
+<string name="TV_CFG_TIME_DAY">יום</string>
+<string name="TV_CFG_TIME_HOUR">שעה</string>
+<string name="TV_CFG_TIME_MINUTE">דקה</string>
+    <string name="TV_CFG_START_OFF_TIME">Press "Enter to Set OffTime"</string>
+<string name="TV_CFG_REBOOT_SYSTEM">אתחול מערכת</string>
+<string name="TV_CFG_RECOVERY">איפוס טלוויזיה</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST_SETTING">רשימת מכשירים</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_AUTO">אוטו\'</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_ON">דלוק</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_OFF">כבוי</string>
+<string name="TV_CFG_CAPTION_ON">דלוק</string>
+	<string name="TV_CFG_CAPTION_ON_MUTE">ON MUTE</string>
+<string name="TV_CFG_CAPTION_OFF">כבוי</string>
+<string name="TV_CFG_CC_MODE_OFF">כבוי</string>
+	<string name="TV_CFG_CC_MODE_CC1">CC1</string>
+	<string name="TV_CFG_CC_MODE_CC2">CC2</string>
+	<string name="TV_CFG_CC_MODE_CC3">CC3</string>
+	<string name="TV_CFG_CC_MODE_CC4">CC4</string>
+<string name="TV_CFG_CC_MODE_TXT1">TXT1</string>
+<string name="TV_CFG_CC_MODE_TXT2">TXT2</string>
+<string name="TV_CFG_CC_MODE_TXT3">TXT3</string>
+<string name="TV_CFG_CC_MODE_TXT4">TXT4</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SET">הגדרת שפת שמע</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_PRIMARY_SET">שפת שמע ראשית</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SECOND_SET">שפת שמע שניה</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SWITCH">החלפת שפת כתובית</string>
+
+<!-- OSDLanguage -->
+<string name="TV_CFG_OSD_LANGUAGE_ENGLISH">English</string>
+    <string name="TV_CFG_OSD_LANGUAGE_THAI">ภาษาไทย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ARABIC">العربية</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FARSI">فارسی</string>
+    <string name="TV_CFG_OSD_LANGUAGE_RUSSIAN">русский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FRENCH">française</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HEBREW">עברית שפה</string>
+    <string name="TV_CFG_OSD_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+<string name="TV_CFG_OSD_LANGUAGE_INDONESIAN">אינדונזית</string>
+    <string name="TV_CFG_OSD_LANGUAGE_PORTUGUESE">português</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SPANISH">español</string>
+    <string name="TV_CFG_OSD_LANGUAGE_TURKISH">Türk dili</string>
+    <string name="TV_CFG_OSD_LANGUAGE_GERMAN">Deutsch</string>
+<string name="TV_CFG_OSD_LANGUAGE_CZECH">צ</string>
+    <string name="TV_CFG_OSD_LANGUAGE_DANISH">Danish</string>
+    <string name="TV_CFG_OSD_LANGUAGE_GREEK">Greek</string>
+    <string name="TV_CFG_OSD_LANGUAGE_CROATIAN">Croatian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ITALIAN">Italian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HUNGARIAN">Hungarian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_DUTCH">Dutch</string>
+    <string name="TV_CFG_OSD_LANGUAGE_NORWEGIAN">Norwegian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_POLISH">Polish</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ROMANIAN">Romanian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SLOVENIAN">Slovenian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SERBIAN">Serbian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FINNISH">Finnish</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SWEDISH">Swedish</string>
+    <string name="TV_CFG_OSD_LANGUAGE_BULGARIAN">Bulgarian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SLOVAK">Slovak</string>
+    <string name="TV_CFG_OSD_LANGUAGE_CHINESE">Chinese</string>
+    <string name="TV_CFG_OSD_LANGUAGE_GAELIC">Gaelic</string>
+    <string name="TV_CFG_OSD_LANGUAGE_WELSH">Welsh</string>
+    <string name="TV_CFG_OSD_LANGUAGE_IRISH">Irish</string>
+    <string name="TV_CFG_OSD_LANGUAGE_LATVIAN">Latvian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ESTONIAN">Estonian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_GALLEGAN">Gallegan</string>
+    <string name="TV_CFG_OSD_LANGUAGE_BASQUE">Basque</string>
+    <string name="TV_CFG_OSD_LANGUAGE_CATALAN">Catalan</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ICELANDIC">Icelandic</string>
+    <string name="TV_CFG_OSD_LANGUAGE_LETZEBURGESCH">Letzeburgesch</string>
+    <string name="TV_CFG_OSD_LANGUAGE_LITHUANIAN">Lithuanian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_UKRAINIAN">Ukrainian</string>
+    <string name="TV_CFG_OSD_LANGUAGE_BYELORUSSIAN">Byelorussian</string>
+<string name="TV_CFG_OSD_LANGUAGE_MAORI">מאורי</string>
+<string name="TV_CFG_OSD_LANGUAGE_MANDARIN">מנדרינית</string>
+    <string name="TV_CFG_OSD_LANGUAGE_CANTONESE">Cantonese</string>
+    <string name="TV_CFG_OSD_LANGUAGE_KOREAN">Korean</string>
+    <string name="TV_CFG_OSD_LANGUAGE_JAPANESE">Japanese</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HINDI">Hindi</string>
+
+
+<!-- SubtitleLanguage -->
+<string name="TV_CFG_SUBTITLE_LANGUAGE_OFF">כבוי</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_ARABIC">التطبيق المتجر</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_ENGLISH">English</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_IRANIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_FRENCH">Française</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_INDONESIAN">findonesia</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_HEBREW">עברית שפה</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_RUSSIAN">русский</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_TAHITIAN">ภาษาไทย</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE_CHS">简体中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE">繁體中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PERSIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SPANISH">Inglés</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_UNKNOWN">לא ידוע</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SETTING">הגדרת שפת כתובית</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_PRIMARY">שפת כתובית ראשית</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SECONDE">שפת כתובית שניה</string>
+
+<!-- VGA Setup -->
+<string name="TV_CFG_VGA_SETTING">VGA</string>
+    <string name="TV_CFG_SCART_SETTING">SCART</string>
+<string name="TV_CFG_VGA_AUTO_ADJUST">כוונון אוטו\'</string>
+<string name="TV_CFG_VGA_H_POSITION">מיקום רוחב</string>
+<string name="TV_CFG_VGA_V_POSITION">מיקום אורך</string>
+<string name="TV_CFG_VGA_PHASE">פאזה</string>
+<string name="TV_CFG_VGA_FREQUENCY">שעון</string>
+
+<!-- Lock-->
+<string name="TV_CFG_LOCK_SETTING">נעילה</string>
+    <string name="TV_CFG_LOCK_KEY_EVENT_LOCK">Panel Lock</string>
+<string name="TV_CFG_LOCK_INPUT_PASSWORD">סיסמת הזנה</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD">שינוי סיסמה</string>
+<string name="TV_CFG_LOCK_COMFIRM_PASSWORD">אשר סיסמה</string>
+<string name="TV_CFG_LOCK_AGE_LIST">בקרת הורים</string>
+    <string name="TV_CFG_PANEL_LOCK">Panel lock</string>
+<string name="TV_CFG_LOCK_CHANNEL_LIST">חסום תכנית</string>
+<string name="TV_CFG_LOCK_SYSTEM_LOCK">נעילת מערכת</string>
+<string name="TV_CFG_LOCK_SET_LOCK_PARENTAL_CONTROL_RATING_NUMBER">בקרת הורים</string>
+<string name="TV_CFG_LOCK_RATING_0">אף לא אחד</string>
+    <string name="TV_CFG_LOCK_RATING_1">4</string>
+    <string name="TV_CFG_LOCK_RATING_2">5</string>
+    <string name="TV_CFG_LOCK_RATING_3">6</string>
+    <string name="TV_CFG_LOCK_RATING_4">7</string>
+    <string name="TV_CFG_LOCK_RATING_5">8</string>
+    <string name="TV_CFG_LOCK_RATING_6">9</string>
+    <string name="TV_CFG_LOCK_RATING_7">10</string>
+    <string name="TV_CFG_LOCK_RATING_8">11</string>
+    <string name="TV_CFG_LOCK_RATING_9">12</string>
+    <string name="TV_CFG_LOCK_RATING_10">13</string>
+    <string name="TV_CFG_LOCK_RATING_11">14</string>
+    <string name="TV_CFG_LOCK_RATING_12">15</string>
+    <string name="TV_CFG_LOCK_RATING_13">16</string>
+    <string name="TV_CFG_LOCK_RATING_14">17</string>
+    <string name="TV_CFG_LOCK_RATING_15">18</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_SUCCESS">שינוי סיסמה מוצלח</string>
+    <string name="TV_CFG_LOCK_CHANGE_PASSWORD_FAIL">שינוי סיסמה נכשל</string>
+
+<!-- Channel Search -->
+<string name="channel_programs">תכניות</string>
+<string name="channel_info">מידע על ערוץ</string>
+<string name="mannual_search">חיפוש ידני</string>
+<string name="are_you_sure_stop_DTV_search">האם אתה בטוח שכדי לצאת ממצב כוונון טלוויזיה?</string>
+<string name="symbol_rate">שיעור סמל</string>
+<string name="band_width">רוחב פס</string>
+    <string name="module_mode">Modulation</string>
+<string name="signal_quality">איכות קליטה</string>
+<string name="signal_strength">עצמת קליטה</string>
+<string name="signal_network">רשת</string>
+    <string name="signal_tsid">Transport Stream</string>
+<string name="signal_server">שרת</string>
+    <string name="signal_modulation">Modulation</string>   
+<string name="search_progress">חיפוש מתקדם</string>
+<string name="program_tv">תכניות TV</string>
+<string name="program_dtv">תכניות DTV</string>
+<string name="program_radio">תכניות רדיו</string>
+<string name="program_data">תכניות נתונים</string>
+<string name="search_channel">כוונון</string>
+<string name="auto_search">התקנה אוטומטית ATV</string>
+<string name="frequency_adjust">כוונון תדירות</string>
+<string name="nit_search">חיפוש ערו\' מלא</string>
+    <string name="channel_setting">Channel settings</string>
+<string name="enter">אישור</string>
+<string name="frequency">תדר</string>
+<string name="frequency_segment">מקט\' ערוץ</string>
+    <string name="channel_count">Channel Count></string>
+<string name="crt_channel_num">מס\' ערוץ נוכחי</string>
+
+    <string name="start_fine_search">Press "Left" or "Right" to fine search</string>
+<string name="start_manual_search">לחיצה ארוכה "שמאל" או "ימין" להתחלת חיפוש ידני</string>
+    <string name="back_hint">לחץ חזרה ליציאה</string>
+<string name="frequencypoint_setting">הגדרות תדירות</string>
+<string name="video_vod">וידאו לבקשתכם</string>
+<string name="main_frequencypoint">תדירות ראשית</string>
+    <string name="loader_frequencypoint">Loader frequency</string>
+<string name="start_frequency">מתחיל תדירות</string>
+<string name="end_frequency">סיים תדירות</string>
+<string name="crt_frequency">תדירות נוכחית</string>
+<string name="start_search">מתחיל חיפוש</string>
+<string name="confirm">OK</string>
+<string name="cancel">יציאה</string>
+
+    <string name="not_empty">can not be empty</string>
+<string name="city_setting">הגדרות אזור</string>
+<string name="switch_city">החלף אזור</string>
+<string name="save">שמור</string>
+
+<!-- EPG-->
+    <string name="epgmanagetitle">Electronic Program Guide</string>
+<string name="epgchannellist">רשימת ערוצים</string>
+<string name="epgchanneldate">תאריך </string>
+<string name="epgprogramname">שם תכנית</string>
+<string name="epginfomation">מידע</string>
+    <string name="epgtipsschedule">Schedule List</string>
+<string name="epgtipsreminder">הגדרת תזכורת</string>
+<string name="epgtipsrecord">הגדרות שיא</string>
+<string name="epgsettingmode">מצב</string>
+    <string name="epgsettingtime">Time</string>
+<string name="epgscheduledelete">מחק</string>
+    <string name="epg_recodesetting_channel">Channel</string>
+<string name="epg_recodesetting_repeat">לחזור על מצב</string>
+<string name="epg_recodesetting_startmonth">חודש התחלה</string>
+<string name="epg_recodesetting_startdate">תאריך </string>
+<string name="epg_recodesetting_starthour">שעה</string>
+<string name="epg_recodesetting_startminute">דקה</string>
+<string name="epg_recodesetting_endmonth">סיים חודש</string>
+<string name="epg_recodesetting_enddate">תאריך </string>
+<string name="epg_recodesetting_endhour">שעה</string>
+<string name="epg_recodesetting_endminute">דקה</string>
+<string name="epg_remindsetting_month">חודש</string>
+<string name="epg_mode_reminder">תזכורת</string>
+<string name="epg_mode_recorder">מקלט</string>
+    <string name="epg_setting_button">Press "OK" to Setting</string>
+<string-array name="epg_record_moths">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+</string-array>
+<string-array name="epg_record_days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+</string-array>
+<string-array name="epg_record_hours">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+</string-array>
+<string-array name="epg_record_minutes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+</string-array>
+<string-array name="epg_record_repeate_mode">
+<item>פעם אחת</item>
+<item>יומיום</item>
+<item>שבועי</item>
+</string-array>
+<string-array name="epg_record_time_tips">
+<item>אף לא אחד</item>
+<item>הצליח</item>
+<item>עבר</item>
+<item>כיסוי</item>
+        <item>Endtime Before Start</item>
+        <item>Endtime Exceed Period</item>
+<item>מלא</item>
+<item>התנגשות תזכורת חדשה</item>
+<item>התנגשות תזכורת DB</item>
+</string-array>
+<string name="SKY_FAILED">נכשל</string>
+<string name="SKY_SUCCESS">הצליח</string>
+<string name="SKY_insert_cable">הכנס כבל</string>
+<string name="str_epg_schedule_y_back">חזרה</string>
+<string name="str_epg_schedule_r_delete">מחק</string>
+
+    <string name="SKY_SEARCH">Search</string>
+<string name="SKY_H_DIRECTION_KEY">להעברת הסמן שמאלה וימינה</string>
+<string name="SKY_V_DIRECTION_KEY">להעברת הסמן מעלה ומטה</string>
+<string name="SKY_DELETE">מחק</string>
+    <string name="SKY_SHUTTLE_ROTATE">Shuttle toggle selection</string>
+<string name="SKY_SEARCH_LEFTKEY">לחץ שמאל למחיקה</string>
+<string name="SKY_SEARCH_TEXT">חיפוש אות ראשונה Pinyin </string>
+
+<!-- 网络部分 -->
+<string name="NET_WIFI_HOT_SPOT">נקודות חמות</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_OPEN">פתיחה</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_CLOSE">סגור</string>
+<string name="NET_WIFI_HOT_SPOT_NAME">שם נקודה חמה</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_SET">פענוח</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_OPEN">פתיחה</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_CLOSE">פענוח</string>
+<string name="NET_WIFI_HOT_SPOT_PWD">סיסמא חמה </string>
+<string name="NET_WIFI_HOT_SPOT_PWD_ERROR_TIP">8-24 אותיות או מספרים</string>
+<string name="NET_WIFI_HOT_SPOT_BTN_SAVE">שמור</string>
+<string name="NET_WIFI_HOT_SPOT_NAME_ERROR_TIP">שם לא יכול להיות ריק</string>
+<!-- 无线列表选择 -->
+    <string name="NET_WIFI_SELECT_WPS">WIFI WPS:</string>
+<string name="NET_WIFI_SELECT_WPS_ENTER">אישור</string>
+<string name="NET_WIFI_SELECT_LIST">רשימת רשתות אלחוטיות:</string>
+<string name="NET_WIFI_SELECT_OTHER_WIFI">רשת אחרת</string>
+<!-- 手动设置ip -->
+<string name="SKY_IP_SETTING_GREATER_THAN_255">אורך לא יחרוג מ-255</string>
+<string name="SKY_IP_SETTING_EMPTY_IP">לא יכול להיות ריק</string>
+    <string name="Sky_IP_SETTING_START_ZERO">IP number start with 0 not allowed</string>
+<string name="SKY_IP_SETTING_INVALID">IP לא חוקי</string>
+<string name="SKY_IP_ASSIGNMENT_TYPE">סוג IP</string>
+    <string name="SKY_IP_DHCP_STATIC">Static</string>
+<string name="SKY_IP_DHCP_DYNAMIC">דינמי</string>
+    <string name="SKY_IP_TEXT">IP</string>
+<string name="SKY_GATEWAY_TEXT">יציאה</string>
+<string name="SKY_MASK_TEXT">מסיכה</string>
+    <string name="SKY_DNS_TEXT">DNS</string>
+    <string name="SKY_BTN_CONNECT_TEXT">Connect</string>
+<!-- 输入网络密码 -->
+<string name="INPUT_WIFI_PWD_HINT">הזן ססמת wifi:</string>
+    <string name="INPUT_WIFI_PWD_EDIT">password</string>
+    <string name="INPUT_WIFI_PWD_ERROR_TIPS">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_1">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_2">Note: the password length is more than 64</string>
+<!-- 旧的网络设置使用，新的这些有可能被引用了 -->
+<string name="SKY_WIFI_OPEN">פתח Wifi</string>
+<string name="SKY_WIFI_CLOSE">Wifi סגור</string>
+<string name="SKY_BTN_SET_WIFI_TEXT">הגדרת IP</string>
+<string name="SKY_WIFI_SELECT_TEXT">בחר WLAN</string>
+<string name="SKY_PUSH_TO_TALK_TEXT">WIFI WPS</string>
+<string name="SKY_OTHER_TEXT">אחרות</string>
+    <string name="SKY_WIFI_NAME_TEXT">SSID</string>
+<string name="SKY_ENCRYPTION_TEXT">פענוח</string>
+<string name="SKY_PASSWORD_TEXT">ססמה:</string>
+<string name="SKY_PWD_LESS_THAN_8_DIGITS">גודל ססמה קטן מ-8</string>
+    <string name="SKY_PWD_NO_EMPTY">Empty password not allowed</string>
+
+<!-- AD -->
+<string name="TV_CFG_SWITCH_AD_TRUE">AD פתוח!</string>
+    <string name="TV_CFG_SWITCH_AD_FALSE">AD is Close!</string>
+    <string name="TV_CFG_SWITCH_AD_NONE">Not Supported</string>
+
+<!-- add_by_wangxian -->
+<string name="install_guide_welcome_message">ברוך הבא למדריך התקנה ראשונה</string>
+<string name="left_item_language">שפה</string>
+<string name="left_item_timezone">אזור זמן</string>
+<string name="left_item_network">רשת</string>
+<string name="left_item_searchmode">חפש מצב</string>
+<string name="next_hint">הבא</string>
+<string name="set_network">הגדרת רשת</string>
+    <string name="installsearch">Search</string>
+<string name="searchhint">לחץ "OK" לכניסה להגדרות</string>
+<string name="netchoise_hint">בחירת רשת</string>
+<string name="netconnection">התחברות לרשת</string>
+<string name="wiresetup">אתרנט</string>
+    <string name="wirelesssetup">WIFI</string>
+<string name="wifiSetup">הגדרת Wifi חם</string>
+    <string name="wifiButtonConnect">Connect</string>
+    <string name="wifiButtonExit">Exit</string>
+<string name="wifiInvialidPwd">סיסמה לא חוקית!</string>
+<!-- add_by_zhuming  -->
+<!-- Aus time zone  -->
+    <string name="TV_CFG_TIMEZONE_WA">Western Australia GMT+8</string>
+    <string name="TV_CFG_TIMEZONE_SA">South Australia GMT+9.5</string>
+    <string name="TV_CFG_TIMEZONE_NT">Northern Territory GMT+9.5</string>
+    <string name="TV_CFG_TIMEZONE_NSW">New South Wales GMT+10</string>
+    <string name="TV_CFG_TIMEZONE_VIC">Victoria GMT+10</string>
+    <string name="TV_CFG_TIMEZONE_QLD">Queensland GMT+10</string>
+    <string name="TV_CFG_TIMEZONE_TAS">Tasmania GMT+10</string>
+<!-- Brazil time zone  -->
+    <string name="TV_CFG_TIMEZONE_F_NORONHA">GMT-2</string>
+    <string name="TV_CFG_TIMEZONE_BUENOS_AIRES">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_BRASILIA">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_NORTHEAST">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_M_GROSSO">GMT-4</string>
+    <string name="TV_CFG_TIMEZONE_ACRE">GMT-5</string>
+
+<!-- PVR  -->
+<string name="str_pvr_listview_item">צפית טקסט</string>
+<string name="str_player_recorder">מקלט</string>
+<string name="str_player_playab">לחזור על A/B</string>
+<string name="str_player_stop">עצור</string>
+<string name="str_player_play">לשחק</string>
+<string name="str_player_pause">הפסקה</string>
+    <string name="str_player_rev">Rev</string>
+    <string name="str_player_ff">FF</string>
+    <string name="str_player_slow">Slow Motion</string>
+    <string name="str_player_time">Time Play</string>
+<string name="str_player_forward">קדימה</string>
+<string name="str_player_backward">לאחור</string>
+<string name="str_pvr_is_recording">מקליט</string>
+<string name="str_pvr_mode_recorde">מקליט..</string>
+<string name="str_pvr_mode_timeshift">Time Shift...</string>
+<string name="str_pvr_usb_free_space">מקום פנוי ב-USB</string>
+    <string name="str_pvr_usb_lable_name">USB Lable Name</string>
+
+<string name="str_pvr_record_exit_confirm">הקלטה ... האם אתה בטוח כדי לצאת?</string>
+<string name="str_pvr_timeshift_exit_confirm">מתבצע Timeshifting...האם לצאת?</string>
+<string name="str_pvr_program_saving">היא להיות מאוחסנת תכנית ... אנא המתן!</string>
+    <string name="str_info_pvr_playback_exit_confirm">Now playback... Do you really want to exit?</string>
+<string name="sky_pvr_support_disk_format">מערכת קבצי PVR תומכת בדיסק בפורמט FAT בלבד!</string>
+<string name="str_pvr_insert_usb">אנא הכנס את דיסק ה-USB ראשון!</string>
+    <string name="sky_pvr_record_false">Record false!</string>
+    <string name="sky_pvr_timeshift_false">Timeshift false!</string>
+    <string name="sky_pvr_disk_outofspace">Disk does not have enough space !</string>
+    <string name="sky_pvr_filesystem_unsupported">please, format your disk for FAT32 !</string>
+    <string name="sky_pvr_support_timeshift_fail">This program do not allow timeshift!</string>
+    <string name="sky_pvr_support_record_fail">This program do not allow record!</string>
+<string name="sky_pvr_record_list">רשימת רישום PVR</string>
+    <string name="sky_pvr_record_list_lcn">LCN</string>
+    <string name="sky_pvr_record_list_channel">Channel</string>
+<string name="sky_pvr_record_list_program">תכנית</string>
+<string name="sky_pvr_record_list_recordtime">שעת הקלטה</string>
+<string name="sky_pvr_record_list_delete">מחק</string>
+    <string name="sky_pvr_record_list_index">Index</string>
+<string name="sky_pvr_record_list_ok">OK</string>
+    <string name="sky_pvr_record_list_yellow">Full Screen</string>
+    <string name="sky_pvr_record_list_descend">Descend</string>
+    <string name="sky_pvr_record_list_ascend">Ascend</string>
+<string name="sky_pvr_record_list_delete_tip">אתה בטוח שברצונך למחוק פריט זה?</string>
+
+<!-- Channel Info  -->
+<string name="str_source_info_channel">ערוץ:</string>
+<string name="str_source_info_audioformat">תבנית שמע:</string>
+    <string name="str_source_info_subtitle">Subtitle:</string>
+<string name="str_source_info_chname">שם ערוץ:</string>
+<string name="str_source_info_videoformat">תבנית וידאו:</string>
+<string name="str_source_info_audiolanguage">שפת שמע:</string>
+<string name="str_source_info_resolution">רזולוציה:</string>
+<string name="str_source_info_age">גיל:</string>
+    <string name="str_source_info_time">Time:</string>
+<string name="str_source_info_programtype">סוג תכנית:</string>
+<string name="str_source_info_programname">שם תכנית:</string>
+<string name="str_source_info_category">קטגורית תכנית:</string>
+    <string name="str_source_info_no_information">No Information</string>
+
+<string name="str_time_hour">שעה</string>
+<string name="str_time_minute">דקה</string>
+<string name="str_time_second">שניות</string>
+
+<string name="str_common">Common</string>
+    <string name="str_scan_atv">ATV</string>
+    <string name="str_scan_dtv">DTV</string>
+<string name="str_scan_atv_dtv">ATV+DTV</string>
+    <string name="str_scan_air">Antena</string>
+<string name="str_scan_cable">כבל</string>
+    <string name="str_scan_air_cable">Antena+Cable</string>
+
+<!-- LNB Setting -->
+<string name="str_lnb_setup_title">הגדרת LNB</string>
+    <string name="str_satellite_list">Satellite</string>
+<string name="str_lnb_setup_list">העדפות</string>
+<string name="str_responder_list">60 דק\'</string>
+<string name="str_lnb_item_add">הוסף</string>
+    <string name="str_lnb_item_Position">Position</string>
+    <string name="str_lnb_item_limit">Limit</string>
+<string name="str_lnb_item_location">מיקום</string>
+<string name="str_lnb_item_scan">סרוק</string>
+    <string name="str_lnb_item_edit">Edit</string>
+<string name="str_lnb_item_delete">מחק</string>
+<string name="str_lnb_signal_quality">איכות</string>
+<string name="str_lnb_signal_strength">עצמה</string>
+<string name="str_lnb_signal_add">הוסף</string>
+    <string name="str_lnb_signal_edit">Edit</string>
+<string name="str_lnb_signal_scan">סרוק</string>
+<string name="str_lnb_signal_delete">מחק</string>
+<string name="str_lnb_signal_number_title">מספר</string>
+<string name="str_lnb_signal_name_title">שם לווין</string>
+    <string name="str_lnb_signal_derection_title">Longitude Derection</string>
+    <string name="str_lnb_signal_angle_title">Longitude Angle</string>
+<string name="str_lnb_signal_band_title">להקה</string>
+<string name="str_lnb_signal_comfirm_button">מתחיל חיפוש</string>
+    <string name="str_lnb_signal_scan_mode_title">Scan Mode</string>
+    <string name="str_lnb_signal_network_search_title">Network Search</string>
+    <string name="str_lnb_signal_service_type_title">Service Type</string>
+<string name="str_lnb_signal_search_option_title">אפשרות חיפוש</string>
+<string name="str_lnb_transponder_frequency">תדר</string>
+<string name="str_lnb_transponder_symbol_rate">שיעור סמל</string>
+    <string name="str_lnb_transponder_polarization">Polarization</string>
+
+<string name="TV_CFG_LNB_LNB_TAPY_UNIVERSAL">UNIVERSAL 9750 / 10600</string>
+<string name="TV_CFG_LNB_LNB_TAPY_MDU_1">MDU1 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_2">MDU2 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_3">MDU3 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_4">MDU4 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_MHZ">5150MHZ 5150 / 5150</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5750_MHZ">5750MHZ 5750 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_5750_MHZ">5150/5750MHZ 5150 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_MHZ">9750MHZ 9750 / 9750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10750_MHZ">10750MHZ 10750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10600_MHZ">10600MHZ 10600 / 10600</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11250_MHZ">11250MHZ 11250 / 11250</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11300_MHZ">11300MHZ 11300 / 11300</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11475_MHZ">11475MHZ 11475 / 11475</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_10700_MHZ">9750/10700MHZ 9750 / 10700</string>
+    <string name="TV_CFG_LNB_LNB_9750_10750_MHZ">9750/10750MHZ 9750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_10000_10450_MHZ">10000/10450MHZ 10000 / 10450</string>
+<string name="TV_CFG_LNB_LNB_USER_MODE">מצב משתמש</string>
+
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_V">V</string>
+    <string name="TV_CFG_DVBS_MANUAL_POLARIZATION_H">H</string>
+    <string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE">Free</string>
+    <string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE_SCRAMBLE">Free+Scramble</string>
+    <string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_SCRAMBLE">Scramble</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_OFF">כבוי</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_ON">דלוק</string>
+    <string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV">DTV</string>
+    <string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV_RADIO">DTV+Radio</string>
+    <string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_RADIO">Radio</string>
+<string name="TV_CFG_LNB_POWER_OFF">כבוי</string>
+    <string name="TV_CFG_LNB_POWER_13V_18V">13V/18V</string>
+    <string name="TV_CFG_LNB_POWER_13V">13V</string>
+    <string name="TV_CFG_LNB_POWER_18V">18V</string>
+    <string name="TV_CFG_LNB_POWER_14V_19V">14V/19V</string>
+    <string name="TV_CFG_LNB_POWER_14V">14V</string>
+    <string name="TV_CFG_LNB_POWER_19V">19V</string>
+<string name="TV_CFG_AUTO">אוטו\'</string>
+<string name="TV_CFG_ON">דלוק</string>
+<string name="TV_CFG_OFF">כבוי</string>
+<string name="TV_CFG_BURST_A">BURST A</string>
+<string name="TV_CFG_BURST_B">BURST B</string>
+
+<string name="TV_CFG_NONE">אף לא אחד</string>
+    <string name="TV_CFG_LNB_1">LNB 1</string>
+    <string name="TV_CFG_LNB_2">LNB 2</string>
+    <string name="TV_CFG_LNB_3">LNB 3</string>
+    <string name="TV_CFG_LNB_4">LNB 4</string>
+    <string name="TV_CFG_LNB_5">LNB 5</string>
+    <string name="TV_CFG_LNB_6">LNB 6</string>
+    <string name="TV_CFG_LNB_7">LNB 7</string>
+    <string name="TV_CFG_LNB_8">LNB 8</string>
+    <string name="TV_CFG_LNB_9">LNB 9</string>
+    <string name="TV_CFG_LNB_10">LNB 10</string>
+    <string name="TV_CFG_LNB_11">LNB 11</string>
+    <string name="TV_CFG_LNB_12">LNB 12</string>
+    <string name="TV_CFG_LNB_13">LNB 13</string>
+    <string name="TV_CFG_LNB_14">LNB 14</string>
+    <string name="TV_CFG_LNB_15">LNB 15</string>
+    <string name="TV_CFG_LNB_16">LNB 16</string>
+
+    <string name="TV_CFG_LNB_DIS_EQC_10_ENUM_TYPE">DisEqc 1.0</string>
+    <string name="TV_CFG_LNB_DIS_EQC_11_ENUM_TYPE">DisEqc 1.1</string>
+    <string name="TV_CFG_LNB_DIS_EQC_12_ENUM_TYPE">DisEqc 1.2</string>
+    <string name="TV_CFG_LNB_DIS_EQC_13_ENUM_TYPE">DisEqc 1.3</string>
+<string-array name="str_lnb_option_list">
+        <item>Transponder</item>
+        <item>LNB Power</item>
+<item>כבל ארוך</item>
+        <item>22KHz Tone</item>
+	<item>LNB Type</item>
+        <item>DisEqC1.0</item>
+        <item>DisEqC1.1</item>
+        <item>Montor</item>
+</string-array>
+<string-array name="str_array_scan_mode">
+        <item>Free</item>
+        <item>Free+Scramble</item>
+        <item>Scramble</item>
+</string-array>
+<string-array name="str_array_network_search_option">
+<item>כבוי</item>
+<item>דלוק</item>
+</string-array>
+<string-array name="str_array_service_type">
+        <item>DTV</item>
+        <item>DTV+Radio</item>
+        <item>Radio</item>
+</string-array>
+<string-array name="str_array_search_option">
+<item>סריקה מהירה</item>
+<item>סריקה מהירה</item>
+</string-array>
+<string name="str_title_motor_setting">הגדרת מנוע</string>
+<string-array name="str_array_move_setup_option">
+<item>עצור</item>
+<item>מזרח</item>
+<item>מערב</item>
+</string-array>
+<string-array name="str_array_longitude_direction_option">
+<item>מזרח</item>
+<item>מערב</item>
+</string-array>
+<string-array name="str_array_latitude_direction_option">
+        <item>North</item>
+        <item>South</item>
+</string-array>
+<string name="str_moto_set_moto_auto">מנוע אוטו\'</string>
+    <string name="str_moto_set_moto_continue">Motor Continue</string>
+<string name="str_moto_set_move_setup">העבר הגדרות</string>
+    <string name="str_moto_set_store_positon">Store Position</string>
+<string name="str_moto_set_go_to_position">עבור למצב</string>
+<string name="str_moto_set_go_to_reference">עבור למקור</string>
+    <string name="str_moto_set_set_west_limit">Set West Limit</string>
+    <string name="str_moto_set_set_east_limit">Set East Limit</string>
+    <string name="str_moto_set_disable_limit">Disable Limit</string>
+<string name="str_moto_set_go_to_x">עבור ל-X</string>
+<string name="str_moto_set_location">מיקום</string>
+<string name="str_moto_set_longitude_direction">כיוון אורך</string>
+    <string name="str_moto_set_longitude_angle">Longitude Angle</string>
+    <string name="str_moto_set_latitude_direction">Latitude Direction</string>
+    <string name="str_moto_set_latitude_angle">Latitude Angle</string>
+<string-array name="str_array_satellite_derection">
+<item>מזרח</item>
+<item>מערב</item>
+</string-array>
+<string-array name="str_array_satellite_band">
+        <item>C</item>
+        <item>Ku</item>
+</string-array>
+    <string-array name="str_array_transponder_polarization">
+        <item>V</item>
+        <item>H</item>
+    </string-array>
+
+<!-- factory hotkey -->
+<string name="str_age_mode">M</string>
+<string name="str_bus_off">BUS OFF</string>
+    <string name="str_mac_addr">MAC ADDR : </string>
+    <string name="str_bar_code">BAR CODE : </string>
+
+<!-- Tips -->
+<string name="str_enter">אישור</string>
+    <string name="str_no_signal">No Signal</string>
+    <string name="str_audio_only">Audio Only</string>
+    <string name="str_data_only">Data Only</string>
+<string name="str_program_lock">נעילת תכנית</string>
+<string name="str_invalid_service">שירות לא חוקי</string>
+<string name="str_no_ci_module">אין מודול CI</string>
+<string name="str_ci_plus_authentication">אימות נוסף CI</string>
+<string name="str_scrambled_program">תכנית משובשת</string>
+    <string name="str_unsupported_format">Unsupported Format</string>
+    <string name="str_auto_adjust">Auto Adjust...</string>
+    <string name="str_please_wait">Please wait...</string>
+    <string name="str_auto_adjust_success">Adjust Success!</string>
+    <string name="str_auto_adjust_fail">Adjust Fail!</string>
+<string name="str_tip_reset_tv">הפעולה תמחק מידע, והפעלת המחשב מחדש, אתה בטוח?</string>
+    <string name="str_tip_off_timer">The time you have set in the past, please re-set!</string>
+    <string name="str_tip_plug_usb">No USB pluged or the format is wrong!</string>
+<string name="str_tip_usb_format">אתה בטוח שכדי לעצב את הדיסק שנבחר?</string>
+<string name="str_tip_usb_checking">בדיקת מהירות..</string>
+<string name="str_tip_unplug_usb">אין לנתק התקן USB!</string>
+    <string name="str_tip_warning_usb_checking">Do you want to check speed of the selected disk?</string>
+<string name="str_tip_delete_program">מחיקת תכנית מוצלחת!</string>
+    <string name="str_tip_last_item">The late one be deleted!</string>
+<string name="str_tip_move_program">העברת תכנית מוצלחת!</string>
+<string name="str_tip_update_channel_list">עדכון רשימת ערוצים מוצלח!</string>
+<string name="str_tip_updating_channel_list">מעדכן רשימת ערוצים, המתן</string>
+<string name="str_tip_empty_channel_list">רשימת ערוצים ריקה!</string>
+    <string name="str_tip_empty_epg_list">The Program No EPG!</string>
+    <string name="str_tip_switch_to_radio">Swtich To Radio!</string>
+    <string name="str_tip_switch_to_dtv">Swtich To DTV!</string>
+    <string name="str_tip_loading_chlist_title">Loading Channel List</string>
+    <string name="str_tip_loading_chlist_content">Please wait...</string>
+<string name="str_tip_ciplus_op_confirmation_title">אשר רענון CI+ OP</string>
+    <string name="str_tip_ciplus_op_refresh">Do you allow TV to do operator profile refresh?</string>
+    <string name="str_tip_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_tip_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+    <string name="str_tip_cha_please_wait">CI invoke route switch ...</string>
+    <string name="str_tip_ci_async_cmd_switch_route">Wait a Moment Please</string>
+    <string name="str_tip_switch_language">Language is switching...Do not operate!</string>
+
+<string name="str_cha_programedit">עריכת תוכנית</string>
+    <string name="str_list_menu_hint_b_skip">Skip</string>
+    <string name="str_list_menu_hint_g_fivorite">Favorite</string>
+    <string name="str_list_menu_hint_g_edit">Edit</string>
+<string name="str_list_menu_hint_r_delete">מחק</string>
+    <string name="str_list_menu_hint_y_move">Move</string>
+    <string name="str_lock_system">Lock System</string>        
+<string name="str_lock">נעילה</string>
+
+<!-- for ci+ op -->
+<string name="str_ciplus_op_confirmation_title">אשר רענון CI+ OP</string>
+    <string name="str_ciplus_op_refresh">Do you allow TV to do operator profile refresh?</string>
+<string name="str_op_menu_title">תפריט פרופילי מפעיל</string>
+    <string name="str_op_channel_list_title">OP Profile Menu</string>
+<string name="str_op_menu">תפריט OP</string>
+    <string name="str_op_forbid_channel_tuning_content">Forbid to do channel tune under OP mode.\nPlease exit OP mode at first.</string>
+    <string name="str_enter_op">Enter OP</string>
+    <string name="str_exit_op">Exit OP</string>
+    <string name="str_delete_profile">Delete Profile</string>
+    <string name="str_delete_op_msg">Are you sure to delete the operator profile [</string>
+<string name="str_delete_op_confirm">אשר מחיקת OP</string>
+<string name="str_forbid_channel_tuning">איסור כוונון ערוץ</string>
+    <string name="str_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+
+
+<!-- for program edit -->
+<string name="str_program_edit_dialog_ok">OK</string>
+<string name="str_program_edit_dialog_cancel">יציאה</string>
+<string name="str_program_edit_dialog_input">הזן</string>
+    <string name="str_no_sinal">No Signal</string>
+    <string name="str_channelList_favorite">Favorite List</string>
+<string name="str_channelList_program">רשימת ערוצים</string>
+    <string name="program_guide_time">Program Guide:Time</string>
+
+<string name="str_stop_record_dialog_title">הפסק הקלטה</string>
+    <string name="str_stop_record_dialog_message">System will stop record if user want to channel change</string>
+    <string name="str_stop_record_playback_dialog_message">System will stop record and playback if user want to channel change</string>
+<string name="str_stop_record_dialog_confirm">אשר</string>
+<string name="str_stop_record_dialog_cancel">יציאה</string>
+<string name="str_stop_record_dialog_stop">עצור</string>
+    <string name="str_stop_playback_dialog_title">STOP PLAYBACKING</string>
+    <string name="str_stop_playback_dialog_message">System will stop playback if user want to channel change</string>
+<string name="str_disk_too_slow">מהירות דיסק נמוכה</string>
+
+
+<string name="str_ci_insert">CI הוכנס</string>
+<string name="str_ci_remove">CI הוצא</string>
+<string name="str_ci_autotest">בדי  אוטו CI</string>
+
+<!-- for program category -->
+    <string name="TV_PROG_CATEGORY_MOVIE">movie</string>  
+<string name="TV_PROG_CATEGORY_NEWS">דיבור</string>
+<string name="TV_PROG_CATEGORY_SHOW">הצג</string>
+<string name="TV_PROG_CATEGORY_SPORT">ספורט</string>
+<string name="TV_PROG_CATEGORY_CHILDREN">ילדים</string>
+<string name="TV_PROG_CATEGORY_MUSIS">מוזיקה</string>
+<string name="TV_PROG_CATEGORY_ARTS">אמנות</string>
+<string name="TV_PROG_CATEGORY_SOCIAL">חברתי</string>
+<string name="TV_PROG_CATEGORY_EDUCATION">חינוך</string>
+<string name="TV_PROG_CATEGORY_LEISURE">פנאי</string>
+<string name="TV_PROG_CATEGORY_SPECIAL">מיוחד</string>
+<string name="TV_PROG_CATEGORY_CONSTANT">רציף</string>
+    <string name="TV_PROG_CATEGORY_USER_DEFINDED">user defined</string> 
+<string name="TV_PROG_CATEGORY_UNDEFINDED">לא מוגדר</string>
+<string name="SKY_CFG_TV_SWITCH_LANG_WILL_REBOOT_TV">TV יבצע אתחול אוטו&#180; אם שפה תוחלף</string>
+<string name="TV_VGA_RESOLUTION_UNSUPPORT">אין תמיכה</string>
+</resources>

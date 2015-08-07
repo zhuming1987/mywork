@@ -1,0 +1,1119 @@
+﻿<resources>
+
+<string name="app_name">Application du téléviseur</string>
+
+<string name="button_ok_str">Oui</string>
+<string name="button_cancel_str">Annuler</string>
+
+<string name="TV_CFG_ON_MODE">On</string>
+<string name="TV_CFG_OFF_MODE">Off</string>
+
+<string name="TV_CFG_QUICK_MENU_SETTING">Quick Menu</string>
+
+<string name="TV_CFG_NO_SIGNAL">SANS SIGNAL</string>
+
+<!-- 3D -->
+<string name="TV_CFG_THREED_SETTING">Réglages 3D</string>
+<string name="TV_CFG_3D_MODE">Mode 3D</string>
+<string name="TV_CFG_3D_MODE_OFF">Off</string>
+<string name="TV_CFG_3D_MODE_AUTO">Auto</string>
+<string name="TV_CFG_3D_MODE_2D_TO_3D">2D à 3D</string>
+<string name="TV_CFG_3D_MODE_SIDE_BY_SIDE">De gauche à droite</string>
+<string name="TV_CFG_3D_MODE_TOP_AND_BOTTOM">De haut en bas</string>
+<string name="TV_CFG_3D_MODE_FRAME_PACKING">Paquet d\'image</string>
+<string name="TV_CFG_3D_DEPTH">Profondeur 3D</string>
+<string name="TV_CFG_3D_LR_SWAP">commutateur gauche-droite</string>
+<string name="TV_CFG_3D_TO_2D">3D à 2D</string>
+<string name="TV_CFG_3D_TO_2D_OFF">Off</string>
+<string name="TV_CFG_3D_TO_2D_LEFT">GAUCHE</string>
+<string name="TV_CFG_3D_TO_2D_RIGHT">DROITE</string>
+
+<!-- CI SEtting -->
+<string name="TV_CFG_CI_SETTING">Informations CI</string>
+<!-- Picture -->
+<string name="TV_CFG_PICTURE_SETTING">Paramètres d\'image</string>
+<string name="TV_CFG_BRIGHTNESS">Luminosité</string>
+<string name="TV_CFG_CONTRAST">Contraste</string>
+<string name="TV_CFG_COLOR">Couleur</string>
+<string name="TV_CFG_HUE">Hue</string>
+<string name="TV_CFG_NTSC_HUE">Teint </string>
+<string name="TV_CFG_COLOR_TEMPERATURE">Temp. de couleur</string>
+<string name="TV_CFG_SHARPNESS">Netteté</string>
+<string name="TV_CFG_DNR">DNR</string>
+<string name="TV_CFG_MPEG_NR">MPEG NR</string>
+<string name="TV_CFG_DNR_OFF">Off</string>
+<string name="TV_CFG_DNR_LOW">Bas</string>
+<string name="TV_CFG_DNR_MID">Moyen</string>
+<string name="TV_CFG_DNR_HIGH">Haut</string>
+<string name="TV_CFG_DNR_AUTO">Auto</string>
+<string name="TV_CFG_MPEG_NR_OFF">Off</string>
+<string name="TV_CFG_MPEG_NR_LOW">Bas</string>
+<string name="TV_CFG_MPEG_NR_MID">Moyen</string>
+<string name="TV_CFG_MPEG_NR_HIGH">Haut</string>
+<string name="TV_CFG_DREAM_PANEL">DLC</string>
+<string name="TV_CFG_DREAM_PANEL_OFF">Off</string>
+<string name="TV_CFG_DREAM_PANEL_LIGHT_SENSOR">Capteur de lumière</string>
+<string name="TV_CFG_DREAM_PANEL_IMAGE_DETECT">Image</string>
+<string name="TV_CFG_DREAM_PANEL_MULTI_DETECT">Multi</string>
+<string name="TV_CFG_DREAM_PANEL_SWITCH">Interrupteur Dream panel</string>
+<string name="TV_CFG_DTV_DISPLAY_MODE">Mode d\'affichage</string>
+<string name="TV_CFG_DISPLAY_MODE">Mode d\'affichage</string>
+<string name="TV_CFG_DISPLAY_MODE_16_9">16:9</string>
+<string name="TV_CFG_DISPLAY_MODE_4_3">4:3</string>
+<string name="TV_CFG_VIDEO_DISPLAY_MODE_DEFAULT">Défaut</string>
+<string name="TV_CFG_DISPLAY_MODE_MOVIE">FILM</string>
+<string name="TV_CFG_DISPLAY_MODE_CAPTION">Caption</string>
+<string name="TV_CFG_DISPLAY_MODE_PANORAMA">Panorama</string>
+<string name="TV_CFG_DISPLAY_MODE_PERSON">Personne</string>
+<string name="TV_CFG_DISPLAY_MODE_AUTO">Auto</string>
+<string name="TV_CFG_DISPLAY_MODE_JUST_SCAN">Indigène</string>
+<string name="TV_CFG_DISPLAY_MODE_P2P">P2P</string>
+<string name="TV_CFG_DISPLAY_MODE_DEFAULT">Défaut</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM1">Zoom1</string>
+<string name="TV_CFG_DISPLAY_MODE_ZOOM2">Zoom2</string>
+<string name="TV_CFG_PICTURE_MODE">Mode Image</string>
+<string name="TV_CFG_PICTURE_MODE_VIVID">Vif</string>
+<string name="TV_CFG_PICTURE_MODE_SOFT">Doux</string>
+<string name="TV_CFG_PICTURE_MODE_GAME">Jeu</string>
+<string name="TV_CFG_PICTURE_MODE_NATURAL">Naturel</string>
+<string name="TV_CFG_PICTURE_MODE_SPORTS">Sports</string>
+<string name="TV_CFG_PICTURE_MODE_PC">PC</string>
+    <string name="TV_CFG_PICTURE_MODE_DYMANIC">Dymanic</string>
+<string name="TV_CFG_PICTURE_MODE_USER">MODE UTILISATEUR</string>
+<string name="TV_CFG_PICTURE_MODE_STANDARD">Standard</string>
+<string name="TV_CFG_PICTURE_MODE_4K_CINEMA">4K cinéma</string>
+<string name="TV_CFG_NOSIGNAL">SANS SIGNAL</string>
+<string name="TV_CFG_NOTSUPPORTED">Non pris en charge</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_WARM">Chaud</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_STANDARD">Standard</string>
+<string name="TV_CFG_COLOR_TEMPERATURE_COOL">Froid</string>
+    <string name="TV_CFG_LOCAL_DIMMING_MODE">Local Dim.</string>
+<string name="TV_CFG_LOCAL_DIMMING_OFF_MODE">Fermer</string>
+<string name="TV_CFG_LOCAL_DIMMING_ON_MODE">Ouvrir</string>
+<string name="TV_CFG_CINEMA_MODE">Mode Cinéma</string>
+<string name="TV_CFG_MANUAL_BACKLIGHT_ADJUST">Contre-jour</string>
+<string name="TV_CFG_MEMC_MODE">MEMC</string>
+<string name="TV_CFG_MEMC_MODE_OFF">Off</string>
+<string name="TV_CFG_MEMC_MODE_LOW">Bas</string>
+<string name="TV_CFG_MEMC_MODE_MID">MID</string>
+<string name="TV_CFG_MEMC_MODE_HIGH">Haut</string>
+
+<!-- Sound -->
+<string name="TV_CFG_SOUND_SETTING">Réglages du son</string>
+<string name="TV_CFG_VOLUME">Volume</string>
+<string name="TV_CFG_AUDIO_MUTE">Muet</string>
+<string name="TV_CFG_SOUND_MODE">Mode Son</string>
+<string name="TV_CFG_BASS">Basse</string>
+<string name="TV_CFG_TREBLE">Soprano</string>
+<string name="TV_CFG_BALANCE">Balance</string>
+<string name="TV_CFG_SURROUND">Environnement</string>
+<string name="TV_CFG_SOUND_CLARITY">Voix</string>
+<string name="TV_CFG_TRUBASS">Trubass</string>
+<string name="TV_CFG_SUBWOOFER">SubWoofer</string>
+<string name="TV_CFG_SUBWOOFER_VOLUME">S.W.VOL</string>
+<string name="TV_CFG_WALL_SOUND_EFFECTS">Wall-M.S.E.</string>
+<string name="TV_CFG_SOUND_SPDIF">SPDIF</string>
+<string name="TV_CFG_SOUND_SPDIF_SOURCE">brut</string>
+<string name="TV_CFG_SOUND_SPDIF_PCM">PCM</string>
+<string name="TV_CFG_SOUND_SEPERATE">AUDIO SEULEMENT</string>
+<string name="TV_CFG_SOUND_MODE_STANDARD">Standard</string>
+<string name="TV_CFG_SOUND_MODE_NEWS">Voix</string>
+<string name="TV_CFG_SOUND_MODE_MUSIC">MUSIQUE</string>
+<string name="TV_CFG_SOUND_MODE_MOVIE">FILM</string>
+<string name="TV_CFG_SOUND_MODE_SPORTS">Sports</string>
+<string name="TV_CFG_SOUND_MODE_USER">MODE UTILISATEUR</string>
+<string name="TV_CFG_EQUALIZER_SETTING">Equilibrer</string>
+<string name="TV_CFG_EQUALIZER">Equilibrer</string>
+<string name="TV_CFG_EQUALIZER_100HZ">100 Hz</string>
+<string name="TV_CFG_EQUALIZER_500HZ">500HZ</string>
+    <string name="TV_CFG_EQUALIZER_1KHZ">1KHZ</string>
+<string name="TV_CFG_EQUALIZER_3KHZ">3KHZ</string>
+<string name="TV_CFG_EQUALIZER_10KHZ">10KHZ</string>
+<string name="TV_CFG_MTS_MODE">MTS</string>
+<string name="TV_CFG_NICAM_MODE">Nicam</string>
+<string name="TV_CFG_AVL">AVL</string>
+<string name="TV_CFG_BBE_SOUND">BBE</string>
+<string name="TV_CFG_AUDIO_LANGUAGE">Langue audio</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING">Langue audio</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE">Mode audio</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LL">LL</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_LR">STEREO</string>
+    <string name="TV_CFG_AUDIO_LANGUAGE_SETTING_AUDIO_MODE_RR">RR</string>
+
+
+<!-- MTS/NICAM -->
+<string name="TV_CFG_AUDIOMODE_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_A">DUAL I</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_AB">DUAL I+II</string>
+<string name="TV_CFG_AUDIOMODE_DUAL_B">DUAL II</string>
+<string name="TV_CFG_AUDIOMODE_FORCED_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_G_STEREO">STEREO</string>
+<string name="TV_CFG_AUDIOMODE_HIDEV_MONO">HIDEV MONO</string>
+<string name="TV_CFG_AUDIOMODE_NUM">MONO</string>
+<string name="TV_CFG_AUDIOMODE_INVALID">MONO</string>
+<string name="TV_CFG_AUDIOMODE_K_STEREO">STEREO</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_LEFT">GAUCHE GAUCHE</string>
+<string name="TV_CFG_AUDIOMODE_LEFT_RIGHT">GAUCHE DROITE</string>
+<string name="TV_CFG_AUDIOMODE_MONO_SAP">SAP</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_A">DUAL I</string>
+    <string name="TV_CFG_AUDIOMODE_NICAM_DUAL_AB">DUAL I/II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_DUAL_B">DUAL II</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_MONO">MONO</string>
+<string name="TV_CFG_AUDIOMODE_NICAM_STEREO">STEREO</string>
+<string name="TV_CFG_AUDIOMODE_RIGHT_RIGHT">DROITE DROITE</string>
+<string name="TV_CFG_AUDIOMODE_STEREO_SAP">SAP</string>
+
+<!-- Installed -->
+<string name="TV_CFG_CHANNEL_SETTING">Installation</string>
+<string name="TV_CFG_AUTO_SEARCH">Auto installation</string>
+<string name="TV_CFG_MANUAL_SEARCH">Recherche MANUELLE</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM">Système couleur</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM">Système Son</string>
+<string name="TV_CFG_SEARCH_TYPE">Type de recherche</string>
+    <string name="TV_CFG_FIVE_ATENNA">5V Atenna</string>
+<string name="TV_CFG_START_AUTO_SEARCH">Démarrer la recherche</string>
+<string name="TV_CFG_CHANNEL_EDIT">Channel Edit</string>
+<string name="TV_CFG_FAVORITE_LIST">Liste des Favoris</string>
+<string name="TV_CFG_CHANNEL_LIST">Liste des chaînes</string>
+<string name="TV_CFG_SIGNAL_INFO">Informations de signal</string>
+<string name="TV_CFG_CHANNEL_NO">N° de chaîne</string>
+<string name="TV_CFG_FREQUENCY_SET">Fréquence</string>
+<string name="TV_CFG_TV_CHANNEL_SKIP">Changer de chaîne</string>
+<string name="TV_CFG_TV_SEARCH_ATV">ATV</string>
+<string name="TV_CFG_TV_SEARCH_DTV">DTV</string>
+<string name="TV_CFG_TV_SEARCH_ATV_DTV">DTV+ATV</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_AUTO">Auto</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_BGHI">PAL</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_N">PAL_N</string>
+    <string name="TV_CFG_TV_COLOR_SYSTEM_PAL_M">PAL_M</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_PAL_60">PAL</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_M">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_NTSC_44">NTSC</string>
+<string name="TV_CFG_TV_COLOR_SYSTEM_SECAM">SECAM</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_I">I</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_DK">D/K</string>
+    <string name="TV_CFG_TV_SOUND_SYSTEM_BG">B/G</string> 
+<string name="TV_CFG_TV_SOUND_SYSTEM_M">M</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_L">L</string>
+<string name="TV_CFG_TV_SOUND_SYSTEM_M_BTSC">M</string>
+<string name="TV_CFG_EPG_REPEAT_ONCE">Une fois</string>
+<string name="TV_CFG_EPG_REPEAT_WEEKLY">Hebdomadaire</string>
+<string name="TV_CFG_EPG_REPEAT_DAILY">Tous les jours</string>
+<string name="TV_CFG_SEARCH_TYPE_ATV">ATV</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBT">DVB_T</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBS">DVB_S</string>
+    <string name="TV_CFG_SEARCH_TYPE_DVBC">DVB_C</string>
+<string name="TV_CFG_SEARCH_TYPE_DTMB">DTMB</string>
+<string name="signal_info_title">Informations de signal</string>
+<string name="TV_CFG_CI_INFORMATION">Informations CI</string>
+<string name="TV_CFG_DVBS_AUTO_SEARCH">DVB_S AutoSearch</string>
+<string name="TV_CFG_DVBT_AUTO_SEARCH">DVB_T AutoSearch</string>
+<string name="TV_CFG_DVBC_AUTO_SEARCH">DVB_C AutoSearch</string>
+<string name="str_channel_edit_r_delete">Supprimer</string>
+<string name="str_channel_edit_g_sort">Trier</string>
+<string name="str_channel_edit_y_favorite">Préféré</string>
+<string name="str_channel_edit_b_skip">SAUTER</string>
+<string name="str_channel_edit_g_lock">Vérrouiller</string>
+<string name="str_channel_edit_ok_move">DÉPLACER</string>
+<string name="TV_CFG_LNB_SETTING">Réglage LNB</string>
+<string name="TV_CFG_DVBS_MODULATION">Satellite</string>
+<string name="str_ci_channellist_op_menu">Menu des profiles d\'opérateur</string>
+    <string name="str_ci_channellist_op_del">Delete Profile</string>
+    <string name="str_ci_channellist_exit_op">Exit Op</string>
+    <string name="str_ci_channellist_enter_op">Enter Op</string>
+<string name="str_ci_channellist_op_title">Liste des chaînes OP</string>
+    <string name="str_ci_channellist_op_del_msg">Are you sure to delete \rthe operator profile [</string>
+
+<!-- Setup -->
+<string name="TV_CFG_SYSTEM_SETTING">Préférences</string>
+<string name="TV_CFG_CAPTION_ONOFF">Caption</string>
+    <string name="TV_CFG_CC_MODE">CCMode</string>
+<string name="TV_CFG_LANGUAGE">Langue</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE">Titre Langue</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE_AUTO">Auto</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_VIDEO">16~235</string>
+    <string name="TV_CFG_HDMI_COLOR_RANGE_GRAPHIC">0~255</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC">HDMI-CEC ON/OFF</string>
+<string name="TV_CFG_HDMI_ONOFF_CEC_AUTO_STANDBY">Auto de secours</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST">Liste de dispositifs</string>
+<string name="TV_CFG_TELETEXT_LANGUAGE">Langue TTX</string>
+<string name="TTX_LANG_RUSSIAN">RUSSE</string>
+<string name="TTX_LANG_EAST">EST</string>
+<string name="TTX_LANG_ARABIC">ARABE</string>
+<string name="TTX_LANG_FARSI">FARSI</string>
+<string name="TTX_LANG_WEST">OUEST</string>
+<string name="TV_CFG_TIME_SHIFT">décalage danstemps</string>
+<string name="TV_CFG_TIME">Réglage de l\'heure</string>
+<string name="TV_CFG_CURRENT_TIME">Heure actuelle</string>
+<string name="TV_CFG_TIME_ZONE">Fuseau Horaire</string>
+<string name="TV_CFG_TIME_ZONE_SETTING">Fuseau Horaire</string>
+<string name="TV_CFG_DAY_LIGHT_SAVING">Heure d\'été</string>
+<string name="TV_CFG_SLEEP_TIMER">Fonction de veille</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TITLE">Décompte</string>
+<string name="TV_CFG_SLEEP_TIMER_COUNT_DOWN_DIALOG_TIP_TEXT">Appuyez sur Back pour quitter</string>
+<string name="TV_CFG_OFF_TIMER">Programmateur d\'arrêt</string>
+<string name="TV_CFG_ENGERY_SAVING">Économie d\'énergie</string>
+<string name="TV_CFG_AUTO_OFF">Arrêt automatique</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_10">10s</string>
+    <string name="TV_CFG_MEMU_SHOW_TIME_20">20s</string>
+<string name="TV_CFG_MEMU_SHOW_TIME_ALWAYS">Toujours</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_OFF">Off</string>
+<string name="TV_CFG_TV_MENU_STICKER_DEMO_ON">On</string>
+<string name="TV_CFG_PVR">Système PVR</string>
+<string name="TV_CFG_PVR_SELECT_DISK">Select Disk</string>
+<string name="TV_CFG_PVR_SELECT_USB">Sélectionner USB</string>
+<string name="TV_CFG_PVR_USB_SPEED">Débit du dispositif USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE">Taille du TimeShift</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_512M">512M</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_1G">1G</string>
+<string name="TV_CFG_PVR_TIMESHIFT_SIZE_2G">2G</string>
+    <string name="TV_CFG_PVR_TIMESHIFT_SIZE_4G">4G</string>
+<string name="TV_CFG_PVR_USB_FORMAT">Format du dispositif USB</string>
+<string name="TV_CFG_PVR_TIMESHIFT_ALWAYS">Autoriser TimeShift</string>
+<string name="TV_CFG_HDMI_COLOR_RANGE">Gamme de couleurs</string>
+<string name="TV_CFG_HDMI_CEC_MENU_LIST">HDMI-CEC</string>
+<string name="TV_CFG_MENU_SHOW_TIME">Menu show time</string>
+<string name="TV_CFG_STICKER_DEMO">démo d\'autocollant</string>
+<string name="TV_CFG_SLEEP_TIMER_OFF">Off</string>
+<string name="TV_CFG_SLEEP_TIMER_5_MINUTES">5 min</string>
+<string name="TV_CFG_SLEEP_TIMER_15_MINUTES">15 min</string>
+    <string name="TV_CFG_SLEEP_TIMER_30_MINUTES">30 min</string>
+    <string name="TV_CFG_SLEEP_TIMER_60_MINUTES">60 Min</string>
+<string name="TV_CFG_SLEEP_TIMER_90_MINUTES">90 min</string>
+    <string name="TV_CFG_SLEEP_TIMER_120_MINUTES">120 Min</string>
+<string name="TV_CFG_AUTO_SLEEP">Mise en auto</string>
+<string name="TV_CFG_AUTO_SLEEP_OFF">Off</string>
+<string name="TV_CFG_AUTO_SLEEP_1_HOURS">1 heure</string>
+<string name="TV_CFG_AUTO_SLEEP_2_HOURS">2 Heures</string>
+<string name="TV_CFG_AUTO_SLEEP_3_HOURS">3 heures</string>
+<string name="TV_CFG_AUTO_SLEEP_4_HOURS">4 heures</string>
+    <string name="TV_CFG_NO_SIGNAL_SLEEP">No Signal Sleep</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_OFF">Off</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_5_MINUTES">5 min</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_10_MINUTES">10 min</string>
+<string name="TV_CFG_NO_SIGNAL_SLEEP_15_MINUTES">15 min</string>
+<string name="TV_CFG_TIME_YEAR">Année</string>
+<string name="TV_CFG_TIME_MONTH">Mois</string>
+<string name="TV_CFG_TIME_DAY">Journée</string>
+<string name="TV_CFG_TIME_HOUR">Heure</string>
+<string name="TV_CFG_TIME_MINUTE">Minute</string>
+    <string name="TV_CFG_START_OFF_TIME">Press "Enter to Set OffTime"</string>
+<string name="TV_CFG_REBOOT_SYSTEM">Redémarrer le système</string>
+<string name="TV_CFG_RECOVERY">Réinitialiser la télévision</string>
+<string name="TV_CFG_HDMID_CEC_DEVICE_LIST_SETTING">Liste de dispositifs</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_AUTO">Auto</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_ON">On</string>
+<string name="TV_CFG_DAYLIGHT_SAVING_MODE_OFF">Off</string>
+<string name="TV_CFG_CAPTION_ON">On</string>
+	<string name="TV_CFG_CAPTION_ON_MUTE">ON MUTE</string>
+<string name="TV_CFG_CAPTION_OFF">Off</string>
+<string name="TV_CFG_CC_MODE_OFF">Off</string>
+<string name="TV_CFG_CC_MODE_CC1">CC1</string>
+<string name="TV_CFG_CC_MODE_CC2">CC2</string>
+<string name="TV_CFG_CC_MODE_CC3">CC3</string>
+<string name="TV_CFG_CC_MODE_CC4">CC4</string>
+<string name="TV_CFG_CC_MODE_TXT1">TXT1</string>
+<string name="TV_CFG_CC_MODE_TXT2">TXT2</string>
+<string name="TV_CFG_CC_MODE_TXT3">TXT3</string>
+<string name="TV_CFG_CC_MODE_TXT4">TXT4</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SET">Réglage de la langue audio</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_PRIMARY_SET">Langue Audio principale</string>
+<string name="TV_CFG_AUDIO_LANGUAGE_SECOND_SET">Langue Audio secondaire</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SWITCH">Basculer de langue de sous-titre</string>
+
+<!-- OSDLanguage -->
+<string name="TV_CFG_OSD_LANGUAGE_ENGLISH">English</string>
+    <string name="TV_CFG_OSD_LANGUAGE_THAI">ภาษาไทย</string>
+    <string name="TV_CFG_OSD_LANGUAGE_ARABIC">العربية</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FARSI">فارسی</string>
+    <string name="TV_CFG_OSD_LANGUAGE_RUSSIAN">русский</string>
+    <string name="TV_CFG_OSD_LANGUAGE_FRENCH">française</string>
+    <string name="TV_CFG_OSD_LANGUAGE_HEBREW">עברית שפה</string>
+    <string name="TV_CFG_OSD_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+<string name="TV_CFG_OSD_LANGUAGE_INDONESIAN">Indonésienne</string>
+    <string name="TV_CFG_OSD_LANGUAGE_PORTUGUESE">português</string>
+    <string name="TV_CFG_OSD_LANGUAGE_SPANISH">español</string>
+    <string name="TV_CFG_OSD_LANGUAGE_TURKISH">Türk dili</string>
+<string name="TV_CFG_OSD_LANGUAGE_GERMAN">Deutsch</string>
+<string name="TV_CFG_OSD_LANGUAGE_CZECH">Tchèque</string>
+<string name="TV_CFG_OSD_LANGUAGE_DANISH">Danois</string>
+<string name="TV_CFG_OSD_LANGUAGE_GREEK">Grecque</string>
+<string name="TV_CFG_OSD_LANGUAGE_CROATIAN">Croate</string>
+<string name="TV_CFG_OSD_LANGUAGE_ITALIAN">Italien</string>
+<string name="TV_CFG_OSD_LANGUAGE_HUNGARIAN">Hongroise</string>
+<string name="TV_CFG_OSD_LANGUAGE_DUTCH">Néerlandais</string>
+<string name="TV_CFG_OSD_LANGUAGE_NORWEGIAN"></string>
+<string name="TV_CFG_OSD_LANGUAGE_POLISH">Polonais</string>
+<string name="TV_CFG_OSD_LANGUAGE_ROMANIAN">Roumain</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVENIAN">Slovène</string>
+<string name="TV_CFG_OSD_LANGUAGE_SERBIAN">Serbe</string>
+<string name="TV_CFG_OSD_LANGUAGE_FINNISH">Finlandais</string>
+<string name="TV_CFG_OSD_LANGUAGE_SWEDISH">Suédois</string>
+<string name="TV_CFG_OSD_LANGUAGE_BULGARIAN">Bulgare</string>
+<string name="TV_CFG_OSD_LANGUAGE_SLOVAK">Slovaque</string>
+<string name="TV_CFG_OSD_LANGUAGE_CHINESE">Chinois</string>
+<string name="TV_CFG_OSD_LANGUAGE_GAELIC">Gaélique</string>
+<string name="TV_CFG_OSD_LANGUAGE_WELSH">Gallois</string>
+<string name="TV_CFG_OSD_LANGUAGE_IRISH">Irlandais</string>
+<string name="TV_CFG_OSD_LANGUAGE_LATVIAN">Letton</string>
+<string name="TV_CFG_OSD_LANGUAGE_ESTONIAN">Estonien</string>
+<string name="TV_CFG_OSD_LANGUAGE_GALLEGAN">Galicienne</string>
+<string name="TV_CFG_OSD_LANGUAGE_BASQUE">Basque</string>
+<string name="TV_CFG_OSD_LANGUAGE_CATALAN">Catalan</string>
+<string name="TV_CFG_OSD_LANGUAGE_ICELANDIC">Islandais</string>
+<string name="TV_CFG_OSD_LANGUAGE_LETZEBURGESCH">Luxembourgeois</string>
+<string name="TV_CFG_OSD_LANGUAGE_LITHUANIAN">Lituanien</string>
+<string name="TV_CFG_OSD_LANGUAGE_UKRAINIAN">Ukrainien</string>
+<string name="TV_CFG_OSD_LANGUAGE_BYELORUSSIAN">Biélorussie</string>
+<string name="TV_CFG_OSD_LANGUAGE_MAORI">Maori</string>
+<string name="TV_CFG_OSD_LANGUAGE_MANDARIN">Mandarin</string>
+<string name="TV_CFG_OSD_LANGUAGE_CANTONESE">Cantonais</string>
+<string name="TV_CFG_OSD_LANGUAGE_KOREAN">Coréen</string>
+<string name="TV_CFG_OSD_LANGUAGE_JAPANESE">Japonais</string>
+<string name="TV_CFG_OSD_LANGUAGE_HINDI">Hindi</string>
+
+
+<!-- SubtitleLanguage -->
+<string name="TV_CFG_SUBTITLE_LANGUAGE_OFF">Off</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_ARABIC">التطبيق المتجر</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_ENGLISH">English</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_IRANIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_FRENCH">Française</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_INDONESIAN">findonesia</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_HEBREW">עברית שפה</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_RUSSIAN">русский</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_TAHITIAN">ภาษาไทย</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_VIETNAMESE">tiếng Việt</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE_CHS">简体中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_CHINESE">繁體中文</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_PERSIAN">فارسی</string>
+	<string name="TV_CFG_SUBTITLE_LANGUAGE_SPANISH">Inglés</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_UNKNOWN">INCONNU</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SETTING">Réglage langue de sous-titre</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_PRIMARY">Langue sous-titres principale</string>
+<string name="TV_CFG_SUBTITLE_LANGUAGE_SECONDE">Langue sous-titres secondaire</string>
+
+<!-- VGA Setup -->
+<string name="TV_CFG_VGA_SETTING">VGA</string>
+<string name="TV_CFG_SCART_SETTING">SCART</string>
+<string name="TV_CFG_VGA_AUTO_ADJUST">Réglage automatique</string>
+<string name="TV_CFG_VGA_H_POSITION">Position H.</string>
+<string name="TV_CFG_VGA_V_POSITION">Position V.</string>
+<string name="TV_CFG_VGA_PHASE">Phase</string>
+<string name="TV_CFG_VGA_FREQUENCY">Horaire</string>
+
+<!-- Lock-->
+<string name="TV_CFG_LOCK_SETTING">Vérrouiller</string>
+<string name="TV_CFG_LOCK_KEY_EVENT_LOCK">Panel Lock</string>
+<string name="TV_CFG_LOCK_INPUT_PASSWORD">Saisir mot de passe</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD">Changer mot passe</string>
+<string name="TV_CFG_LOCK_COMFIRM_PASSWORD">Conformez le mot de passe</string>
+<string name="TV_CFG_LOCK_AGE_LIST">Contrôle parental</string>
+<string name="TV_CFG_PANEL_LOCK">Panel lock</string>
+<string name="TV_CFG_LOCK_CHANNEL_LIST">Bloquer programme</string>
+<string name="TV_CFG_LOCK_SYSTEM_LOCK">Verrouillage du système</string>
+<string name="TV_CFG_LOCK_SET_LOCK_PARENTAL_CONTROL_RATING_NUMBER">Contrôle parental</string>
+<string name="TV_CFG_LOCK_RATING_0">Vide</string>
+<string name="TV_CFG_LOCK_RATING_1">4</string>
+    <string name="TV_CFG_LOCK_RATING_2">5</string>
+    <string name="TV_CFG_LOCK_RATING_3">6</string>
+    <string name="TV_CFG_LOCK_RATING_4">7</string>
+    <string name="TV_CFG_LOCK_RATING_5">8</string>
+    <string name="TV_CFG_LOCK_RATING_6">9</string>
+
+    <string name="TV_CFG_LOCK_RATING_7">10</string>
+    <string name="TV_CFG_LOCK_RATING_8">11</string>
+    <string name="TV_CFG_LOCK_RATING_9">12</string>
+    <string name="TV_CFG_LOCK_RATING_10">13</string>
+    <string name="TV_CFG_LOCK_RATING_11">14</string>
+    <string name="TV_CFG_LOCK_RATING_12">15</string>
+    <string name="TV_CFG_LOCK_RATING_13">16</string>
+    <string name="TV_CFG_LOCK_RATING_14">17</string>
+    <string name="TV_CFG_LOCK_RATING_15">18</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD_SUCCESS">Mot de passe modifié</string>
+<string name="TV_CFG_LOCK_CHANGE_PASSWORD_FAIL">Échec de la modification du mot de passe</string>
+
+<!-- Channel Search -->
+<string name="channel_programs">Émissions</string>
+<string name="channel_info">Infos des chaînes</string>
+<string name="mannual_search">Recherche MANUELLE</string>
+<string name="are_you_sure_stop_DTV_search">Êtes-vous sûr de vouloir quitter le mode de réglage de la télévision?</string>
+<string name="symbol_rate">Taux de symbole</string>
+<string name="band_width">Bande passante</string>
+<string name="module_mode">Modulation</string>
+<string name="signal_quality">Qualité du signal</string>
+<string name="signal_strength">Intensité du signal</string>
+<string name="signal_network">Réseau</string>
+<string name="signal_tsid">Transport Stream</string>
+<string name="signal_server">Serveur</string>
+<string name="signal_modulation">Modulation</string>
+<string name="search_progress">Progression de la recherche</string>
+<string name="program_tv">Programmes de télévision</string>
+<string name="program_dtv">Programmes DTV</string>
+<string name="program_radio">Programmes radio</string>
+<string name="program_data">Programmes des données</string>
+<string name="search_channel">Ajustement</string>
+<string name="auto_search">ATV Auto installation</string>
+<string name="frequency_adjust">Ajustement des fréquences</string>
+<string name="nit_search">Recherche complète des chaînes</string>
+    <string name="channel_setting">Channel settings</string>
+<string name="enter">Entrer</string>
+<string name="frequency">Fréquence</string>
+<string name="frequency_segment">Seg.CH</string>
+    <string name="channel_count">Channel Count></string>
+<string name="crt_channel_num">Numéro de chaîne en cours</string>
+
+    <string name="start_fine_search">Press "Left" or "Right" to fine search</string>
+<string name="start_manual_search">Appuyez longuement sur «Gauche» ou «Droite» pour démarrer la recherche manuelle</string>
+    <string name="back_hint">Appuyez sur Back pour quitter</string>
+<string name="frequencypoint_setting">Paramètres de fréquence</string>
+<string name="video_vod">Video on Demand</string>
+<string name="main_frequencypoint">Fréquence principale</string>
+    <string name="loader_frequencypoint">Loader frequency</string>
+<string name="start_frequency">Fréquence de départ</string>
+<string name="end_frequency">Fréquence de fin</string>
+<string name="crt_frequency">Fréquence actuelle</string>
+<string name="start_search">Lancer la recherche</string>
+<string name="confirm">OK</string>
+<string name="cancel">Annuler</string>
+
+    <string name="not_empty">can not be empty</string>
+<string name="city_setting">Paramètres régionaux</string>
+<string name="switch_city">Modifier la région</string>
+<string name="save">Enregistrer</string>
+
+<!-- EPG-->
+<string name="epgmanagetitle">EPG</string>
+<string name="epgchannellist">Liste des chaînes</string>
+<string name="epgchanneldate">Date</string>
+<string name="epgprogramname">le nom du programme</string>
+<string name="epginfomation">Information</string>
+<string name="epgtipsschedule">Annexe Liste</string>
+<string name="epgtipsreminder">Réglage de rappel</string>
+<string name="epgtipsrecord">les paramètres d enregistrement</string>
+<string name="epgsettingmode">Mode</string>
+<string name="epgsettingtime">HEURE</string>
+<string name="epgscheduledelete">Supprimer</string>
+<string name="epg_recodesetting_channel">CHAINE</string>
+<string name="epg_recodesetting_repeat">Mode de répétition</string>
+<string name="epg_recodesetting_startmonth">Mois de début</string>
+<string name="epg_recodesetting_startdate">Date</string>
+<string name="epg_recodesetting_starthour">Heure</string>
+<string name="epg_recodesetting_startminute">Minute</string>
+<string name="epg_recodesetting_endmonth">Fin du mois</string>
+<string name="epg_recodesetting_enddate">Date</string>
+<string name="epg_recodesetting_endhour">Heure</string>
+<string name="epg_recodesetting_endminute">Minute</string>
+<string name="epg_remindsetting_month">Mois</string>
+<string name="epg_mode_reminder">rappel</string>
+<string name="epg_mode_recorder">Enregistreur</string>
+    <string name="epg_setting_button">Press "OK" to Setting</string>
+<string-array name="epg_record_moths">
+<item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+
+</string-array>
+<string-array name="epg_record_days">
+<item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+</string-array>
+<string-array name="epg_record_hours">
+ <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+</string-array>
+<string-array name="epg_record_minutes">
+ <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+</string-array>
+<string-array name="epg_record_repeate_mode">
+<item>Une fois</item>
+<item>Tous les jours</item>
+<item>Hebdomadaire</item>
+</string-array>
+<string-array name="epg_record_time_tips">
+<item>Vide</item>
+<item>Réussi</item>
+<item>Ancien</item>
+<item>Superposition</item>
+        <item>Endtime Before Start</item>
+        <item>Endtime Exceed Period</item>
+<item>Plein</item>
+<item>Nouveau conflit de rappel</item>
+<item>Rappel de conflit DB</item>
+</string-array>
+<string name="SKY_SUCCESS">Réussi</string>
+<string name="str_epg_schedule_y_back">Retour</string>
+<string name="str_epg_schedule_r_delete">Supprimer</string>
+
+<string name="SKY_SEARCH">Rechercher</string>
+<string name="SKY_H_DIRECTION_KEY">pour déplacer le curseur à gauche et à droite</string>
+<string name="SKY_V_DIRECTION_KEY">pour déplacer le curseur de haut en bas</string>
+<string name="SKY_DELETE">Supprimer</string>
+    <string name="SKY_SHUTTLE_ROTATE">Shuttle toggle selection</string>
+<string name="SKY_SEARCH_LEFTKEY">appuyez sur le bouton Gauche pour supprimer</string>
+<string name="SKY_SEARCH_TEXT">Recherche d initiales Pinyin</string>
+
+<!-- 网络部分 -->
+<string name="NET_WIFI_HOT_SPOT">Hotspots</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_OPEN">Ouvrir</string>
+<string name="NET_WIFI_HOT_SPOT_WIFI_CLOSE">Fermer</string>
+<string name="NET_WIFI_HOT_SPOT_NAME">Nom du Hotspot</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_SET">Cryptage</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_OPEN">Ouvrir</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_CLOSE">Cryptage</string>
+<string name="NET_WIFI_HOT_SPOT_PWD">Mdp fort</string>
+<string name="NET_WIFI_HOT_SPOT_PWD_ERROR_TIP">8-24 lettres ou chiffres</string>
+<string name="NET_WIFI_HOT_SPOT_BTN_SAVE">Enregistrer</string>
+<string name="NET_WIFI_HOT_SPOT_NAME_ERROR_TIP">Remplir impérativement le nom</string>
+<!-- 无线列表选择 -->
+    <string name="NET_WIFI_SELECT_WPS">WIFI WPS:</string>
+<string name="NET_WIFI_SELECT_WPS_ENTER">Entrer</string>
+<string name="NET_WIFI_SELECT_LIST">liste des réseaux sans fil : </string>
+<string name="NET_WIFI_SELECT_OTHER_WIFI">Autres réseaux</string>
+<!-- 手动设置ip -->
+<string name="SKY_IP_SETTING_GREATER_THAN_255">La saisie ne doit pas dépasser 255</string>
+<string name="SKY_IP_SETTING_EMPTY_IP">Ne peut pas être vidé</string>
+    <string name="Sky_IP_SETTING_START_ZERO">IP number start with 0 not allowed</string>
+<string name="SKY_IP_SETTING_INVALID">IP non valide</string>
+<string name="SKY_IP_ASSIGNMENT_TYPE">Type d IP</string>
+<string name="SKY_IP_DHCP_STATIC">Statique</string>
+<string name="SKY_IP_DHCP_DYNAMIC">Dynamique</string>
+<string name="SKY_IP_TEXT">IP</string>
+<string name="SKY_GATEWAY_TEXT">PORTAIL</string>
+<string name="SKY_MASK_TEXT">Masquer</string>
+<string name="SKY_DNS_TEXT">DNS</string>
+<string name="SKY_BTN_CONNECT_TEXT">Relier</string>
+<!-- 输入网络密码 -->
+<string name="INPUT_WIFI_PWD_HINT">Saisir le mot de passe wifi : </string>
+<string name="INPUT_WIFI_PWD_EDIT">Mot de passe</string>
+    <string name="INPUT_WIFI_PWD_ERROR_TIPS">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_1">Note: the password length less than 8</string>
+    <string name="WIFI_HOT_PWD_ERROR_TIPS_2">Note: the password length is more than 64</string>
+<!-- 旧的网络设置使用，新的这些有可能被引用了 -->
+<string name="SKY_WIFI_OPEN">Wifi ouvert</string>
+<string name="SKY_WIFI_CLOSE">Wifi fermée</string>
+<string name="SKY_BTN_SET_WIFI_TEXT">Configuration IP</string>
+<string name="SKY_WIFI_SELECT_TEXT">Choisissez un WLAN</string>
+<string name="SKY_PUSH_TO_TALK_TEXT">WIFI WPS</string>
+<string name="SKY_OTHER_TEXT">Autre</string>
+<string name="SKY_WIFI_NAME_TEXT">SSID</string>
+<string name="SKY_ENCRYPTION_TEXT">Cryptage</string>
+<string name="SKY_PASSWORD_TEXT">Mot de passe : </string>
+<string name="SKY_PWD_LESS_THAN_8_DIGITS">Taille du mot de passe inférieure à 8</string>
+    <string name="SKY_PWD_NO_EMPTY">Empty password not allowed</string>
+
+<!-- AD -->
+<string name="TV_CFG_SWITCH_AD_TRUE">AD est ouvert !</string>
+    <string name="TV_CFG_SWITCH_AD_FALSE">AD is Close!</string>
+<string name="TV_CFG_SWITCH_AD_NONE">Non pris en charge</string>
+
+<!-- add_by_wangxian -->
+<string name="install_guide_welcome_message">Bienvenue au premier guide de réglage</string>
+<string name="left_item_language">Langue</string>
+<string name="left_item_timezone">Fuseau horaire</string>
+<string name="left_item_network">Réseau</string>
+<string name="left_item_searchmode">Mode de recherche</string>
+<string name="next_hint">Suivant</string>
+<string name="set_network">Réglage du réseau</string>
+<string name="installsearch">Rechercher</string>
+    <string name="searchhint">* Please press [OK] key to check</string>
+    <string name="netchoise_hint">Net Choise</string>
+<string name="netconnection">Connexion au Net</string>
+<string name="wiresetup">Ethernet</string>
+<string name="wirelesssetup">Wi-Fi PPPOE FAIL</string>
+<string name="wifiSetup">Configuration du Wifi</string>
+<string name="wifiButtonConnect">Relier</string>
+<string name="wifiButtonExit">QUITTER</string>
+<string name="wifiInvialidPwd">Mot de passe non valide !</string>
+<!-- add_by_zhuming  -->
+<!-- Aus time zone  -->
+<string name="TV_CFG_TIMEZONE_WA">Australie-Occidentale GMT +8</string>
+<string name="TV_CFG_TIMEZONE_SA">Australie du Sud GMT 9.5</string>
+<string name="TV_CFG_TIMEZONE_NT">Territoire du Nord GMT 9.5</string>
+<string name="TV_CFG_TIMEZONE_NSW">Nouvelle-Galles du Sud GMT +10</string>
+<string name="TV_CFG_TIMEZONE_VIC">Victoria GMT +10</string>
+<string name="TV_CFG_TIMEZONE_QLD">Queensland GMT +10</string>
+<string name="TV_CFG_TIMEZONE_TAS">Tasmanie GMT +10</string>
+<!-- Brazil time zone  -->
+    <string name="TV_CFG_TIMEZONE_F_NORONHA">GMT-2</string>
+    <string name="TV_CFG_TIMEZONE_BUENOS_AIRES">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_BRASILIA">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_NORTHEAST">GMT-3</string>
+    <string name="TV_CFG_TIMEZONE_M_GROSSO">GMT-4</string>
+    <string name="TV_CFG_TIMEZONE_ACRE">GMT-5</string>
+
+<!-- PVR  -->
+<string name="str_pvr_listview_item">TextView</string>
+<string name="str_player_recorder">Enregistreur</string>
+<string name="str_player_playab">A/B répéter</string>
+<string name="str_player_stop">Arrêtez</string>
+<string name="str_player_play">Jouez</string>
+<string name="str_player_pause">Pause</string>
+    <string name="str_player_rev">Rev</string>
+<string name="str_player_ff">FF</string>
+<string name="str_player_slow">Slow Motion</string>
+<string name="str_player_time">Lecture</string>
+<string name="str_player_forward">Avant</string>
+<string name="str_player_backward">Arriéré</string>
+<string name="str_pvr_is_recording">Enregistrement</string>
+<string name="str_pvr_mode_recorde">Enregistrement...</string>
+<string name="str_pvr_mode_timeshift">TimeShift ...</string>
+<string name="str_pvr_usb_free_space">Espace libre du dispositif USB</string>
+    <string name="str_pvr_usb_lable_name">USB Lable Name</string>
+
+<string name="str_pvr_record_exit_confirm">Enregistrement ... êtes-vous sûr de vouloir quitter?</string>
+<string name="str_pvr_timeshift_exit_confirm">Timeshifting activé... Voulez-vous vraiment quitter ?</string>
+<string name="str_pvr_program_saving">programme est stocké ... merci de patienter!</string>
+    <string name="str_info_pvr_playback_exit_confirm">Now playback... Do you really want to exit?</string>
+<string name="sky_pvr_support_disk_format">Système de fichiers PVR supporte uniquement le disque au format FAT!</string>
+<string name="str_pvr_insert_usb">S il vous plaît insérez le disque USB en premier!</string>
+    <string name="sky_pvr_record_false">Record false!</string>
+    <string name="sky_pvr_timeshift_false">Timeshift false!</string>
+    <string name="sky_pvr_disk_outofspace">Disk does not have enough space !</string>
+    <string name="sky_pvr_filesystem_unsupported">please, format your disk for FAT32 !</string>
+    <string name="sky_pvr_support_timeshift_fail">This program do not allow timeshift!</string>
+    <string name="sky_pvr_support_record_fail">This program do not allow record!</string>
+<string name="sky_pvr_record_list">Liste d enregistrements PVR</string>
+<string name="sky_pvr_record_list_lcn">LCN</string>
+<string name="sky_pvr_record_list_channel">CHAINE</string>
+<string name="sky_pvr_record_list_program">Emission</string>
+<string name="sky_pvr_record_list_recordtime">Durée d enregistrement</string>
+<string name="sky_pvr_record_list_delete">Supprimer</string>
+<string name="sky_pvr_record_list_index">INDEX</string>
+<string name="sky_pvr_record_list_ok">OK</string>
+<string name="sky_pvr_record_list_yellow">Plein écran</string>
+<string name="sky_pvr_record_list_descend">Descendre</string>
+<string name="sky_pvr_record_list_ascend">Monter</string>
+<string name="sky_pvr_record_list_delete_tip">Certain de vouloir supprimer cet élément ?</string>
+
+<!-- Channel Info  -->
+<string name="str_source_info_channel">Chaîne : </string>
+<string name="str_source_info_audioformat">Format audio : </string>
+<string name="str_source_info_subtitle">Sous-titrage :</string>
+<string name="str_source_info_chname">Nom CH : </string>
+<string name="str_source_info_videoformat">Format vidéo : </string>
+<string name="str_source_info_audiolanguage">Langue audio : </string>
+<string name="str_source_info_resolution">Résolution:</string>
+<string name="str_source_info_age">Âge : </string>
+<string name="str_source_info_time">Temps :</string>
+<string name="str_source_info_programtype">Type d émission : </string>
+<string name="str_source_info_programname">Nom de l’émission : </string>
+<string name="str_source_info_category">Catégorie d émission : </string>
+<string name="str_source_info_no_information">Aucune information</string>
+
+<string name="str_time_hour">Heure</string>
+<string name="str_time_minute">Minute</string>
+<string name="str_time_second">Secondes</string>
+
+<string name="str_common">Common</string>
+<string name="str_scan_atv">ATV</string>
+<string name="str_scan_dtv">DTV</string>
+<string name="str_scan_atv_dtv">ATV+DTV</string>
+    <string name="str_scan_air">Antena</string>
+<string name="str_scan_cable">Cable</string>
+    <string name="str_scan_air_cable">Antena+Cable</string>
+
+<!-- LNB Setting -->
+<string name="str_lnb_setup_title">Configuration LNB</string>
+<string name="str_satellite_list">Satellite</string>
+<string name="str_lnb_setup_list">Préférences</string>
+<string name="str_responder_list">60 Min</string>
+<string name="str_lnb_item_add">Ajouter</string>
+<string name="str_lnb_item_Position">Position</string>
+<string name="str_lnb_item_limit">Limiter</string>
+<string name="str_lnb_item_location">emplacement</string>
+<string name="str_lnb_item_scan">Analyser</string>
+<string name="str_lnb_item_edit">Éditer</string>
+<string name="str_lnb_item_delete">Supprimer</string>
+<string name="str_lnb_signal_quality">Qualité</string>
+<string name="str_lnb_signal_strength">Intensité</string>
+<string name="str_lnb_signal_add">Ajouter</string>
+<string name="str_lnb_signal_edit">Éditer</string>
+<string name="str_lnb_signal_scan">Analyser</string>
+<string name="str_lnb_signal_delete">Supprimer</string>
+<string name="str_lnb_signal_number_title">Nombre</string>
+<string name="str_lnb_signal_name_title">Nom du satellite</string>
+    <string name="str_lnb_signal_derection_title">Longitude Derection</string>
+<string name="str_lnb_signal_angle_title">Angle Longitude</string>
+<string name="str_lnb_signal_band_title">Band</string>
+<string name="str_lnb_signal_comfirm_button">Lancer la recherche</string>
+<string name="str_lnb_signal_scan_mode_title">Mode de numérisation</string>
+<string name="str_lnb_signal_network_search_title">Réseau de Recherche</string>
+<string name="str_lnb_signal_service_type_title">Type de service</string>
+<string name="str_lnb_signal_search_option_title">Option de recherche</string>
+<string name="str_lnb_transponder_frequency">Fréquence</string>
+<string name="str_lnb_transponder_symbol_rate">Taux de symbole</string>
+<string name="str_lnb_transponder_polarization">Polarisation</string>
+
+<string name="TV_CFG_LNB_LNB_TAPY_UNIVERSAL">UNIVERSEL 9750 / 10600</string>
+<string name="TV_CFG_LNB_LNB_TAPY_MDU_1">MDU1 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_2">MDU2 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_3">MDU3 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_MDU_4">MDU4 0 / 0</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_MHZ">5150MHZ 5150 / 5150</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5750_MHZ">5750MHZ 5750 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_5150_5750_MHZ">5150/5750MHZ 5150 / 5750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_MHZ">9750MHZ 9750 / 9750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10750_MHZ">10750MHZ 10750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_10600_MHZ">10600MHZ 10600 / 10600</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11250_MHZ">11250MHZ 11250 / 11250</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11300_MHZ">11300MHZ 11300 / 11300</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_11475_MHZ">11475MHZ 11475 / 11475</string>
+    <string name="TV_CFG_LNB_LNB_TAPY_9750_10700_MHZ">9750/10700MHZ 9750 / 10700</string>
+    <string name="TV_CFG_LNB_LNB_9750_10750_MHZ">9750/10750MHZ 9750 / 10750</string>
+    <string name="TV_CFG_LNB_LNB_10000_10450_MHZ">10000/10450MHZ 10000 / 10450</string>
+<string name="TV_CFG_LNB_LNB_USER_MODE">MODE UTILISATEUR</string>
+
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_V">V</string>
+<string name="TV_CFG_DVBS_MANUAL_POLARIZATION_H">H</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE">Libre</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_FREE_SCRAMBLE">Scramble+gratuit</string>
+<string name="TV_CFG_DVBS_MANUAL_SCAN_MODE_SCRAMBLE">Scramble</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_OFF">Off</string>
+<string name="TV_CFG_DVBS_MANUAL_NETWORK_SEARCH_ON">On</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV">DTV</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_DTV_RADIO">DTV+Radio</string>
+<string name="TV_CFG_DVBS_MANUAL_SERVICE_TYPE_RADIO">RADIO</string>
+<string name="TV_CFG_LNB_POWER_OFF">Off</string>
+    <string name="TV_CFG_LNB_POWER_13V_18V">13V/18V</string>
+    <string name="TV_CFG_LNB_POWER_13V">13V</string>
+    <string name="TV_CFG_LNB_POWER_18V">18V</string>
+    <string name="TV_CFG_LNB_POWER_14V_19V">14V/19V</string>
+    <string name="TV_CFG_LNB_POWER_14V">14V</string>
+    <string name="TV_CFG_LNB_POWER_19V">19V</string>
+<string name="TV_CFG_AUTO">Auto</string>
+<string name="TV_CFG_ON">On</string>
+<string name="TV_CFG_OFF">Off</string>
+<string name="TV_CFG_BURST_A">RAFALE A</string>
+<string name="TV_CFG_BURST_B">RAFALE B</string>
+
+<string name="TV_CFG_NONE">Vide</string>
+<string name="TV_CFG_LNB_1">LNB 1</string>
+    <string name="TV_CFG_LNB_2">LNB 2</string>
+    <string name="TV_CFG_LNB_3">LNB 3</string>
+    <string name="TV_CFG_LNB_4">LNB 4</string>
+    <string name="TV_CFG_LNB_5">LNB 5</string>
+    <string name="TV_CFG_LNB_6">LNB 6</string>
+    <string name="TV_CFG_LNB_7">LNB 7</string>
+    <string name="TV_CFG_LNB_8">LNB 8</string>
+    <string name="TV_CFG_LNB_9">LNB 9</string>
+    <string name="TV_CFG_LNB_10">LNB 10</string>
+    <string name="TV_CFG_LNB_11">LNB 11</string>
+    <string name="TV_CFG_LNB_12">LNB 12</string>
+    <string name="TV_CFG_LNB_13">LNB 13</string>
+    <string name="TV_CFG_LNB_14">LNB 14</string>
+    <string name="TV_CFG_LNB_15">LNB 15</string>
+    <string name="TV_CFG_LNB_16">LNB 16</string>
+
+    <string name="TV_CFG_LNB_DIS_EQC_10_ENUM_TYPE">DisEqc 1.0</string>
+    <string name="TV_CFG_LNB_DIS_EQC_11_ENUM_TYPE">DisEqc 1.1</string>
+    <string name="TV_CFG_LNB_DIS_EQC_12_ENUM_TYPE">DisEqc 1.2</string>
+    <string name="TV_CFG_LNB_DIS_EQC_13_ENUM_TYPE">DisEqc 1.3</string>
+<string-array name="str_lnb_option_list">
+<item>Répéteur</item>
+<item>Alimentation LNB</item>
+<item>Câble long</item>
+<item>22KHz ton</item>
+<item>Type de LNB</item>
+<item>DiSEqC1.0</item>
+<item>DiSEqC1.1</item>
+        <item>Motor</item>
+</string-array>
+<string-array name="str_array_scan_mode">
+<item>Libre</item>
+<item>Scramble+gratuit</item>
+<item>Scramble</item>
+</string-array>
+<string-array name="str_array_network_search_option">
+<item>Off</item>
+<item>On</item>
+</string-array>
+<string-array name="str_array_service_type">
+<item>DTV</item>
+<item>DTV+Radio</item>
+<item>RADIO</item>
+</string-array>
+<string-array name="str_array_search_option">
+<item>Balayage aveugle</item>
+<item>Analyse rapide</item>
+</string-array>
+<string name="str_title_motor_setting">Réglage du moteur</string>
+<string-array name="str_array_move_setup_option">
+<item>Arrêtez</item>
+<item>EST</item>
+<item>OUEST</item>
+</string-array>
+<string-array name="str_array_longitude_direction_option">
+<item>EST</item>
+<item>OUEST</item>
+</string-array>
+<string-array name="str_array_latitude_direction_option">
+<item>Nord</item>
+<item>Sud</item>
+</string-array>
+<string name="str_moto_set_moto_auto">Moteur automatique</string>
+    <string name="str_moto_set_moto_continue">Motor Continue</string>
+<string name="str_moto_set_move_setup">Réglage du mouvement</string>
+<string name="str_moto_set_store_positon">Position magasin</string>
+<string name="str_moto_set_go_to_position">Aller vers une position</string>
+<string name="str_moto_set_go_to_reference">Aller à la référence</string>
+<string name="str_moto_set_set_west_limit">Définir la limite de l Ouest</string>
+<string name="str_moto_set_set_east_limit">Définir la limite Est</string>
+<string name="str_moto_set_disable_limit">Désactiver la limite de</string>
+<string name="str_moto_set_go_to_x">Aller vers X</string>
+<string name="str_moto_set_location">emplacement</string>
+<string name="str_moto_set_longitude_direction">Coordonnées longitudinales</string>
+<string name="str_moto_set_longitude_angle">Angle Longitude</string>
+<string name="str_moto_set_latitude_direction">Direction Latitude</string>
+<string name="str_moto_set_latitude_angle">Angle Latitude</string>
+<string-array name="str_array_satellite_derection">
+<item>EST</item>
+<item>OUEST</item>
+</string-array>
+<string-array name="str_array_satellite_band">
+<item>C</item>
+<item>Ku</item>
+</string-array>
+    <string-array name="str_array_transponder_polarization">
+        <item>V</item>
+        <item>H</item>
+    </string-array>
+
+<!-- factory hotkey -->
+<string name="str_age_mode">M</string>
+<string name="str_bus_off">BUS OFF</string>
+    <string name="str_mac_addr">MAC ADDR : </string>
+    <string name="str_bar_code">BAR CODE : </string>
+
+<!-- Tips -->
+<string name="str_enter">Entrer</string>
+<string name="str_no_signal">SANS SIGNAL</string>
+<string name="str_audio_only">AUDIO SEULEMENT</string>
+<string name="str_data_only">Seules les données</string>
+<string name="str_program_lock">Programme verrouillé</string>
+<string name="str_invalid_service">Service non valide</string>
+<string name="str_no_ci_module">Pas de module CI</string>
+<string name="str_ci_plus_authentication">Authentification CI Plus</string>
+<string name="str_scrambled_program">Programme brouillé</string>
+<string name="str_unsupported_format">Unsupported Format</string>
+    <string name="str_auto_adjust">Auto Adjust...</string>
+<string name="str_please_wait">Veuillez patienter…</string>
+    <string name="str_auto_adjust_success">Adjust Success!</string>
+    <string name="str_auto_adjust_fail">Adjust Fail!</string>
+<string name="str_tip_reset_tv">l opération de suppression des informations, et le système redémarre, vous êtes sûr?</string>
+    <string name="str_tip_off_timer">The time you have set in the past, please re-set!</string>
+    <string name="str_tip_plug_usb">No USB pluged or the format is wrong!</string>
+<string name="str_tip_usb_format">êtes-vous sûr de formater le disque sélectionné?</string>
+<string name="str_tip_usb_checking">Vérification rapide...</string>
+<string name="str_tip_unplug_usb">Ne débranchez pas le périphérique USB !</string>
+    <string name="str_tip_warning_usb_checking">Do you want to check speed of the selected disk?</string>
+<string name="str_tip_delete_program">Suppression du programme réussie !</string>
+    <string name="str_tip_last_item">The late one be deleted!</string>
+<string name="str_tip_move_program">Déplacement du programme réussi !</string>
+<string name="str_tip_update_channel_list">Mise à jour des chaînes réussie !</string>
+<string name="str_tip_updating_channel_list">Mise à jour des chaînes, patientez...</string>
+<string name="str_tip_empty_channel_list">Liste des chaînes vide !</string>
+    <string name="str_tip_empty_epg_list">The Program No EPG!</string>
+    <string name="str_tip_switch_to_radio">Swtich To Radio!</string>
+    <string name="str_tip_switch_to_dtv">Swtich To DTV!</string>
+    <string name="str_tip_loading_chlist_title">Loading Channel List</string>
+<string name="str_tip_loading_chlist_content">Veuillez patienter…</string>
+<string name="str_tip_ciplus_op_confirmation_title">Confirmez actualisation CI+ OP</string>
+<string name="str_tip_ciplus_op_refresh">Do you allow TV to do operator profile refresh?</string>
+    <string name="str_tip_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_tip_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+    <string name="str_tip_cha_please_wait">CI invoke route switch ...</string>
+    <string name="str_tip_ci_async_cmd_switch_route">Wait a Moment Please</string>
+    <string name="str_tip_switch_language">Language is switching...Do not operate!</string>
+
+<string name="str_cha_programedit">éditer le programme</string>
+<string name="str_list_menu_hint_b_skip">SAUTER</string>
+<string name="str_list_menu_hint_g_fivorite">Préféré</string>
+<string name="str_list_menu_hint_g_edit">Éditer</string>
+<string name="str_list_menu_hint_r_delete">Supprimer</string>
+<string name="str_list_menu_hint_y_move">DÉPLACER</string>
+<string name="str_lock_system">Système de verrouillage</string>
+<string name="str_lock">Vérrouiller</string>
+
+<!-- for ci+ op -->
+<string name="str_ciplus_op_confirmation_title">Confirmez actualisation CI+ OP</string>
+<string name="str_ciplus_op_refresh">Do you allow TV to do operator profile refresh?</string>
+<string name="str_op_menu_title">Menu des profiles d opérateur</string>
+    <string name="str_op_channel_list_title">OP Profile Menu</string>
+<string name="str_op_menu">Menu OP</string>
+    <string name="str_op_forbid_channel_tuning_content">Forbid to do channel tune under OP mode.\nPlease exit OP mode at first.</string>
+<string name="str_enter_op">Enter OP</string>
+<string name="str_exit_op">Exit OP</string>
+<string name="str_delete_profile">Delete Profile</string>
+    <string name="str_delete_op_msg">Are you sure to delete the operator profile [</string>
+<string name="str_delete_op_confirm">Confirmez la suppression OP</string>
+<string name="str_forbid_channel_tuning">Interdire recherche des chaînes</string>
+    <string name="str_cam_upgrade_alarm">CAM is under upgrading.\nPlease try later...</string>
+    <string name="str_op_tuning_alarm">OP is tuning.\nPlease try later...</string>
+
+
+<!-- for program edit -->
+<string name="str_program_edit_dialog_ok">OK</string>
+<string name="str_program_edit_dialog_cancel">Annuler</string>
+<string name="str_program_edit_dialog_input">Veuillez saisir</string>
+<string name="str_no_sinal">SANS SIGNAL</string>
+<string name="str_channelList_favorite">Liste des Favoris</string>
+<string name="str_channelList_program">Liste des chaînes</string>
+    <string name="program_guide_time">Program Guide:Time</string>
+
+<string name="str_stop_record_dialog_title">ARRÊTER L ENREGISTREMENT</string>
+    <string name="str_stop_record_dialog_message">System will stop record if user want to channel change</string>
+    <string name="str_stop_record_playback_dialog_message">System will stop record and playback if user want to channel change</string>
+<string name="str_stop_record_dialog_confirm">Confirmez</string>
+<string name="str_stop_record_dialog_cancel">Annuler</string>
+<string name="str_stop_record_dialog_stop">Arrêtez</string>
+    <string name="str_stop_playback_dialog_title">STOP PLAYBACKING</string>
+    <string name="str_stop_playback_dialog_message">System will stop playback if user want to channel change</string>
+<string name="str_disk_too_slow">Vitesse de disque insuffisante</string>
+
+
+<string name="str_ci_insert">CI inséré</string>
+<string name="str_ci_remove">CI enlevé</string>
+<string name="str_ci_autotest">Autotest CI</string>
+
+<!-- for program category -->
+<string name="TV_PROG_CATEGORY_MOVIE">FILM</string>
+<string name="TV_PROG_CATEGORY_NEWS">Voix</string>
+<string name="TV_PROG_CATEGORY_SHOW">spectacle</string>
+<string name="TV_PROG_CATEGORY_SPORT">sport</string>
+<string name="TV_PROG_CATEGORY_CHILDREN">enfants</string>
+<string name="TV_PROG_CATEGORY_MUSIS">MUSIQUE</string>
+<string name="TV_PROG_CATEGORY_ARTS">arts</string>
+<string name="TV_PROG_CATEGORY_SOCIAL">social</string>
+<string name="TV_PROG_CATEGORY_EDUCATION">Éducation</string>
+<string name="TV_PROG_CATEGORY_LEISURE">loisir</string>
+<string name="TV_PROG_CATEGORY_SPECIAL">spécial</string>
+<string name="TV_PROG_CATEGORY_CONSTANT">constant</string>
+    <string name="TV_PROG_CATEGORY_USER_DEFINDED">user defined</string> 
+<string name="TV_PROG_CATEGORY_UNDEFINDED">indéfini</string>
+
+<string name="TV_VGA_RESOLUTION_UNSUPPORT">Pas de support</string>
+<string name="SKY_CFG_TV_SWITCH_LANG_WILL_REBOOT_TV">Réinitialisation automatique du téléviseur au changement de langues</string>
+</resources>
